@@ -7,7 +7,7 @@ window start) and p_up_1m .. p_up_4m (price N minutes into the window).
 
 Usage: python fetch_updown_odds.py [in.csv] [out.csv]
 """
-import csv, json, os, sys, time, urllib.request
+import csv, json, os, subprocess, sys, time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib.parse import urlencode
 
@@ -18,8 +18,10 @@ CACHE = "odds_cache.jsonl"
 def get(url, tries=4):
     for attempt in range(tries):
         try:
-            with urllib.request.urlopen(url, timeout=15) as r:
-                return json.load(r)
+            # curl, because the CLOB endpoint's Cloudflare rule rejects urllib.
+            out = subprocess.run(["curl", "-sSf", "-m", "15", url], capture_output=True,
+                                 check=True, text=True).stdout
+            return json.loads(out)
         except Exception:
             time.sleep(1 + attempt)
     return None

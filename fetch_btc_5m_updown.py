@@ -4,7 +4,8 @@ Uses the public Polymarket Gamma API (no account or key needed). Each market
 resolves on Chainlink's BTC/USD price: 'priceToBeat' is the price at window
 start and 'finalPrice' is the price at window end.
 
-Usage: python fetch_btc_5m_updown.py [days] [out.csv]
+Usage: python fetch_btc_5m_updown.py [days] [out.csv] [asset]
+  asset: btc (default), eth, sol, xrp, ...
 """
 import csv, json, sys, time, urllib.request
 from concurrent.futures import ThreadPoolExecutor
@@ -45,9 +46,10 @@ def row(ev):
 def main():
     days = int(sys.argv[1]) if len(sys.argv) > 1 else 30
     out = sys.argv[2] if len(sys.argv) > 2 else "btc_5m_updown.csv"
+    asset = sys.argv[3] if len(sys.argv) > 3 else "btc"
     last = (int(time.time()) // 300 - 1) * 300  # latest window already finished
     starts = range(last - days * 86400 + 300, last + 1, 300)
-    slugs = [f"btc-updown-5m-{t}" for t in starts]
+    slugs = [f"{asset}-updown-5m-{t}" for t in starts]
     batches = [slugs[i:i + BATCH] for i in range(0, len(slugs), BATCH)]
     with ThreadPoolExecutor(8) as ex:
         events = [e for res in ex.map(fetch, batches) for e in res]
