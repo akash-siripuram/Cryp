@@ -1,6 +1,5 @@
 odds_cache.jsonl
 research/run.log
-research/results.tsv
 __pycache__/
 fetch*.log
 data/*_spot_1m.csv

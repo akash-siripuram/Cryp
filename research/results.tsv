@@ -1,0 +1,13 @@
+commit	val_pct_per_day	val_bets	status	description
+9e12c38	0.0000	0	discard	recalibrated market at k=1, margin .02, quarter Kelly
+56e3638	-0.6482	307	discard	recal k=1, margin 0, quarter Kelly
+e657a8c	0.0000	0	discard	recal k=2, margin 0
+f6e06f6	-0.1491	3155	discard	favorite at k=1 in [.55,.65), 2% stake
+1b0f028	-29.1287	3182	discard	fade minute1->2 move >.15 at k=2
+902a502	-3.6363	3182	discard	follow minute1->2 move >.15 at k=2
+acf9eab	-2.1289	590	discard	favorite at k=1 in [.70,.80), 2% stake
+37e61cb	0.0550	128	discard	SOL: recal k=0 margin 0 (noise-level, 128 bets)
+37e61cb	-0.1828	2549	discard	SOL: recal k=1 margin 0
+37e61cb	0.0000	0	discard	ETH: recal k=0..2 margin 0 (no bets)
+400d0c9	2.7474	262	discard	XRP: recal k=0 - artifact: profit from ~20 bets in one night (Sep 26-27) of odd 0.31/0.69 opening quotes | TEST (one-shot): -1.25%/day, -27%, maxDD 46%
+400d0c9	-0.0594	619	discard	XRP: recal k=1
