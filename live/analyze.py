@@ -45,3 +45,28 @@ for H in (1, 2, 4):
                          (d.bid - d.ask_later - fee(d.bid) - fee(d.ask_later))[dnj]]).dropna()
         if len(pnl):
             print(f"hold {5*H:2d}s, spot-jump >{th:.2f}: trades {len(pnl):4d}, avg P&L per share after spread+fees {pnl.mean()*100:+.2f}c")
+
+# Hold to settlement: buy after a spot jump, keep until the window resolves (one fee only).
+import subprocess
+def result(w):
+    try:
+        out = subprocess.run(["curl", "-sSf", "-m", "10", f"https://gamma-api.polymarket.com/events?slug=btc-updown-5m-{int(w)}"],
+                             capture_output=True, text=True, check=True).stdout
+        m = json.loads(out)[0]["markets"][0]
+        pr = json.loads(m["outcomePrices"]); oc = json.loads(m["outcomes"])
+        return 1.0 if oc[pr.index("1")] == "Up" else 0.0
+    except Exception:
+        return np.nan
+res = {w: result(w) for w in d.w.unique()}
+d["up_won"] = d.w.map(res)
+fee = lambda p: 0.07 * p * (1 - p)
+for th in (0.02, 0.05, 0.10):
+    for lo, hi in ((20, 150), (150, 280)):
+        sel = ok & d.sec.between(lo, hi) & d.up_won.notna()
+        first_up = d[sel & (d.d_fair > th)].groupby("w").head(1)      # one trade per window and direction
+        first_dn = d[sel & (d.d_fair < -th)].groupby("w").head(1)
+        pnl = pd.concat([first_up.up_won - first_up.ask - fee(first_up.ask),
+                         (1 - first_dn.up_won) - (1 - first_dn.bid) - fee(1 - first_dn.bid)])
+        if len(pnl):
+            print(f"hold to settlement, jump >{th:.2f}, entry {lo}-{hi}s: trades {len(pnl):3d}, "
+                  f"avg P&L/share {pnl.mean()*100:+.2f}c, win {np.mean(pnl > 0):.2f}")
