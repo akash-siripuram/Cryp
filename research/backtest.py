@@ -18,11 +18,11 @@ Rules:
 Score = mean daily log-growth of bankroll on VAL, shown as % per day.
 Test is only evaluated with --final; never use it to choose between ideas.
 """
-import sys, importlib
+import os, sys, importlib
 import numpy as np
 import pandas as pd
 
-DATA = "../data/btc_5m_120d_odds.csv"
+DATA = f"../data/{os.environ.get('ASSET', 'btc')}_5m_120d_odds.csv"   # ASSET=btc|eth|sol|xrp
 SLIPPAGE = 0.01      # dollars per share above the quoted price
 FEE = 0.01           # fraction of stake (approximate taker fee)
 MAX_FRACTION = 0.10
