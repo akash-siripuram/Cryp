@@ -8,7 +8,7 @@ import numpy as np
 from sklearn.linear_model import LogisticRegression
 
 K = 1
-MARGIN = 0.02
+MARGIN = 0.0
 KELLY_MULT = 0.25
 SLIP, FEE = 0.01, 0.01
 COL = ["p_up_open", "p_up_1m", "p_up_2m", "p_up_3m", "p_up_4m"][K]
