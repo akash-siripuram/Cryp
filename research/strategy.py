@@ -7,7 +7,7 @@ stake = KELLY_MULT * Kelly fraction.
 import numpy as np
 from sklearn.linear_model import LogisticRegression
 
-K = 1
+K = 2
 MARGIN = 0.0
 KELLY_MULT = 0.25
 SLIP, FEE = 0.01, 0.01
