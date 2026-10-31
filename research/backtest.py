@@ -12,7 +12,7 @@ Rules:
   from earlier rows. The harness checks this by re-running decide() on
   truncated copies whose not-yet-known fields are scrambled.
 - You buy at the market price at entry (p_up_km for Up, 1 - p_up_km for Down)
-  plus SLIPPAGE, and pay FEE on the stake. A winning share pays $1.
+  plus SLIPPAGE, and pay Polymarket's taker fee FEE_RATE*p*(1-p) per share. A winning share pays $1.
 - Stake per bet is capped at MAX_FRACTION of bankroll.
 
 Score = mean daily log-growth of bankroll on VAL, shown as % per day.
@@ -24,7 +24,8 @@ import pandas as pd
 
 DATA = f"../data/{os.environ.get('ASSET', 'btc')}_5m_120d_odds.csv"   # ASSET=btc|eth|sol|xrp
 SLIPPAGE = 0.01      # dollars per share above the quoted price
-FEE = 0.01           # fraction of stake (approximate taker fee)
+FEE_RATE = 0.07      # Polymarket crypto taker fee per share = FEE_RATE * p * (1 - p)
+FEE = 0.0            # legacy flat fee as fraction of stake (kept for strategy imports)
 MAX_FRACTION = 0.10
 PRE_OPEN = ["start_ts", "start_utc", "slug", "price_to_beat", "p_up_open"]
 MINUTE_COLS = ["p_up_open", "p_up_1m", "p_up_2m", "p_up_3m", "p_up_4m"]
@@ -64,8 +65,10 @@ def simulate(df, out):
     up = (df["result"] == "Up").values
     p_up = df[MINUTE_COLS].values[np.arange(len(df)), ent]
     price = np.minimum(np.where(side > 0, p_up, 1 - p_up) + SLIPPAGE, 0.999)
+    p_eff = np.clip(price, 0.001, 0.999)
     win = np.where(side > 0, up, ~up)
-    ret = np.where(side == 0, 0.0, frac * (np.where(win, 1 / price - 1, -1.0) - FEE))
+    fee_per_dollar = FEE_RATE * p_eff * (1 - p_eff) / price    # fee on the shares bought
+    ret = np.where(side == 0, 0.0, frac * (np.where(win, 1 / price - 1, -1.0) - fee_per_dollar))
     logg = np.log1p(ret)
     day = pd.to_datetime(df["start_ts"], unit="s").dt.floor("D")
     daily = pd.Series(logg).groupby(day.values).sum()

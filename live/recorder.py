@@ -2,7 +2,7 @@
 (both tokens) and Coinbase BTC-USD bid/ask, for measuring real spreads and
 sub-minute lead/lag. Read-only, public endpoints, no trading.
 
-Usage: python live/recorder.py HOURS OUT.jsonl
+Usage: python live/recorder.py HOURS OUT.jsonl [INTERVAL_SECONDS=5]
 """
 import json, subprocess, sys, time
 
@@ -22,6 +22,7 @@ def top(book):
 
 def main():
     hours, out = float(sys.argv[1]), sys.argv[2]
+    step = float(sys.argv[3]) if len(sys.argv) > 3 else 5.0
     end, toks, cur = time.time() + hours * 3600, None, None
     with open(out, "a") as f:
         while time.time() < end:
@@ -39,7 +40,7 @@ def main():
                 for side, tok in toks.items():
                     rec[side] = top(get(f"https://clob.polymarket.com/book?token_id={tok}"))
             f.write(json.dumps(rec) + "\n"); f.flush()
-            time.sleep(max(0, 5 - (time.time() - t0)))
+            time.sleep(max(0, step - (time.time() - t0)))
 
 if __name__ == "__main__":
     main()
