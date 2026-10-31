@@ -22,7 +22,7 @@ import sys, importlib
 import numpy as np
 import pandas as pd
 
-DATA = "../btc_5m_updown_30d_odds.csv"
+DATA = "../data/btc_5m_120d_odds.csv"
 SLIPPAGE = 0.01      # dollars per share above the quoted price
 FEE = 0.01           # fraction of stake (approximate taker fee)
 MAX_FRACTION = 0.10
