@@ -1,6 +1,6 @@
 """Back the favorite at minute 1 when its price is in [LO, HI), fixed stake."""
 import numpy as np
-LO, HI, STAKE = 0.55, 0.65, 0.02
+LO, HI, STAKE = 0.70, 0.80, 0.02
 def fit(train): pass
 def decide(df):
     p = df["p_up_1m"].values
