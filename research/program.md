@@ -26,5 +26,5 @@ clearly robust.
 - Never read or score the test split while searching. Only at the very end run
   `python backtest.py --final` once on the chosen strategy.
 - No look-ahead: a row's decision may use only its pre-open fields
-  (`start_ts`, `price_to_beat`, `p_up_open`) and earlier rows. The harness enforces this.
+  (`start_ts`, `price_to_beat`, `p_up_open`, and `p_up_1m`..`p_up_km` when entering at minute k) and earlier rows. The harness enforces this.
 - Prefer simple strategies; many tried ideas inflate the chance a val win is luck.
