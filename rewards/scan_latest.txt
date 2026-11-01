@@ -1,0 +1,27 @@
+14631 markets with reward configs; total daily pool $227,372
+largest daily pools ($): [3002, 2500, 2000, 2000, 1750, 1714, 1714, 1500, 1200, 1200, 1200, 1000, 1000, 1000, 1000]
+$514.285714/day | $       0 near mid | 514285.71/1k | mid 0.10 spr 19.9c v=2.5 min=1000 | 2026-11-01T00:00:00Z | 1H Spread: UNLV (-17.5)
+$   250/day | $       0 near mid | 250000.0/1k | mid 0.47 spr 30.0c v=5.5 min=100 | 2027-02-18T00:00:00Z | Will Miley Cyrus appear at the 2027 Big Game halftime show?
+$   204/day | $       0 near mid | 204000.0/1k | mid 0.41 spr 26.1c v=4.5 min=20 | 2026-11-12T00:00:00Z | Will Gemini Carbon be released on November 11, 2026?
+$   200/day | $       0 near mid | 200000.0/1k | mid 0.47 spr 25.0c v=6.5 min=20 | 2026-11-02T00:00:00Z | Republican House odds dip to 6% by November 1?
+$   146/day | $       0 near mid | 146000.0/1k | mid 0.76 spr 14.0c v=4.5 min=20 | 2026-11-11T00:00:00Z | Will Core CPI YoY be 2.6% in October?
+$   143/day | $       0 near mid | 143000.0/1k | mid 0.43 spr 28.0c v=6.5 min=20 | 2026-11-02T00:00:00Z | Will voter turnout in the second round of the 2026 Bulgaria presidenti
+$   143/day | $       0 near mid | 143000.0/1k | mid 0.47 spr 25.0c v=4.5 min=100 | 2026-11-01T00:00:00Z | Will MrBeast's next video get between 30 and 35 million views on day 1
+$   136/day | $       0 near mid | 136000.0/1k | mid 0.56 spr 21.0c v=4.5 min=100 | 2026-11-01T00:00:00Z | Will MrBeast's next video get between 35 and 40 million views on day 1
+$   106/day | $       0 near mid | 106000.0/1k | mid 0.66 spr 22.0c v=4.5 min=20 | 2026-11-23T00:00:00Z | Will the Bank of Israel make no change to the Bank of Israel Interest 
+$102.857143/day | $       0 near mid | 102857.14/1k | mid 0.50 spr 99.8c v=2.5 min=1000 | 2026-11-01T00:00:00Z | Boise State Team Total: O/U 29.5
+$102.857143/day | $       0 near mid | 102857.14/1k | mid 0.81 spr 29.0c v=2.5 min=1000 | 2026-11-01T00:00:00Z | Northern Illinois Team Total: O/U 29.5
+$102.857143/day | $       0 near mid | 102857.14/1k | mid 0.54 spr 73.0c v=2.5 min=1000 | 2026-11-01T00:00:00Z | Northern Illinois Team Total: O/U 32.5
+$   100/day | $       0 near mid | 100000.0/1k | mid 0.33 spr 33.0c v=6.5 min=20 | 2026-12-01T00:00:00Z | Will Trump speak to Ahmed al-Sharaa by November 30?
+$   100/day | $       0 near mid | 100000.0/1k | mid 0.41 spr 41.0c v=6.5 min=20 | 2026-12-01T00:00:00Z | Will Trump speak to Elon Musk by November 30?
+$   100/day | $       0 near mid | 100000.0/1k | mid 0.29 spr 56.0c v=2.5 min=1000 | 2026-11-01T00:00:00Z | Kenneth Walker: Anytime Touchdown
+$   100/day | $       0 near mid | 100000.0/1k | mid 0.23 spr 44.0c v=2.5 min=1000 | 2026-11-02T00:00:00Z | Johnny Mundt: Anytime Touchdown
+$   100/day | $       0 near mid | 100000.0/1k | mid 0.39 spr 7.0c v=2.5 min=1000 | 2026-11-02T00:00:00Z | Rachaad White: Anytime Touchdown
+$   100/day | $       0 near mid | 100000.0/1k | mid 0.66 spr 5.0c v=2.5 min=1000 | 2026-11-01T00:00:00Z | Javonte Williams: Anytime Touchdown
+$   100/day | $       0 near mid | 100000.0/1k | mid 0.35 spr 14.0c v=2.5 min=1000 | 2026-11-01T00:00:00Z | Jonathan Taylor: Anytime Touchdown
+$   100/day | $       0 near mid | 100000.0/1k | mid 0.47 spr 35.0c v=6.5 min=20 | 2026-12-01T00:00:00Z | Will Trump speak to Friedrich Merz by November 30?
+$   100/day | $       0 near mid | 100000.0/1k | mid 0.41 spr 80.0c v=2.5 min=1000 | 2026-11-02T00:00:00Z | Colson Yankoff: Anytime Touchdown
+$   100/day | $       0 near mid | 100000.0/1k | mid 0.29 spr 7.0c v=2.5 min=1000 | 2026-11-01T00:00:00Z | Brenton Strange: Anytime Touchdown
+$   100/day | $       0 near mid | 100000.0/1k | mid 0.33 spr 20.0c v=6.5 min=20 | 2026-12-01T00:00:00Z | Will Trump speak to Mark Rutte by November 30?
+$   100/day | $       0 near mid | 100000.0/1k | mid 0.51 spr 36.0c v=6.5 min=20 | 2026-12-01T00:00:00Z | Will Trump speak to Emmanuel Macron by November 30?
+$   100/day | $       0 near mid | 100000.0/1k | mid 0.44 spr 8.0c v=2.5 min=1000 | 2026-11-01T00:00:00Z | Braelon Allen: Anytime Touchdown

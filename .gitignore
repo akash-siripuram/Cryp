@@ -4,3 +4,4 @@ __pycache__/
 fetch*.log
 data/*_spot_1m.csv
 live/*.jsonl
+rewards/*.jsonl*
