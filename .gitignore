@@ -3,3 +3,5 @@ paper_state.json*
 trades.csv
 __pycache__/
 .env
+reports_run.log
+nohup.out
