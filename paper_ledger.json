@@ -1,0 +1,116 @@
+{
+  "cash": 90.0,
+  "open": [
+    {
+      "market_id": "5987188",
+      "question": "Will 1win launch a token by October 31, 2026?",
+      "outcome": "No",
+      "entry": 0.001,
+      "shares": 1000.0,
+      "cost": 1.0,
+      "opened_at": "2026-11-01T21:19:51+00:00",
+      "end_date": "2026-11-01T03:59:00Z",
+      "last_bid": 0.0
+    },
+    {
+      "market_id": "5603314",
+      "question": "Raiders vs. Jets",
+      "outcome": "Jets",
+      "entry": 0.001,
+      "shares": 1000.0,
+      "cost": 1.0,
+      "opened_at": "2026-11-01T21:19:51+00:00",
+      "end_date": "2026-11-01T18:00:00Z",
+      "last_bid": 0.0
+    },
+    {
+      "market_id": "6273635",
+      "question": "Will Republicans win Alaska, Iowa, Kansas, Michigan, and Texas, and lose Maine and Ohio?",
+      "outcome": "Yes",
+      "entry": 0.004,
+      "shares": 250.0,
+      "cost": 1.0,
+      "opened_at": "2026-11-01T21:19:51+00:00",
+      "end_date": "2026-11-03T23:59:00Z",
+      "last_bid": 0.003
+    },
+    {
+      "market_id": "5654414",
+      "question": "Spread: Steelers (-3.5)",
+      "outcome": "Browns",
+      "entry": 0.001,
+      "shares": 1000.0,
+      "cost": 1.0,
+      "opened_at": "2026-11-01T21:19:51+00:00",
+      "end_date": "2026-11-01T18:00:00Z",
+      "last_bid": 0.0
+    },
+    {
+      "market_id": "1194643",
+      "question": "Will Iliana Iotova win the next Bulgarian presidential election?",
+      "outcome": "No",
+      "entry": 0.008,
+      "shares": 125.0,
+      "cost": 1.0,
+      "opened_at": "2026-11-01T21:19:51+00:00",
+      "end_date": "2026-11-02T04:59:00Z",
+      "last_bid": 0.003
+    },
+    {
+      "market_id": "6273886",
+      "question": "Will Republicans win Iowa, Kansas, and Michigan, and lose Alaska, Maine, Ohio, and Texas?",
+      "outcome": "Yes",
+      "entry": 0.01,
+      "shares": 100.0,
+      "cost": 1.0,
+      "opened_at": "2026-11-01T21:19:51+00:00",
+      "end_date": "2026-11-03T23:59:00Z",
+      "last_bid": 0.009
+    },
+    {
+      "market_id": "1194657",
+      "question": "Will \u0410ndrey Gyurov win the next Bulgarian presidential election?",
+      "outcome": "Yes",
+      "entry": 0.003,
+      "shares": 333.33,
+      "cost": 1.0,
+      "opened_at": "2026-11-01T21:19:51+00:00",
+      "end_date": "2026-11-02T04:59:00Z",
+      "last_bid": 0.001
+    },
+    {
+      "market_id": "2772194",
+      "question": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
+      "outcome": "Yes",
+      "entry": 0.002,
+      "shares": 500.0,
+      "cost": 1.0,
+      "opened_at": "2026-11-01T21:19:51+00:00",
+      "end_date": "2027-05-30T23:59:00Z",
+      "last_bid": 0.001
+    },
+    {
+      "market_id": "5656047",
+      "question": "Spread: Lions (-3.5)",
+      "outcome": "Vikings",
+      "entry": 0.001,
+      "shares": 1000.0,
+      "cost": 1.0,
+      "opened_at": "2026-11-01T21:19:51+00:00",
+      "end_date": "2026-11-01T18:00:00Z",
+      "last_bid": 0.0
+    },
+    {
+      "market_id": "5922619",
+      "question": "Will SE Palmeiras win on 2026-11-01?",
+      "outcome": "No",
+      "entry": 0.001,
+      "shares": 1000.0,
+      "cost": 1.0,
+      "opened_at": "2026-11-01T21:19:51+00:00",
+      "end_date": "2026-11-01T19:00:00Z",
+      "last_bid": 0.0
+    }
+  ],
+  "closed": []
+}
