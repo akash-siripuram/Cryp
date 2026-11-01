@@ -63,6 +63,16 @@ if __name__ == "__main__":
             rows.append(r)
     rows.sort(key=lambda r: r["$/day per $1k competing"], reverse=True)
     json.dump(rows, open("rewards/scan_results.json", "w"), indent=1)
+    # dated snapshot + per-market pool history for day-to-day comparison
+    import os, time
+    day = time.strftime("%Y-%m-%d", time.gmtime())
+    os.makedirs("rewards/snapshots", exist_ok=True)
+    json.dump({"day": day, "n_markets": len(ms), "total_daily_pool": sum(rate(m) for m in ms), "top": rows[:100]},
+              open(f"rewards/snapshots/{day}.json", "w"), indent=1)
+    with open("rewards/pool_history.csv", "a") as f:
+        if f.tell() == 0: f.write("day,slug,daily_usd,usd_near_mid,per_1k,mid,spread_c,end\n")
+        for r in rows[:100]:
+            f.write(f"{day},{r['slug']},{r['daily_$']},{r['usd_near_mid']},{r['$/day per $1k competing']},{r['mid']},{r['spread_c']},{(r['end'] or '')[:10]}\n")
     for r in rows[:25]:
         print(f"${r['daily_$']:>6}/day | ${r['usd_near_mid']:>8,} near mid | {r['$/day per $1k competing']:>7}/1k | "
               f"mid {r['mid']:.2f} spr {r['spread_c']}c v={r['max_spread_c']} min={r['min_size']} | {r['end'] or ''} | {r['question']}")
