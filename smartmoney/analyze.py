@@ -116,11 +116,11 @@ def wallet_profile(wallet, max_pages=5):
     oldest = sigs[-1] if sigs else None
     funder, fund_amt = None, None
     if reached and oldest:
-        for s in reversed(sigs[-10:]):  # first few txs, oldest first
+        for s in reversed(sigs[-25:]):  # first few txs, oldest first
             tx = rpc.transaction(s["signature"])
             for ix in (tx or {}).get("transaction", {}).get("message", {}).get("instructions", []):
                 info = (ix.get("parsed") or {}).get("info", {}) if isinstance(ix.get("parsed"), dict) else {}
-                if ix.get("program") == "system" and info.get("destination") == wallet and info.get("lamports"):
+                if ix.get("program") == "system" and info.get("destination") == wallet and info.get("lamports", 0) >= 10_000_000:  # ignore dust spam
                     funder, fund_amt = info["source"], info["lamports"] / 1e9
                     break
             if funder:
