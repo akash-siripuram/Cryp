@@ -13,11 +13,13 @@ for p in snaps[-14:]:
     s = json.load(open(p)); lines.append(f"| {s['day']} | {s['n_markets']:,} | ${s['total_daily_pool']:,.0f} |")
 lines += ["", "## Today's best candidates (quiet filters: ends > 10 days out, spread ≤ 3¢, mid 0.15–0.85, ≥ $300 quoted)", "",
           "| Market | Pool $/day | Quoted near mid | $/day per $1k | Days seen in top 100 | Pool change vs first seen |", "|---|---|---|---|---|---|"]
+import datetime as dt
+cutoff = (dt.date.fromisoformat(today) + dt.timedelta(days=10)).isoformat()
 cands = []
 for slug, by in hist.items():
     r = by.get(today)
     if not r: continue
-    if r["end"] and r["end"] <= days[-1][:8] + "99": pass
+    if not r["end"] or r["end"] <= cutoff: continue
     try:
         if not (0.15 <= float(r["mid"]) <= 0.85 and float(r["spread_c"]) <= 3 and float(r["usd_near_mid"]) >= 300): continue
     except ValueError:
