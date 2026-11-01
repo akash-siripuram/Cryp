@@ -8,3 +8,4 @@ rewards/*.jsonl*
 smartwallets/data/early_trades.jsonl
 smartwallets/data/*.log
 smartwallets/data/cg_pumpfun_markets.json
+rewards/*.log
