@@ -1,0 +1,4250 @@
+[
+{
+"day": "2025-06-19",
+"id": "tass-hub",
+"symbol": "tasshub",
+"mint": "FKNfAwb8TmjYkj11V4NiTz4TgrLWTWgm2NRwAD9epump",
+"peak_mcap": 7203594.8628339935,
+"ath": 0.00720563,
+"price_now": 0.00023291
+},
+{
+"day": "2025-06-21",
+"id": "bigfacts",
+"symbol": "bigfacts",
+"mint": "8U5SJfExR7QMhPWWKLFV5F9L8mX3vioEP29GxocBpump",
+"peak_mcap": 3590696.9978949092,
+"ath": 0.00718208,
+"price_now": 1.289e-05
+},
+{
+"day": "2025-06-22",
+"id": "do-it-for-the-vine",
+"symbol": "vine",
+"mint": "HLJzUzWU7eFKDCvuoJ6cQCYxkinE1cXCZjxWJWwWpump",
+"peak_mcap": 1776756.474898654,
+"ath": 0.00183,
+"price_now": 4.61e-06
+},
+{
+"day": "2025-06-23",
+"id": "digital-oil-memecoin",
+"symbol": "oil",
+"mint": "5LS3ips7jWxfuVHzoMzKzp3cCwjH9zmrtYXmYBVGpump",
+"peak_mcap": 3528402.673367593,
+"ath": 0.00353663,
+"price_now": 9.747e-05
+},
+{
+"day": "2025-06-24",
+"id": "solbox",
+"symbol": "solbox",
+"mint": "8a5NY9MAdY3NjKsgPUYfqoZcmGKdZkotrjWgZM1dpump",
+"peak_mcap": 2725720.0,
+"ath": 0.00272572,
+"price_now": 9.86e-06
+},
+{
+"day": "2025-06-25",
+"id": "x-trade-ai",
+"symbol": "xtrade",
+"mint": "2vfBxPmHSW2YijUcFCRoMMkAWP9fp8FGWnKxVvJnpump",
+"peak_mcap": 8935488.824507404,
+"ath": 0.00893922,
+"price_now": 4.45e-06
+},
+{
+"day": "2025-06-26",
+"id": "bunkercoin",
+"symbol": "bunker",
+"mint": "8NCievmJCg2d9Vc2TWgz2HkE6ANeSX7kwvdq5AL7pump",
+"peak_mcap": 8627554.100279994,
+"ath": 0.00863041,
+"price_now": 0.00060452
+},
+{
+"day": "2025-06-27",
+"id": "cypherspace",
+"symbol": "cypher",
+"mint": "B1bY1U7KYLhj9iSEBCjpAMQB77taEndFSwwBbqRrpump",
+"peak_mcap": 2010932.7811090604,
+"ath": 0.00201261,
+"price_now": 4.82e-06
+},
+{
+"day": "2025-06-29",
+"id": "market-dominance",
+"symbol": "md",
+"mint": "C4j7kPx9PqDnfvxe2uycJQRTAeyGwmU4DyGf21Xgpump",
+"peak_mcap": 7257321.248716872,
+"ath": 0.01319383,
+"price_now": 0.00103908
+},
+{
+"day": "2025-06-30",
+"id": "yeti-2",
+"symbol": "yeti",
+"mint": "FuyeX8cpctBwQVDFYgKxYh1JgiXCkK9g4RBVCXm4pump",
+"peak_mcap": 18054326.857838076,
+"ath": 0.02256791,
+"price_now": 2.102e-05
+},
+{
+"day": "2025-07-01",
+"id": "memestock",
+"symbol": "memestock",
+"mint": "8wvLsACsR3owhGzmLLHTgh2waW2vKNtVYWDs9cCopump",
+"peak_mcap": 735211.1466240252,
+"ath": 0.00073559,
+"price_now": 1.306e-05
+},
+{
+"day": "2025-07-02",
+"id": "what-if",
+"symbol": "if",
+"mint": "9fvZcQkCdRwm74uSVf46sfMHiYHtSta8ZdMCaLYFpump",
+"peak_mcap": 367104.21749116847,
+"ath": 0.00036816,
+"price_now": 3.62e-06
+},
+{
+"day": "2025-07-03",
+"id": "cli-ai",
+"symbol": "cmd",
+"mint": "7Gg6J1nkHLVV2TMqhVGHS1BrYycDmLoux9R3GSy2pump",
+"peak_mcap": 15647961.401133975,
+"ath": 0.01565447,
+"price_now": 5.84e-06
+},
+{
+"day": "2025-07-04",
+"id": "dog-in-vest",
+"symbol": "invest",
+"mint": "55KrNjWHrkgxCzTLvcgaKYDxaopuxZK8vETi1CJNpump",
+"peak_mcap": 5376264.703866764,
+"ath": 0.0053796,
+"price_now": 1.22e-05
+},
+{
+"day": "2025-07-05",
+"id": "the-america-party-3",
+"symbol": "tap",
+"mint": "766ivvadp4arnHKQ13RB3cD7PyvRDL42N2j7RCoMpump",
+"peak_mcap": 4587411.212867673,
+"ath": 0.00458864,
+"price_now": 2.73e-05
+},
+{
+"day": "2025-07-06",
+"id": "raco",
+"symbol": "raco",
+"mint": "Dc2XfjTGQQSL1xF9m7hCoUF7nVAGvfG4rZDQPdU7pump",
+"peak_mcap": 118272.41247995818,
+"ath": 0.00011837,
+"price_now": 3.91e-06
+},
+{
+"day": "2025-07-07",
+"id": "memeless-coin",
+"symbol": "memeless",
+"mint": "34VWJ7PPwcPpYEqTGJQXo8qaMJYoP8VKuBGHPG3ypump",
+"peak_mcap": 3428709.4812330483,
+"ath": 0.00343906,
+"price_now": 8.41e-06
+},
+{
+"day": "2025-07-08",
+"id": "pupfun",
+"symbol": "pup",
+"mint": "AyPNhxMEh5n44T8GhFCCzQzUXh2tTRagpQduVYeEpump",
+"peak_mcap": 884672.0171932037,
+"ath": 0.00088542,
+"price_now": 4.618e-05
+},
+{
+"day": "2025-07-09",
+"id": "launch-on-pump",
+"symbol": "launch",
+"mint": "B5boCskXEFb1RJJ9EqJNV3gt5fjhk85DeD7BgbLcpump",
+"peak_mcap": 4439509.179445201,
+"ath": 0.00444,
+"price_now": 2.184e-05
+},
+{
+"day": "2025-07-11",
+"id": "fair",
+"symbol": "fair",
+"mint": "s1bYcu6WSfRznQbEn4tnXaNVHRpWPzVz8mPCvHrpump",
+"peak_mcap": 14717258.441198912,
+"ath": 0.01471811,
+"price_now": 0.00028434
+},
+{
+"day": "2025-07-12",
+"id": "kolscan",
+"symbol": "kolscan",
+"mint": "6jTQCFZR8JwvvenVGa3RzGM3a5YEagk9kQXDpHHdpump",
+"peak_mcap": 5573565.133137742,
+"ath": 0.0057757,
+"price_now": 7.266e-05
+},
+{
+"day": "2025-07-13",
+"id": "rasmr",
+"symbol": "rasmr",
+"mint": "B1oEzGes1QxVZoxR3abiwAyL4jcPRF2s2ok5Yerrpump",
+"peak_mcap": 12590060.620794466,
+"ath": 0.01259026,
+"price_now": 0.00041408
+},
+{
+"day": "2025-07-14",
+"id": "niky",
+"symbol": "niky",
+"mint": "d8ed1gwSmD45qwEK5wZGMb1Kh1MQ9PXipKsHevtpump",
+"peak_mcap": 2026975.4473275212,
+"ath": 0.00202952,
+"price_now": 4.38e-06
+},
+{
+"day": "2025-07-15",
+"id": "small-fartcoin",
+"symbol": "tootcoin",
+"mint": "7jFfNTP8gBEaXjXoZt3ejJfiT1W87Z9e3mkeYNcEpump",
+"peak_mcap": 121953.34757442065,
+"ath": 0.00012228,
+"price_now": 3.58e-06
+},
+{
+"day": "2025-07-17",
+"id": "moonbag-2",
+"symbol": "bag",
+"mint": "B9jYrBoCPN7FcXVHe56KXsYgJE5gbTxsadjvyFiVpump",
+"peak_mcap": 6317025.683629685,
+"ath": 0.00631833,
+"price_now": 5.725e-05
+},
+{
+"day": "2025-07-19",
+"id": "hyperpigmentation",
+"symbol": "$hyper",
+"mint": "Aq8Gocyvyyi8xk5EYxd6viUfVmVvs9T9R6mZFzZFpump",
+"peak_mcap": 29775470.0,
+"ath": 0.02977547,
+"price_now": 2.761e-05
+},
+{
+"day": "2025-07-21",
+"id": "dowge",
+"symbol": "dji6930",
+"mint": "DQnkBM4eYYMnVE8Qy2K3BB7uts1fh2EwBVktEz6jpump",
+"peak_mcap": 84782220.19821881,
+"ath": 0.084787,
+"price_now": 0.00600072
+},
+{
+"day": "2025-07-22",
+"id": "blormmy",
+"symbol": "blormmy",
+"mint": "71AZt4P5kc5vpfTJR1HjNbMzD84G7vxam4DtL3kJpump",
+"peak_mcap": 3047091.134706957,
+"ath": 0.00304852,
+"price_now": 4.463e-05
+},
+{
+"day": "2025-07-23",
+"id": "trash-coin",
+"symbol": "trash",
+"mint": "5ypxFmuJUTsSkAeKRuRs4xSxkb4vWbjMLT3GY7ckpump",
+"peak_mcap": 14152493.876993528,
+"ath": 0.01415321,
+"price_now": 0.00016099
+},
+{
+"day": "2025-07-25",
+"id": "sock-inu",
+"symbol": "sinu",
+"mint": "DXi3Uu7TC2tzJYmnFAgDKnU3p8t6qSafPcLgGaQipump",
+"peak_mcap": 218161.35854105087,
+"ath": 0.00021909,
+"price_now": 3.571e-05
+},
+{
+"day": "2025-07-26",
+"id": "john-pork-2",
+"symbol": "pork",
+"mint": "CVGBG44dKpUFQBANot9jY9KQ68QCBXAwd4sf7BJxpump",
+"peak_mcap": 4130896.677357628,
+"ath": 0.0041359,
+"price_now": 3.686e-05
+},
+{
+"day": "2025-07-27",
+"id": "marsmi",
+"symbol": "marsmi",
+"mint": "GqXX9MfkURBZ5cFym9HDzqTL7uZkjtCSqLkUSe2xpump",
+"peak_mcap": 187524852.24188378,
+"ath": 0.187525,
+"price_now": 0.01315286
+},
+{
+"day": "2025-07-29",
+"id": "useful-coin-2",
+"symbol": "useful",
+"mint": "HD3JBABeFkdZwUgKwhwJYqjLNrPWXEaDVfH4uMqRpump",
+"peak_mcap": 3927003.6821198575,
+"ath": 0.00392976,
+"price_now": 4.79e-05
+},
+{
+"day": "2025-07-30",
+"id": "will-go-to-1",
+"symbol": "dollarcoin",
+"mint": "4RYtJLcaGKMkYbodJ7X8QYPd2SnRWRvSVWMxfzwRpump",
+"peak_mcap": 1957208.0502853945,
+"ath": 0.00195801,
+"price_now": 1.085e-05
+},
+{
+"day": "2025-07-31",
+"id": "kangarhold",
+"symbol": "kanga",
+"mint": "4yTZ41t1WUPJoEFwhmFFzrL3UbFWkdDRVUKJTtLwpump",
+"peak_mcap": 242514.5289992405,
+"ath": 0.00024252,
+"price_now": 3.33e-06
+},
+{
+"day": "2025-08-01",
+"id": "pepe-bundle",
+"symbol": "pundle",
+"mint": "6Neft4334Hqi2ak59K3SActWD3jWuhLvXuFHhGTpump",
+"peak_mcap": 49425050.0,
+"ath": 0.04942505,
+"price_now": 6.52e-06
+},
+{
+"day": "2025-08-04",
+"id": "murad",
+"symbol": "murad",
+"mint": "FtPqJ2YTKmPyBxp3Npg18RE9Z77SQu9jrkRVYLzpump",
+"peak_mcap": 1086354.792159819,
+"ath": 0.00108684,
+"price_now": 7.406e-05
+},
+{
+"day": "2025-08-05",
+"id": "assdaq",
+"symbol": "assdaq",
+"mint": "7Tx8qTXSakpfaSFjdztPGQ9n2uyT1eUkYz7gYxxopump",
+"peak_mcap": 10135471.488899615,
+"ath": 0.01013732,
+"price_now": 8.72e-05
+},
+{
+"day": "2025-08-06",
+"id": "treeroot",
+"symbol": "root",
+"mint": "J7hX5qVuJuiUiuZ1AkqE7eVS3sjTJ5kgFnuJwR2Rpump",
+"peak_mcap": 193736.04570396163,
+"ath": 0.00019377,
+"price_now": 3.44e-06
+},
+{
+"day": "2025-08-07",
+"id": "this-will-make-ur-monthly-salary",
+"symbol": "salary",
+"mint": "D7Z2fUrxECBh91chmnou8u7E9Yaq7inzzcjg9G1Apump",
+"peak_mcap": 15808962.170219038,
+"ath": 0.01582759,
+"price_now": 1.997e-05
+},
+{
+"day": "2025-08-08",
+"id": "allindoge",
+"symbol": "allindoge",
+"mint": "HyDKNdnhZNVYQMruBevbNsUWruA9STmAQrS4srXApump",
+"peak_mcap": 12818531.30681002,
+"ath": 0.01291751,
+"price_now": 0.00186184
+},
+{
+"day": "2025-08-09",
+"id": "it-s-just-a-dog",
+"symbol": "dog",
+"mint": "61uiuu5aAc2HG1ZQaHd3opfLnK6cM4FQnE1jRi28pump",
+"peak_mcap": 6280914.64990456,
+"ath": 0.00628442,
+"price_now": 1.556e-05
+},
+{
+"day": "2025-08-10",
+"id": "grokchain",
+"symbol": "grokchain",
+"mint": "WAxxkziGPy6ThGBLg4MNKJce4eGrSKxCEfJ72ZLpump",
+"peak_mcap": 2992828.533393959,
+"ath": 0.00299593,
+"price_now": 6.29e-06
+},
+{
+"day": "2025-08-11",
+"id": "illusion-of-life",
+"symbol": "spark",
+"mint": "5zCETicUCJqJ5Z3wbfFPZqtSpHPYqnggs1wX7ZRpump",
+"peak_mcap": 64299376.4104229,
+"ath": 0.064331,
+"price_now": 7.996e-05
+},
+{
+"day": "2025-08-12",
+"id": "phi-protocol",
+"symbol": "phi",
+"mint": "C19J3fcXX9otmTjPuGNdZMQdfRG6SRhbnJv8EJnRpump",
+"peak_mcap": 3945629.90281534,
+"ath": 0.00395266,
+"price_now": 1.589e-05
+},
+{
+"day": "2025-08-13",
+"id": "private-aviation-finance-token",
+"symbol": "cino",
+"mint": "BUUB7DpQT1mcTrs55oXawgEbxm5khAozsbmyhMdRpump",
+"peak_mcap": 53475950.49530879,
+"ath": 0.053481,
+"price_now": 0.00375403
+},
+{
+"day": "2025-08-14",
+"id": "all-in-dollo",
+"symbol": "dollo",
+"mint": "5EaYZcaKfTVdpQ2avVtJ7BNWJ1Rnj86F1dWxppawpump",
+"peak_mcap": 10463402.034284202,
+"ath": 0.01046417,
+"price_now": 8.403e-05
+},
+{
+"day": "2025-08-15",
+"id": "the-spirit-of-gambling",
+"symbol": "tokabu",
+"mint": "H8xQ6poBjB9DTPMDTKWzWPrnxu4bDEhybxiouF8Ppump",
+"peak_mcap": 76009024.35098994,
+"ath": 0.076117,
+"price_now": 0.00131928
+},
+{
+"day": "2025-08-16",
+"id": "pacu-jalur",
+"symbol": "boatkid",
+"mint": "FJjKH9Xp2SvNDNUSN7X9T4uMNafFEYzbZpnwEZXKpump",
+"peak_mcap": 13029259.074637331,
+"ath": 0.01306515,
+"price_now": 2.912e-05
+},
+{
+"day": "2025-08-17",
+"id": "aircoin-3",
+"symbol": "aircoin",
+"mint": "67icoxwiNAVLqagX4kG2cfT9mkSFkwP97kQtgHA7pump",
+"peak_mcap": 398202.48256783554,
+"ath": 0.0003985,
+"price_now": 2.52e-06
+},
+{
+"day": "2025-08-18",
+"id": "fork-chain",
+"symbol": "fork",
+"mint": "66LPmREAYBqPeyidL7LMW7RaJjKbfADbuUMsqatkpump",
+"peak_mcap": 4968783.946016491,
+"ath": 0.00497353,
+"price_now": 6.8e-06
+},
+{
+"day": "2025-08-19",
+"id": "jakpot-games",
+"symbol": "jakpot",
+"mint": "9em5B5cjY7VYGCcEuqnbSDLViezXFgwhPDiAXTospump",
+"peak_mcap": 4589226.365295173,
+"ath": 0.00464997,
+"price_now": 3.88e-06
+},
+{
+"day": "2025-08-20",
+"id": "yait-siu",
+"symbol": "yait",
+"mint": "5dDTxqg38NUY6ZKKGXXjaopWHt2xc3zSPoKhKmEEpump",
+"peak_mcap": 1906054.4834410865,
+"ath": 0.00190606,
+"price_now": 1.328e-05
+},
+{
+"day": "2025-08-21",
+"id": "the-imperfect-coin",
+"symbol": "imperfect",
+"mint": "CuPrcDMz7CmzMeH8oGpmPXCTQfDmit2pgEE9UM1Dpump",
+"peak_mcap": 2987362.820689707,
+"ath": 0.00301518,
+"price_now": 8.86e-06
+},
+{
+"day": "2025-08-22",
+"id": "airi-virtual-companion",
+"symbol": "airi",
+"mint": "4WRh23cmLWCwLgNnDd3V6CLCcMXFDgTQciB9tNejpump",
+"peak_mcap": 543898.2837966284,
+"ath": 0.00054583,
+"price_now": 3.81e-06
+},
+{
+"day": "2025-08-23",
+"id": "general-impressions",
+"symbol": "gen",
+"mint": "Dzox5Ytp6ZU54h3uutcp4MXw3ZnBxR21H5Zx4r4qpump",
+"peak_mcap": 60835000.0,
+"ath": 0.060835,
+"price_now": 4.97e-06
+},
+{
+"day": "2025-08-24",
+"id": "mindshare",
+"symbol": "mindshare",
+"mint": "2eTJqpK4QqWofGLSoirWNdC3Goyxp81KC3JDMqcupump",
+"peak_mcap": 2433386.633641743,
+"ath": 0.00243364,
+"price_now": 5.393e-05
+},
+{
+"day": "2025-08-25",
+"id": "pnp-exchange",
+"symbol": "pnp",
+"mint": "UVcu7kbVKW6Rs5PKzuwVSbm8ukvrWByS3hBXqHapump",
+"peak_mcap": 4783929.313388774,
+"ath": 0.00478404,
+"price_now": 7.204e-05
+},
+{
+"day": "2025-08-26",
+"id": "troll-s-brother",
+"symbol": "fapguy",
+"mint": "C2i8WUjvkpZPXEBumF6dwFJakaDA3hTYCcBpfLMgpump",
+"peak_mcap": 1406836.2614799587,
+"ath": 0.00140823,
+"price_now": 5.27e-06
+},
+{
+"day": "2025-08-27",
+"id": "pythia",
+"symbol": "pythia",
+"mint": "CreiuhfwdWCN5mJbMJtA9bBpYQrQF2tCBuZwSPWfpump",
+"peak_mcap": 124813546.80762617,
+"ath": 0.125047,
+"price_now": 0.00011861
+},
+{
+"day": "2025-08-28",
+"id": "nosey",
+"symbol": "nosey",
+"mint": "GZcVdxXSenrKgnkAKCj9Yp7ConTB4poGfBohFVpupump",
+"peak_mcap": 1292237.6149646472,
+"ath": 0.0012941,
+"price_now": 9.9e-06
+},
+{
+"day": "2025-08-29",
+"id": "carlo-acutis",
+"symbol": "saint",
+"mint": "EQs4DEeaSyrhRPM6JPsf2ptLf4EHkcGXB7ybeufxpump",
+"peak_mcap": 5559560.723310639,
+"ath": 0.00556528,
+"price_now": 3.007e-05
+},
+{
+"day": "2025-08-30",
+"id": "ai",
+"symbol": "ai4",
+"mint": "CZkxnM5PNPak31JSFNzJ76CWcYRu4mgxvBwcHaBJpump",
+"peak_mcap": 984933.2151358727,
+"ath": 0.00098514,
+"price_now": 9.075e-05
+},
+{
+"day": "2025-08-31",
+"id": "nyla-ai",
+"symbol": "nyla",
+"mint": "7NgzCgQ8vrosdtxUonHvWETQ41mL9XQ5Z2JqJjhQpump",
+"peak_mcap": 9763811.022551093,
+"ath": 0.00976394,
+"price_now": 4.88e-06
+},
+{
+"day": "2025-09-01",
+"id": "unstable-coin",
+"symbol": "usduc",
+"mint": "CB9dDufT3ZuQXqqSfa1c5kY935TEreyBw9XJXxHKpump",
+"peak_mcap": 74533192.28668952,
+"ath": 0.074542,
+"price_now": 0.00226262
+},
+{
+"day": "2025-09-02",
+"id": "mitch",
+"symbol": "idrawline",
+"mint": "FDEF2U9geiWS7sdGPCUo2r1wGswkJr2mmVTECiH6pump",
+"peak_mcap": 38803977.00778444,
+"ath": 0.03880398,
+"price_now": 0.0005989
+},
+{
+"day": "2025-09-03",
+"id": "qustream",
+"symbol": "qst",
+"mint": "AUuCEHQ7sm2i5GmaHrpE961voWcTY8U6mgrkhcV7pump",
+"peak_mcap": 28415577.51125374,
+"ath": 0.02841684,
+"price_now": 0.00181352
+},
+{
+"day": "2025-09-04",
+"id": "brewski",
+"symbol": "brewski",
+"mint": "FxVxbhxq4xqAjSjVCsYNFHgVr44hF5i5CnSTpgNvpump",
+"peak_mcap": 2764683.1463743085,
+"ath": 0.00277218,
+"price_now": 6.2e-06
+},
+{
+"day": "2025-09-05",
+"id": "the-bitcoin-mascot",
+"symbol": "bitty",
+"mint": "dTzEP9JU2NRDPuWtM32gaVKip2fTHBqjheU1APBpump",
+"peak_mcap": 20063748.95346216,
+"ath": 0.0200771,
+"price_now": 0.00104843
+},
+{
+"day": "2025-09-06",
+"id": "betly",
+"symbol": "betly",
+"mint": "5XgpGK83mxVdcGuZxv7My99ZmuSzdJo4noLaaD4bpump",
+"peak_mcap": 2005919.0694227554,
+"ath": 0.00201598,
+"price_now": 4.95e-06
+},
+{
+"day": "2025-09-07",
+"id": "qstay",
+"symbol": "qstay",
+"mint": "96hj47MzSpZgVcT1v4nwpbQNEU59f6ys48PArGivpump",
+"peak_mcap": 5732628.472550115,
+"ath": 0.00575394,
+"price_now": 7.34e-06
+},
+{
+"day": "2025-09-08",
+"id": "trencher-broadcasting-company",
+"symbol": "tbc",
+"mint": "BbbwE8rudhjK4husSRc37X54mYyDBRcykJ7fk5oHpump",
+"peak_mcap": 5307410.499273486,
+"ath": 0.00530844,
+"price_now": 6.075e-05
+},
+{
+"day": "2025-09-09",
+"id": "lenny",
+"symbol": "lenny",
+"mint": "Gc5hxBYZjxWNpt3B8XYbp4YoGCHSMfrJK7ex4GUTpump",
+"peak_mcap": 2120635.8351880275,
+"ath": 0.00220577,
+"price_now": 3.98e-05
+},
+{
+"day": "2025-09-10",
+"id": "polyfactual",
+"symbol": "polyfacts",
+"mint": "FfixAeHevSKBZWoXPTbLk4U4X9piqvzGKvQaFo3cpump",
+"peak_mcap": 15648549.024205806,
+"ath": 0.01564973,
+"price_now": 5.793e-05
+},
+{
+"day": "2025-09-11",
+"id": "eduvantage-ai",
+"symbol": "eai",
+"mint": "7a8JSTTMnynE689y1AvxHTywdQVFdpfdE61rPvgzpump",
+"peak_mcap": 7007767.989379937,
+"ath": 0.00701102,
+"price_now": 0.00024137
+},
+{
+"day": "2025-09-12",
+"id": "nunu",
+"symbol": "nunu",
+"mint": "q29umWshmh2fmm1CdRb4cBKhqtW9xX25ezNQi7Bpump",
+"peak_mcap": 7687277.244019362,
+"ath": 0.00768959,
+"price_now": 9.66e-06
+},
+{
+"day": "2025-09-13",
+"id": "streamercoin",
+"symbol": "streamer",
+"mint": "3arUrpH3nzaRJbbpVgY42dcqSq9A5BFgUxKozZ4npump",
+"peak_mcap": 38000115.79210326,
+"ath": 0.03801292,
+"price_now": 2.118e-05
+},
+{
+"day": "2025-09-14",
+"id": "bagwork",
+"symbol": "bagwork",
+"mint": "7Pnqg1S6MYrL6AP1ZXcToTHfdBbTB77ze6Y33qBBpump",
+"peak_mcap": 48084515.782457545,
+"ath": 0.04827521,
+"price_now": 9.818e-05
+},
+{
+"day": "2025-09-15",
+"id": "kindnesscoin",
+"symbol": "kind",
+"mint": "V5cCiSixPLAiEDX2zZquT5VuLm4prr5t35PWmjNpump",
+"peak_mcap": 40013169.32042525,
+"ath": 0.04002559,
+"price_now": 2.192e-05
+},
+{
+"day": "2025-09-16",
+"id": "live-on-treadmill-till-100mill",
+"symbol": "runner",
+"mint": "FyB8VxxYAaVVchAgbB1kvjWdw26ovaD4ipwV1j8epump",
+"peak_mcap": 4999193.2807606235,
+"ath": 0.00500548,
+"price_now": 4.82e-06
+},
+{
+"day": "2025-09-17",
+"id": "moona-lisa",
+"symbol": "moona",
+"mint": "aDJLHm1KxsHmnoYJY8VDyWvbGykBNhWJqNgPX7Ppump",
+"peak_mcap": 9135034.227153344,
+"ath": 0.00913512,
+"price_now": 1.464e-05
+},
+{
+"day": "2025-09-18",
+"id": "rage-guy-2",
+"symbol": "rage",
+"mint": "G3FoXHoQDuGkEG8ZqQd7riC9uB1N51bg7JuxJEPNpump",
+"peak_mcap": 5828636.214473775,
+"ath": 0.00592337,
+"price_now": 2.019e-05
+},
+{
+"day": "2025-09-19",
+"id": "dollar-cost-average",
+"symbol": "dca",
+"mint": "AXQyzYRdk6ebp3VdwSNNNFR5Ssm5rMVTP84EEg98pump",
+"peak_mcap": 3013116.217624541,
+"ath": 0.00301457,
+"price_now": 7.186e-05
+},
+{
+"day": "2025-09-20",
+"id": "peko-2",
+"symbol": "peko",
+"mint": "31eijQgD7tQ9TQoQWvcbGsYQmb2rjrAt24UacBDXpump",
+"peak_mcap": 1334555.2453320595,
+"ath": 0.0013348,
+"price_now": 9.44e-06
+},
+{
+"day": "2025-09-22",
+"id": "help-me-beat-cancer",
+"symbol": "cancer",
+"mint": "34AeqX5MQGyrey2VnZdkeZCfM4qinp4F3X7pGxtipump",
+"peak_mcap": 8644954.338201124,
+"ath": 0.00896552,
+"price_now": 1.086e-05
+},
+{
+"day": "2025-09-23",
+"id": "pepetopia",
+"symbol": "pepetopia",
+"mint": "9kYJGVYTxYUVPw59hcnXG2Q6VsC1GbK4KkhHsdrDpump",
+"peak_mcap": 375851.75617877324,
+"ath": 0.0003759,
+"price_now": 0.00015461
+},
+{
+"day": "2025-09-24",
+"id": "qpay-2",
+"symbol": "qpay",
+"mint": "EMg2QkFZ6pLvgckVGj8X6nmyrkiuoamYnTdoxXN8pump",
+"peak_mcap": 2295270.0,
+"ath": 0.00229527,
+"price_now": 1.866e-05
+},
+{
+"day": "2025-09-25",
+"id": "just-elizabeth-cat",
+"symbol": "elizabeth",
+"mint": "DiiTPZdpd9t3XorHiuZUu4E1FoSaQ7uGN4q9YkQupump",
+"peak_mcap": 2858220.203565872,
+"ath": 0.00405452,
+"price_now": 3.709e-05
+},
+{
+"day": "2025-09-26",
+"id": "naked-crab-man",
+"symbol": "crabfurie",
+"mint": "CKVZPWFPaJArEaPnk16CXpFtFXjuCxCh95vBcS3Ppump",
+"peak_mcap": 355010.89620173164,
+"ath": 0.00035536,
+"price_now": 4.86e-06
+},
+{
+"day": "2025-09-27",
+"id": "pepecoin-3",
+"symbol": "pep",
+"mint": "BKmYE8w1GEQ6khhLkvMj4ULvV4Gq7zLfJZSgsHE5pump",
+"peak_mcap": 3902436.8035840155,
+"ath": 0.00390424,
+"price_now": 5.778e-05
+},
+{
+"day": "2025-09-28",
+"id": "the-final-quarter",
+"symbol": "q4",
+"mint": "BqndqeBCNSEftBKmbTbLVx1RX5zd5J3AGL9sG55Jpump",
+"peak_mcap": 890450.0197715845,
+"ath": 0.00089243,
+"price_now": 9.11e-06
+},
+{
+"day": "2025-09-29",
+"id": "first-ai-actress",
+"symbol": "tilly",
+"mint": "AhdriVFckrSmt6xfXVdNcKA545bKvKgJQuk1LAnApump",
+"peak_mcap": 777616.821483621,
+"ath": 0.00077826,
+"price_now": 3.48e-06
+},
+{
+"day": "2025-09-30",
+"id": "uptober",
+"symbol": "uptober",
+"mint": "6vVfbQVRSXcfyQamPqCzcqmA86vCzb2d7B7gmDDqpump",
+"peak_mcap": 3764925.9361412153,
+"ath": 0.00416857,
+"price_now": 9.01e-05
+},
+{
+"day": "2025-10-01",
+"id": "peak-internet-male-performance",
+"symbol": "pimp",
+"mint": "6N1myX27SLSnb4fnArFAF3yNc98VXCUopZAqyzExpump",
+"peak_mcap": 1150731.2134813368,
+"ath": 0.00115542,
+"price_now": 3.41e-06
+},
+{
+"day": "2025-10-02",
+"id": "knockout-games",
+"symbol": "gg",
+"mint": "LhcykxUt6xVdiSZyWyaGdNHE3W8sAEmdnEjpMdkpump",
+"peak_mcap": 4575560.0,
+"ath": 0.00457556,
+"price_now": 0.00010162
+},
+{
+"day": "2025-10-03",
+"id": "georgeplaysclashroyale",
+"symbol": "clash",
+"mint": "6nR8wBnfsmXfcdDr1hovJKjvFQxNSidN6XFyfAFZpump",
+"peak_mcap": 82267269.69895095,
+"ath": 0.082293,
+"price_now": 0.00622062
+},
+{
+"day": "2025-10-04",
+"id": "pibble-2",
+"symbol": "pibble",
+"mint": "Eppcp4FhG6wmaRno3omWWvKsZHbzucVLR316SdXopump",
+"peak_mcap": 5930068.693029368,
+"ath": 0.00593571,
+"price_now": 2.599e-05
+},
+{
+"day": "2025-10-05",
+"id": "kittehcoin-2",
+"symbol": "meow",
+"mint": "7rCrPCf5qTcEAvDC3mH89rjZMetpRDLXZBvqLoPPpump",
+"peak_mcap": 4389881.644422857,
+"ath": 0.00439965,
+"price_now": 2.528e-05
+},
+{
+"day": "2025-10-06",
+"id": "cat-terminal",
+"symbol": "cat",
+"mint": "4HBQm2EhdpUWZkTYxttxNDnsoWi5beRAGWHpjVo8pump",
+"peak_mcap": 39157199.12110437,
+"ath": 0.03915851,
+"price_now": 3.327e-05
+},
+{
+"day": "2025-10-07",
+"id": "quantumcoin-2-2",
+"symbol": "qe",
+"mint": "DPdNMhjBnftREwT82KXytQBk7zd5RBkRrG41L795pump",
+"peak_mcap": 869011.7690550098,
+"ath": 0.00086934,
+"price_now": 7.11e-05
+},
+{
+"day": "2025-10-08",
+"id": "believegpt",
+"symbol": "pnth",
+"mint": "kizBMAuD6aX2yT8jATDMKx5GVCTquA7AGftghZ8pump",
+"peak_mcap": 1112039.9651070414,
+"ath": 0.00111204,
+"price_now": 1.96e-06
+},
+{
+"day": "2025-10-09",
+"id": "bloxwap",
+"symbol": "bloxwap",
+"mint": "2u3ufZ5defxwPXMixvvQpSs68PDNzHTdE52t9Crspump",
+"peak_mcap": 2249667.889098416,
+"ath": 0.00230684,
+"price_now": 5.428e-05
+},
+{
+"day": "2025-10-10",
+"id": "-7",
+"symbol": "\u2205",
+"mint": "J2bUGZDxRDpsVfjZqKwn6yYCUKFmqzHgt8UajhGtpump",
+"peak_mcap": 8020495.810032906,
+"ath": 0.00835799,
+"price_now": 9.556e-05
+},
+{
+"day": "2025-10-11",
+"id": "internet-capital-memes",
+"symbol": "icm",
+"mint": "HRwo5GY87abyVy5tzW3g1RtgjrnxUEtWfDL7ftpjpump",
+"peak_mcap": 2089617.7472623985,
+"ath": 0.00210979,
+"price_now": 9.84e-06
+},
+{
+"day": "2025-10-12",
+"id": "agok",
+"symbol": "agok",
+"mint": "HC1sJQuYAdsjrPeKXeNkJGP9yPpdjpNtngUGhuKMpump",
+"peak_mcap": 2408516.6821148056,
+"ath": 0.00240868,
+"price_now": 1.58e-06
+},
+{
+"day": "2025-10-13",
+"id": "burning-till-10m-mc",
+"symbol": "burn",
+"mint": "AVdsFsS45YjGEitb7yQy3XqnNsMVGL3o4cYA53bpump",
+"peak_mcap": 655188.2208748081,
+"ath": 0.00072946,
+"price_now": 4.26e-06
+},
+{
+"day": "2025-10-14",
+"id": "the-lion",
+"symbol": "lion",
+"mint": "8NfK7b9u1RvMpHJnAnZki4mNQwjhvzrVZs7bRQatpump",
+"peak_mcap": 9210998.944511227,
+"ath": 0.00921415,
+"price_now": 5.199e-05
+},
+{
+"day": "2025-10-15",
+"id": "pseudo-reality",
+"symbol": "pseudo",
+"mint": "uPm9ebhrGDnNXiyneeP9WG57wNbQ8bd26DRiWSNpump",
+"peak_mcap": 636904.6303256431,
+"ath": 0.0007972,
+"price_now": 2.749e-05
+},
+{
+"day": "2025-10-16",
+"id": "all-roads-lead-to-rome",
+"symbol": "rome",
+"mint": "8ZeTmGGktvSwSSghx8btbTAVGdWogThKM4DQBJgRpump",
+"peak_mcap": 3505889.4256590744,
+"ath": 0.00350761,
+"price_now": 3.157e-05
+},
+{
+"day": "2025-10-17",
+"id": "obex",
+"symbol": "obex",
+"mint": "9NyLK6MHjbaKd1bY3EnFPJQDmkDLvC2WajUCErp9pump",
+"peak_mcap": 1800867.731498447,
+"ath": 0.00180106,
+"price_now": 4.56e-06
+},
+{
+"day": "2025-10-18",
+"id": "goldcoin-2",
+"symbol": "goldcoin",
+"mint": "9QFfgxdSqH5zT7j6rZb1y6SZhw2aFtcQu2r6BuYpump",
+"peak_mcap": 3916811.6609975128,
+"ath": 0.00582123,
+"price_now": 4.585e-05
+},
+{
+"day": "2025-10-19",
+"id": "burncoin-3",
+"symbol": "burncoin",
+"mint": "3aLhoQ8YuyeSfgGzrpnh9WGLozsgt5FNTJe596q3pump",
+"peak_mcap": 1085342.2681753212,
+"ath": 0.00125588,
+"price_now": 4.11e-06
+},
+{
+"day": "2025-10-20",
+"id": "digital-asset-treasury",
+"symbol": "dat",
+"mint": "EwFTbdtH1FZQ2ZtDTgtYfzU2fBsxuGQC3nRHAFHpump",
+"peak_mcap": 3157079.559661097,
+"ath": 0.00316335,
+"price_now": 3.73e-06
+},
+{
+"day": "2025-10-21",
+"id": "perpetual-exchange-protocol",
+"symbol": "perc",
+"mint": "CXobgfkQT6wCysehb3abkuimkmx5chS62fZew9NBpump",
+"peak_mcap": 1224326.2152658629,
+"ath": 0.0012299,
+"price_now": 6.24e-06
+},
+{
+"day": "2025-10-22",
+"id": "ballsackcoin",
+"symbol": "ballsack",
+"mint": "6BFPDdf7VdkFdzePjWzVENzgigzs1DJmZJhKtjiTpump",
+"peak_mcap": 59875.781037342975,
+"ath": 6.106e-05,
+"price_now": 2.9e-06
+},
+{
+"day": "2025-10-23",
+"id": "upvember",
+"symbol": "upvember",
+"mint": "7VKG39KqGopTetYvgBA3WADEB7fiB3kMChqA6Lj8pump",
+"peak_mcap": 480306.225,
+"ath": 0.00048151,
+"price_now": 1.801e-05
+},
+{
+"day": "2025-10-24",
+"id": "utility-coin",
+"symbol": "utility",
+"mint": "FwrcPjGNdTbBXWBKktRvnNTnAfRNtv9nPDGV3gjgpump",
+"peak_mcap": 510455.96372595587,
+"ath": 0.00051048,
+"price_now": 1.151e-05
+},
+{
+"day": "2025-10-25",
+"id": "petro-penguins",
+"symbol": "pengo",
+"mint": "F2k82EcxLtzekq1bfoGVdgp6EXZ5dLT1jE7g3LvQpump",
+"peak_mcap": 7711951.355160085,
+"ath": 0.00771213,
+"price_now": 0.00067626
+},
+{
+"day": "2025-10-26",
+"id": "group7-2",
+"symbol": "group7",
+"mint": "BTyjf4y7sLXgtahZCH6X7gGRnGgYqRFyBSDjL6u6pump",
+"peak_mcap": 2426957.670363836,
+"ath": 0.0024355,
+"price_now": 4.36e-06
+},
+{
+"day": "2025-10-27",
+"id": "payai-network",
+"symbol": "payai",
+"mint": "E7NgL19JbN8BhUDgWjkH8MtnbhJoaGaWJqosxZZepump",
+"peak_mcap": 74972000.0,
+"ath": 0.074972,
+"price_now": 4.708e-05
+},
+{
+"day": "2025-10-28",
+"id": "chill-house",
+"symbol": "chillhouse",
+"mint": "GkyPYa7NnCFbduLknCfBfP7p8564X1VZhwZYJ6CZpump",
+"peak_mcap": 29147433.372209713,
+"ath": 0.02919086,
+"price_now": 0.00074029
+},
+{
+"day": "2025-10-29",
+"id": "bunnie-2",
+"symbol": "bunnie",
+"mint": "7XeR2pjfqocWAVmV3fefcCPgZNE4eByV2vgdcjs9pump",
+"peak_mcap": 1544253.499344129,
+"ath": 0.00154483,
+"price_now": 7.82e-06
+},
+{
+"day": "2025-10-30",
+"id": "breadheads",
+"symbol": "crumbs",
+"mint": "BQDMYwgnWr9UBcUCvLX67yXriTVe1bkPEiTQ1TzKpump",
+"peak_mcap": 213388.6932328843,
+"ath": 0.0002138,
+"price_now": 6.411e-05
+},
+{
+"day": "2025-10-31",
+"id": "xchange-2",
+"symbol": "xchange",
+"mint": "9HAZrXJx5QXzBfJynRQXkHr9DG4Kk8dzuuQnMfz6pump",
+"peak_mcap": 678160.6630971769,
+"ath": 0.00067938,
+"price_now": 3.52e-06
+},
+{
+"day": "2025-11-01",
+"id": "ace-data-cloud",
+"symbol": "$ace",
+"mint": "GEuuznWpn6iuQAJxLKQDVGXPtrqXHNWTk3gZqqvJpump",
+"peak_mcap": 13291195.391735455,
+"ath": 0.01329651,
+"price_now": 1.973e-05
+},
+{
+"day": "2025-11-02",
+"id": "core-2",
+"symbol": "core",
+"mint": "4FdojUmXeaFMBG6yUaoufAC5Bz7u9AwnSAMizkx5pump",
+"peak_mcap": 2497654.4713577875,
+"ath": 0.00250475,
+"price_now": 0.00083896
+},
+{
+"day": "2025-11-03",
+"id": "gus-2",
+"symbol": "gus",
+"mint": "42d245pXpJDhAkX5QKTcLxPB6QxET6KbbsDas71Tpump",
+"peak_mcap": 234695.00185210656,
+"ath": 0.00023477,
+"price_now": 2.58e-06
+},
+{
+"day": "2025-11-04",
+"id": "jelly-my-jelly",
+"symbol": "jellyjelly",
+"mint": "FeR8VBqNRSUD5NtXAj2n3j1dAHkZHfyDktKuLXD4pump",
+"peak_mcap": 473156573.8464164,
+"ath": 0.473157,
+"price_now": 0.04232003
+},
+{
+"day": "2025-11-05",
+"id": "rizzmas-2",
+"symbol": "rizzmas",
+"mint": "8dktTBKseLSsLPpfBYhoKzaAGTAwKqsp6W6UNFtxpump",
+"peak_mcap": 1278657.3380887406,
+"ath": 0.00128016,
+"price_now": 5.43e-06
+},
+{
+"day": "2025-11-06",
+"id": "vampcatcoin",
+"symbol": "vcc",
+"mint": "9x5CLPb3SeYSBKvautqpJWPjX9TUCVcWTS12Xawapump",
+"peak_mcap": 5076021.608758353,
+"ath": 0.00509612,
+"price_now": 1.1e-05
+},
+{
+"day": "2025-11-07",
+"id": "daydreams",
+"symbol": "dreams",
+"mint": "GMzuntWYJLpNuCizrSR7ZXggiMdDzTNiEmSNHHunpump",
+"peak_mcap": 39021819.60488582,
+"ath": 0.03903129,
+"price_now": 0.00272447
+},
+{
+"day": "2025-11-09",
+"id": "x-bangers",
+"symbol": "bangers",
+"mint": "3wppuwUMAGgxnX75Aqr4W91xYWaN6RjxjCUFiPZUpump",
+"peak_mcap": 5381303.631695941,
+"ath": 0.00548066,
+"price_now": 1.108e-05
+},
+{
+"day": "2025-11-10",
+"id": "greyhound-2",
+"symbol": "gh",
+"mint": "BtDFyQ1mjL4RHiXrx4ARuzXUt196u1hWoF2rgWUHpump",
+"peak_mcap": 11646297.47578926,
+"ath": 0.01164639,
+"price_now": 4.93e-05
+},
+{
+"day": "2025-11-11",
+"id": "401jk",
+"symbol": "401jk",
+"mint": "Cz7LGKdZPpAxonXx23ZYPW3RtDQvjcf17ZDCZEzFpump",
+"peak_mcap": 28266139.88862371,
+"ath": 0.02828482,
+"price_now": 0.00093549
+},
+{
+"day": "2025-11-12",
+"id": "the-penny-has-been-retired",
+"symbol": "penny",
+"mint": "D7fdJwFg9Ykf4tL9GgiSAugxvbEXcFZRhJ4FEgr5pump",
+"peak_mcap": 413804.2521685702,
+"ath": 0.0004141,
+"price_now": 6.61e-06
+},
+{
+"day": "2025-11-13",
+"id": "openkitx403",
+"symbol": "k403",
+"mint": "HakUTodhpcA6T379NtPAUFajLykY1yUq4yrnSciWpump",
+"peak_mcap": 883220.0,
+"ath": 0.00088322,
+"price_now": 3.4e-06
+},
+{
+"day": "2025-11-15",
+"id": "spred",
+"symbol": "spred",
+"mint": "FRVCEaJuS8cuBTWR1JwVu35pBsKmHmt9n4LjSiF4pump",
+"peak_mcap": 556678.827891133,
+"ath": 0.00055698,
+"price_now": 3.93e-06
+},
+{
+"day": "2025-11-16",
+"id": "official-ppshow",
+"symbol": "pp",
+"mint": "ch7rTovcUK7C1zNFM7F93kXU2CByYUsJT4pwYx7pump",
+"peak_mcap": 9888266.243237665,
+"ath": 0.01444103,
+"price_now": 0.00145359
+},
+{
+"day": "2025-11-17",
+"id": "same-coin",
+"symbol": "same",
+"mint": "7ifX7okDF3Q5equtyFo5BkwZyeKY1hGcZCmkZQ5upump",
+"peak_mcap": 1700846.629252461,
+"ath": 0.00170293,
+"price_now": 6.92e-06
+},
+{
+"day": "2025-11-18",
+"id": "the-official-67-coin",
+"symbol": "67",
+"mint": "9AvytnUKsLxPxFHFqS6VLxaxt5p6BhYNr53SD2Chpump",
+"peak_mcap": 43614928.32144983,
+"ath": 0.04363399,
+"price_now": 0.00151682
+},
+{
+"day": "2025-11-19",
+"id": "mr-giver",
+"symbol": "give",
+"mint": "GzxpqHdQeseerHTM2Gikq5F4o8Bb1oTENRTJa8E2pump",
+"peak_mcap": 1013520.0681914676,
+"ath": 0.00101386,
+"price_now": 6.17e-06
+},
+{
+"day": "2025-11-20",
+"id": "recon-labs",
+"symbol": "recon",
+"mint": "A8Z4uv53e6PS6CYNVNd7HceRCZMHecqpuyzuMWp9pump",
+"peak_mcap": 426673.6031324054,
+"ath": 0.00042708,
+"price_now": 3.93e-06
+},
+{
+"day": "2025-11-22",
+"id": "chuoi",
+"symbol": "chuoi",
+"mint": "BKUFQTnhsBnzZFBq3s9V9bFwi4EVZd7KXBP3GqY1pump",
+"peak_mcap": 103570.67481251167,
+"ath": 0.00010569,
+"price_now": 3.3e-06
+},
+{
+"day": "2025-11-23",
+"id": "sachicoin",
+"symbol": "sachi",
+"mint": "7Y2TPeq3hqw21LRTCi4wBWoivDngCpNNJsN1hzhZpump",
+"peak_mcap": 9569993.174908824,
+"ath": 0.00993498,
+"price_now": 3.818e-05
+},
+{
+"day": "2025-11-24",
+"id": "6chicken9",
+"symbol": "pop",
+"mint": "4sxxEHW6XqX5YBYs29f1p2RhR7afXFS8wQWcMYQVpump",
+"peak_mcap": 531404.5378549428,
+"ath": 0.00054626,
+"price_now": 7.34e-06
+},
+{
+"day": "2025-11-25",
+"id": "bellscoin-3",
+"symbol": "bel",
+"mint": "5xL15htnLsMN44DyUQyztEYSFBn6pgF41cngBkKMpump",
+"peak_mcap": 235359.74837842092,
+"ath": 0.00023572,
+"price_now": 5.08e-06
+},
+{
+"day": "2025-11-26",
+"id": "shibetoshi-nakamoto",
+"symbol": "billy",
+"mint": "J7Dx5yPbPD5e5BmrSvJyi4n4XRUR2kWqWYaxaSWdpump",
+"peak_mcap": 2758490.5274508195,
+"ath": 0.00287462,
+"price_now": 2.448e-05
+},
+{
+"day": "2025-11-28",
+"id": "wojak-4",
+"symbol": "wojak",
+"mint": "8J69rbLTzWWgUJziFY8jeu5tDwEPBwUz4pKBMr5rpump",
+"peak_mcap": 62331997.12899735,
+"ath": 0.062342,
+"price_now": 0.00127231
+},
+{
+"day": "2025-11-29",
+"id": "bullish-degen",
+"symbol": "bullish",
+"mint": "C2omVhcvt3DDY77S2KZzawFJQeETZofgZ4eNWWkXpump",
+"peak_mcap": 51905000.0,
+"ath": 0.051905,
+"price_now": 0.00027185
+},
+{
+"day": "2025-11-30",
+"id": "gabriel",
+"symbol": "gabriel",
+"mint": "2EH5Y18tw366g3VQvXKXKhr4zhYD6sC8X2Ktw3ocpump",
+"peak_mcap": 1310915.4748568237,
+"ath": 0.00133229,
+"price_now": 3.77e-06
+},
+{
+"day": "2025-12-01",
+"id": "energy-coin-2",
+"symbol": "energy",
+"mint": "FqKdy3CtWSKKiJa8aaUbSbSmVhBKz3EiM52Et242pump",
+"peak_mcap": 168677.57889449445,
+"ath": 0.00016884,
+"price_now": 6.89e-06
+},
+{
+"day": "2025-12-02",
+"id": "groyper-2",
+"symbol": "groyper",
+"mint": "AjgSvYmJLhvt3FteiyTqQf8XBj1SVs6T6AmSUfkHpump",
+"peak_mcap": 4170860.3595636603,
+"ath": 0.00417166,
+"price_now": 0.00013425
+},
+{
+"day": "2025-12-03",
+"id": "billboard",
+"symbol": "billboard",
+"mint": "wCtiCRJz69a5Mqkk2nHmvQwBGQCrUvM8fELoFGqpump",
+"peak_mcap": 245929.3429564826,
+"ath": 0.00026234,
+"price_now": 9.83e-06
+},
+{
+"day": "2025-12-04",
+"id": "rifts-finance",
+"symbol": "rifts",
+"mint": "HjBMk5rABYdAvukYRvrScBnP9KnN9nLdKSbN2QPppump",
+"peak_mcap": 4863000.788328398,
+"ath": 0.00491604,
+"price_now": 6.26e-06
+},
+{
+"day": "2025-12-05",
+"id": "meme-man",
+"symbol": "mm",
+"mint": "HfZiQSCUTpvWa9Mk3FKieQHzZfiduPqTEMVDbP1Gpump",
+"peak_mcap": 3866434.679292515,
+"ath": 0.00386809,
+"price_now": 4.348e-05
+},
+{
+"day": "2025-12-06",
+"id": "santa-hat-2",
+"symbol": "santahat",
+"mint": "HruKkLrLJ7t1kL8E6HBccSpWdUpnhGmi3SVrB9Jjpump",
+"peak_mcap": 860346.6487227113,
+"ath": 0.00097,
+"price_now": 0.00011782
+},
+{
+"day": "2025-12-07",
+"id": "fapcoin-4",
+"symbol": "fapcoin",
+"mint": "8vGr1eX9vfpootWiUPYa5kYoGx9bTuRy2Xc4dNMrpump",
+"peak_mcap": 7868823.654805945,
+"ath": 0.00794327,
+"price_now": 0.00140823
+},
+{
+"day": "2025-12-08",
+"id": "awkward-white-people-smile",
+"symbol": "white",
+"mint": "Dr7r38EvuFzezm9FhHgVw6eaPjGNRaj9JMAknAprpump",
+"peak_mcap": 459215.87427469814,
+"ath": 0.00045951,
+"price_now": 3.25e-06
+},
+{
+"day": "2025-12-09",
+"id": "fortuna-protocol",
+"symbol": "fp",
+"mint": "DtgCVZ877swr93rHXhbfshcthnSK2Ds4dz3XC8GYpump",
+"peak_mcap": 1624832.899624952,
+"ath": 0.00162502,
+"price_now": 3.85e-06
+},
+{
+"day": "2025-12-10",
+"id": "pippin-s-friend",
+"symbol": "dot",
+"mint": "AbP5LEN4sAAjghBy6ww37ngAAT7hnBVfXmXNdCnbpump",
+"peak_mcap": 1253054.4908734777,
+"ath": 0.00127994,
+"price_now": 1.046e-05
+},
+{
+"day": "2025-12-11",
+"id": "boxabl",
+"symbol": "boxabl",
+"mint": "H2yHLoC24dM5v1Vjh2Poqx7fZ9mp8EfR2MYseXScpump",
+"peak_mcap": 2971816.6549427644,
+"ath": 0.00303217,
+"price_now": 0.0001848
+},
+{
+"day": "2025-12-12",
+"id": "tutut-coin",
+"symbol": "tutc",
+"mint": "bZqP1p2mUd9ftH6AFBmoyQqsAFcG5mddMMh3Y8mpump",
+"peak_mcap": 673403.1936548798,
+"ath": 0.00067342,
+"price_now": 7.72e-06
+},
+{
+"day": "2025-12-13",
+"id": "xmas-cult",
+"symbol": "xmas",
+"mint": "9BYVxhYF4tWSRVyJUBSVC8PaAhuuiCiAbmfy4hUApump",
+"peak_mcap": 501037.5476834965,
+"ath": 0.00051231,
+"price_now": 0.0001165
+},
+{
+"day": "2025-12-14",
+"id": "whistle-privacy-focused-utility-and-cult",
+"symbol": "whistle",
+"mint": "6Hb2xgEhyN9iVVH3cgSxYjfN774ExzgiCftwiWdjpump",
+"peak_mcap": 1480101.9101576481,
+"ath": 0.0014933,
+"price_now": 3.97e-06
+},
+{
+"day": "2025-12-15",
+"id": "argus-foundation",
+"symbol": "argus",
+"mint": "EbD3Qptmezx1mEwMfa88q5L5CrA4QrBwmvvZUhEapump",
+"peak_mcap": 503513.12587118,
+"ath": 0.00050382,
+"price_now": 2.68e-06
+},
+{
+"day": "2025-12-16",
+"id": "grug-2",
+"symbol": "grug",
+"mint": "BV2CATw6dAcxxAoZ73P14DTXzbKTUZR41X7EXpKWpump",
+"peak_mcap": 7066355.802656408,
+"ath": 0.00706885,
+"price_now": 1e-05
+},
+{
+"day": "2025-12-17",
+"id": "alchemist-ai",
+"symbol": "alch",
+"mint": "HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump",
+"peak_mcap": 243311541.38014713,
+"ath": 0.243323,
+"price_now": 0.03659956
+},
+{
+"day": "2025-12-18",
+"id": "npc-2",
+"symbol": "npc",
+"mint": "GdKWebBBvM78HNYGxoZLgsXHqZKAELEZk3ka9i32pump",
+"peak_mcap": 7986645.904389829,
+"ath": 0.00799165,
+"price_now": 9.3e-06
+},
+{
+"day": "2025-12-19",
+"id": "giveback",
+"symbol": "gback",
+"mint": "Fh7mLxtPAysdvHcMcJ37A3vc6WvBVh7JVDwxmwk6pump",
+"peak_mcap": 27983865.962911524,
+"ath": 0.02798668,
+"price_now": 0.00434256
+},
+{
+"day": "2025-12-20",
+"id": "peppa-the-shiba",
+"symbol": "peppa",
+"mint": "zRSBtynHT8gbBBmTfQBAEWMQiUorwwAtng7YFBfpump",
+"peak_mcap": 1139285.1325866615,
+"ath": 0.00114087,
+"price_now": 4.4e-06
+},
+{
+"day": "2025-12-21",
+"id": "sasha",
+"symbol": "sasha",
+"mint": "BiAQHYo5Y1umMRbuupdoksKuk6pVbQEHs8fJf8UYpump",
+"peak_mcap": 222969.47122210817,
+"ath": 0.00023177,
+"price_now": 1.063e-05
+},
+{
+"day": "2025-12-22",
+"id": "lc-shib",
+"symbol": "lc",
+"mint": "43YakhC3TcSuTgSXnxFgw8uKL8VkuLuFa4M6Bninpump",
+"peak_mcap": 15584410.84512684,
+"ath": 0.01562586,
+"price_now": 0.00050553
+},
+{
+"day": "2025-12-23",
+"id": "degen-3",
+"symbol": "dgn",
+"mint": "Fd8TNp5GhhTk6Uq6utMvK13vfQdLN1yUUHCnapWvpump",
+"peak_mcap": 1530680.0,
+"ath": 0.00153068,
+"price_now": 0.00028769
+},
+{
+"day": "2025-12-24",
+"id": "pizza",
+"symbol": "pizza",
+"mint": "4AkCN6KLeCmUDjWLg4XyQpuZuWtwBdPcbtBQjsA2pump",
+"peak_mcap": 2357427.3108915417,
+"ath": 0.00235803,
+"price_now": 8.163e-05
+},
+{
+"day": "2025-12-25",
+"id": "snowball-3",
+"symbol": "snowball",
+"mint": "Gbu7JAKhTVtGyRryg8cYPiKNhonXpUqbrZuCDjfUpump",
+"peak_mcap": 10244652.8897888,
+"ath": 0.01089896,
+"price_now": 8.825e-05
+},
+{
+"day": "2025-12-26",
+"id": "bepe-3",
+"symbol": "bepe",
+"mint": "FTdkGcfFUDcXbqRQL3YeLYJa3e3Pnaz6kJH1sBsapump",
+"peak_mcap": 1222705.7147813095,
+"ath": 0.00122439,
+"price_now": 5.73e-06
+},
+{
+"day": "2025-12-27",
+"id": "blindfold-finance",
+"symbol": "blind",
+"mint": "AbeDBXvqGnmcvX8NtQg5qgREFTw7HynkCc4u97xcpump",
+"peak_mcap": 2396956.781447524,
+"ath": 0.00239992,
+"price_now": 1.87e-05
+},
+{
+"day": "2025-12-28",
+"id": "ace-data-cloud-2",
+"symbol": "ace",
+"mint": "GnHpRsrcyfHSMZNzmpjAzTFQA26vnbRMzbKQ11ZKpump",
+"peak_mcap": 2485150.4062053696,
+"ath": 0.00248769,
+"price_now": 0.00023599
+},
+{
+"day": "2025-12-29",
+"id": "neurvona",
+"symbol": "neurvona",
+"mint": "Guko5GPz4g6E2cjDHukGtdnDNJeQQvpEW9SCgRZcpump",
+"peak_mcap": 539015.0374859151,
+"ath": 0.00053908,
+"price_now": 6.59e-06
+},
+{
+"day": "2025-12-30",
+"id": "popfrog",
+"symbol": "popfrog",
+"mint": "DA1qLpgD1M7TNNRPycizyQCoRLCt7GAx1YTeVrfYpump",
+"peak_mcap": 7167767.254331002,
+"ath": 0.00718902,
+"price_now": 2.474e-05
+},
+{
+"day": "2025-12-31",
+"id": "year-of-the-horse",
+"symbol": "juan",
+"mint": "7eLSZuUZ66YA1JPYmpG9ApgoTdZmzHDfz32YngbPpump",
+"peak_mcap": 591592.7473710353,
+"ath": 0.00059333,
+"price_now": 4.95e-06
+},
+{
+"day": "2026-01-01",
+"id": "the-1-billion-horse",
+"symbol": "unicorn",
+"mint": "CrNchbhLnu4CzEjuc8uoxwFcaBgAYvY7RCf1vSm1pump",
+"peak_mcap": 373324.91365039453,
+"ath": 0.00037522,
+"price_now": 4e-06
+},
+{
+"day": "2026-01-02",
+"id": "you-ll-own-nothing-and-be-happy",
+"symbol": "nothing",
+"mint": "F7pB3ZdfBnyFw2LRHydWEn9BmhEa5XihXLjhySFRpump",
+"peak_mcap": 5291216.901489983,
+"ath": 0.0052921,
+"price_now": 0.00014062
+},
+{
+"day": "2026-01-03",
+"id": "voidscreener",
+"symbol": "void",
+"mint": "9hSaLB4a674pns3uJCYRu4u5Bbvi4UwBcrS9AKnFpump",
+"peak_mcap": 178124.8175584217,
+"ath": 0.00017929,
+"price_now": 2.89e-06
+},
+{
+"day": "2026-01-04",
+"id": "dexter-ai",
+"symbol": "dexter",
+"mint": "EfPoo4wWgxKVToit7yX5VtXXBrhao4G8L7vrbKy6pump",
+"peak_mcap": 5889678.170954899,
+"ath": 0.00589035,
+"price_now": 0.00028085
+},
+{
+"day": "2026-01-05",
+"id": "rel",
+"symbol": "rel",
+"mint": "5AgHPy5UojpGq6TdtQCNobCZ2tkYmZz4d5p1cqr6pump",
+"peak_mcap": 800118.0573480824,
+"ath": 0.00080013,
+"price_now": 4e-06
+},
+{
+"day": "2026-01-06",
+"id": "linkhash",
+"symbol": "lhx",
+"mint": "9LrT8gAKJ5qUJA1wJoQRrVfapJGrNnU2ca5UYiJipump",
+"peak_mcap": 2245981.0034987126,
+"ath": 0.00224599,
+"price_now": 1.069e-05
+},
+{
+"day": "2026-01-07",
+"id": "rainbowfish",
+"symbol": "fish",
+"mint": "CmgJ1PobhUqB7MEa8qDkiG2TUpMTskWj8d9JeZWSpump",
+"peak_mcap": 12490549.911043597,
+"ath": 0.01249686,
+"price_now": 4.98e-05
+},
+{
+"day": "2026-01-08",
+"id": "synapz",
+"symbol": "synapz",
+"mint": "HfJvxwLQeHeiDz8e91RWSwMm3R1pLh1vyjLoSr5gpump",
+"peak_mcap": 1270025.537997258,
+"ath": 0.00127004,
+"price_now": 0.00027328
+},
+{
+"day": "2026-01-09",
+"id": "the-black-whale",
+"symbol": "blackwhale",
+"mint": "8y45AJzCUBSZL1UDFQRzCKovQBLQFudBrpPeg5yNpump",
+"peak_mcap": 8230998.3774349615,
+"ath": 0.00835945,
+"price_now": 2.764e-05
+},
+{
+"day": "2026-01-10",
+"id": "the-white-whale",
+"symbol": "whitewhale",
+"mint": "a3W4qutoEJA4232T2gwZUfgYJTetr96pU4SJMwppump",
+"peak_mcap": 197852000.0,
+"ath": 0.197852,
+"price_now": 0.0008643
+},
+{
+"day": "2026-01-11",
+"id": "the-golden-whale",
+"symbol": "goldenwhale",
+"mint": "DkETzNyP4oST2NMU4mmnZwxerh3EESaxtfczk3n3pump",
+"peak_mcap": 792022.7661593338,
+"ath": 0.00089423,
+"price_now": 7.1e-06
+},
+{
+"day": "2026-01-12",
+"id": "amiko",
+"symbol": "amiko",
+"mint": "AY1Ww6MxwC3cCiyrandHqLrp4FXvzgcwQTZpJ2FEpump",
+"peak_mcap": 76693813.69306524,
+"ath": 0.076694,
+"price_now": 0.00166463
+},
+{
+"day": "2026-01-13",
+"id": "mia-ko",
+"symbol": "mia",
+"mint": "FyPDfX92B4uEk4zZouy96d1Kk1LgnCznBpzAFSsZpump",
+"peak_mcap": 6371390.258724535,
+"ath": 0.00637241,
+"price_now": 1.784e-05
+},
+{
+"day": "2026-01-14",
+"id": "aism-faith-token",
+"symbol": "aism",
+"mint": "9ZFfZwZDfoSqj7HFD7BNGy57XVNkd1BR2UrNYKsnpump",
+"peak_mcap": 13376215.673621345,
+"ath": 0.0133769,
+"price_now": 0.00587472
+},
+{
+"day": "2026-01-15",
+"id": "privacy-usd",
+"symbol": "usdp",
+"mint": "7HcZz4segTW8rLM6m5bR7ZQ8KamTm1MJ3jhdDNirpump",
+"peak_mcap": 982183.3832243248,
+"ath": 0.00098261,
+"price_now": 3.17e-06
+},
+{
+"day": "2026-01-16",
+"id": "jobcoin-2",
+"symbol": "jobcoin",
+"mint": "AyrQpt5xsVYiN4BqgZdd2tZJAWswT9yLUZmP1jKqpump",
+"peak_mcap": 18234771.293635514,
+"ath": 0.01823708,
+"price_now": 0.00377535
+},
+{
+"day": "2026-01-17",
+"id": "make-no-mistakes",
+"symbol": "claude",
+"mint": "jkAWzPumRhJE2KyqVy4kB7m9KwXBeSEXnFAGoWtpump",
+"peak_mcap": 4166985.655494504,
+"ath": 0.00416753,
+"price_now": 1.144e-05
+},
+{
+"day": "2026-01-18",
+"id": "blackbull",
+"symbol": "blackbull",
+"mint": "2oCxjpWWEmCuNaXiBSVahUKP1xRMRAiBfCg98YyHpump",
+"peak_mcap": 2584664.4332772493,
+"ath": 0.00275643,
+"price_now": 5.71e-06
+},
+{
+"day": "2026-01-19",
+"id": "zreal-super-coin",
+"symbol": "zreal",
+"mint": "GnFMf6JVRhAqPbA9r8yW16xycynKNkXfbaYbusLEpump",
+"peak_mcap": 13447696.996887375,
+"ath": 0.01344771,
+"price_now": 0.00159258
+},
+{
+"day": "2026-01-20",
+"id": "elizabao",
+"symbol": "elizabao",
+"mint": "CZQe93LL4f8wuHmTzLABELgZHRwkPZAbHwN9BKerpump",
+"peak_mcap": 121789.77301503487,
+"ath": 0.00012199,
+"price_now": 3.83e-06
+},
+{
+"day": "2026-01-21",
+"id": "meow-meow",
+"symbol": "meow",
+"mint": "dmdrY5iZhmZNGVXsPqAXuAXJ2nP3U8LCfBHA8MGpump",
+"peak_mcap": 396273.57593536616,
+"ath": 0.0003965,
+"price_now": 3.93e-06
+},
+{
+"day": "2026-01-22",
+"id": "minecraft-grandma-fund",
+"symbol": "grandma",
+"mint": "axUxN2q4AWzHaU6LXmjqQh7KEjaXDPKScjmzwEBpump",
+"peak_mcap": 3353725.2361719664,
+"ath": 0.00335404,
+"price_now": 1.291e-05
+},
+{
+"day": "2026-01-23",
+"id": "testicle",
+"symbol": "testicle",
+"mint": "4TyZGqRLG3VcHTGMcLBoPUmqYitMVojXinAmkL8xpump",
+"peak_mcap": 23151521.132421542,
+"ath": 0.02315462,
+"price_now": 0.0001899
+},
+{
+"day": "2026-01-24",
+"id": "nietzschean-penguin",
+"symbol": "penguin",
+"mint": "8Jx8AAHj86wbQgUTjGuj6GTTL5Ps3cqxKRTvpaJApump",
+"peak_mcap": 160482555.38723323,
+"ath": 0.1605,
+"price_now": 0.00043584
+},
+{
+"day": "2026-01-25",
+"id": "sol-the-trophy-tomato",
+"symbol": "sol",
+"mint": "jk1T35eWK41MBMM8AWoYVaNbjHEEQzMDetTsfnqpump",
+"peak_mcap": 11574995.56681283,
+"ath": 0.01410999,
+"price_now": 5.461e-05
+},
+{
+"day": "2026-01-26",
+"id": "amelia-the-patriot",
+"symbol": "amelia",
+"mint": "8TuHAfTBTMW1fJNq5bNoeX4zhk2492DNsCgVSYzApump",
+"peak_mcap": 1861370.489965958,
+"ath": 0.00186769,
+"price_now": 1.937e-05
+},
+{
+"day": "2026-01-27",
+"id": "2131kobushide",
+"symbol": "21",
+"mint": "4vGHdzcNrDf8XVE8H19Rqea86RULz7xi89ew1sSJpump",
+"peak_mcap": 5577886.837965424,
+"ath": 0.0055803,
+"price_now": 1.921e-05
+},
+{
+"day": "2026-01-28",
+"id": "pigeon-doctor",
+"symbol": "pigeon",
+"mint": "GB8KtQfMChhYrCYtd5PoAB42kAdkHnuyAincSSmFpump",
+"peak_mcap": 3453899.425967272,
+"ath": 0.00345467,
+"price_now": 2.41e-05
+},
+{
+"day": "2026-01-29",
+"id": "soulguy",
+"symbol": "soulguy",
+"mint": "FsXJHch6cj9TyZGm1kfMwt8S8oATCEr6ccqWFp3Xpump",
+"peak_mcap": 29366272.36936153,
+"ath": 0.02939756,
+"price_now": 1.298e-05
+},
+{
+"day": "2026-01-30",
+"id": "bluechip",
+"symbol": "bluechip",
+"mint": "676k7xHRPBxEQ1NsjEKHBtGqRHr3gPev3JBje3VApump",
+"peak_mcap": 1537109.44356618,
+"ath": 0.00153711,
+"price_now": 3.58e-06
+},
+{
+"day": "2026-01-31",
+"id": "galiano",
+"symbol": "gali",
+"mint": "9FyERA7vjSDXVEGDskjYjTfymQ7XTqJt6dbVDCWmpump",
+"peak_mcap": 1302116.5121232593,
+"ath": 0.0011035,
+"price_now": 2.208e-05
+},
+{
+"day": "2026-02-01",
+"id": "the-profit",
+"symbol": "profit",
+"mint": "DNnzSTbL8z4x28ji2dDmZKnYAbLf8zcmqiG9UjArpump",
+"peak_mcap": 1300444.5224340288,
+"ath": 0.00130221,
+"price_now": 5.77e-06
+},
+{
+"day": "2026-02-02",
+"id": "the-greenland-shark",
+"symbol": "shark",
+"mint": "9CrY7PsMPx8pHaFKFV1Ty9CBp5GrvVT4dAanZoJHpump",
+"peak_mcap": 363248.8006708328,
+"ath": 0.00036376,
+"price_now": 4.96e-06
+},
+{
+"day": "2026-02-03",
+"id": "greenland-shark",
+"symbol": "shark",
+"mint": "63Z3Q7JX3SBGDiiwqqnPTVvHcuUk6ixkzsYQbKzhpump",
+"peak_mcap": 5515086.209447156,
+"ath": 0.00552566,
+"price_now": 1.043e-05
+},
+{
+"day": "2026-02-04",
+"id": "10m-mcap-before-valentines",
+"symbol": "valentines",
+"mint": "eLER748CTmFwiBiuU7nkz8iZQcaeV1KYc6AwZUipump",
+"peak_mcap": 143743.70549069394,
+"ath": 0.00014394,
+"price_now": 3.37e-06
+},
+{
+"day": "2026-02-05",
+"id": "redacted-3",
+"symbol": "\u2588\u2588\u2588\u2588",
+"mint": "GoPffEZ5yuWNnBuUCmwx9idbH9D63xATkrGa6E9kpump",
+"peak_mcap": 1351754.3500326728,
+"ath": 0.00135303,
+"price_now": 4.22e-06
+},
+{
+"day": "2026-02-06",
+"id": "bad-at-trading",
+"symbol": "sobat",
+"mint": "EW7cWbNmTgL7PLQNiJ6tBVC62SJzJXa2pFYJjDPPpump",
+"peak_mcap": 665862.8865814941,
+"ath": 0.00066598,
+"price_now": 4.924e-05
+},
+{
+"day": "2026-02-07",
+"id": "buttcoin-7",
+"symbol": "buttcoin",
+"mint": "Cm6fNnMk7NfzStP9CZpsQA2v3jjzbcYGAxdJySmHpump",
+"peak_mcap": 49398549.61755445,
+"ath": 0.04941144,
+"price_now": 0.00478547
+},
+{
+"day": "2026-02-08",
+"id": "meme-liquid",
+"symbol": "liquid",
+"mint": "71mfKdePwyWXtiF1mqu2aaCdMKnKuN664z2vEM2Xpump",
+"peak_mcap": 2877325.8571974984,
+"ath": 0.00287966,
+"price_now": 1.028e-05
+},
+{
+"day": "2026-02-09",
+"id": "ai-caricature",
+"symbol": "caricature",
+"mint": "sDLRYc96bWkJCVgRaR8FTvokw2iSg8bSQrHR7vHpump",
+"peak_mcap": 467790.4597440814,
+"ath": 0.0004679,
+"price_now": 3.57e-06
+},
+{
+"day": "2026-02-10",
+"id": "juice-3",
+"symbol": "juice",
+"mint": "2LzLh5pHg3nDQz6goTLAvDXfDbSBgAR8qem3bdXdpump",
+"peak_mcap": 6655326.72886511,
+"ath": 0.00695608,
+"price_now": 1.049e-05
+},
+{
+"day": "2026-02-11",
+"id": "the-giraffes",
+"symbol": "giraffes",
+"mint": "GbqbsRyBHVPHEv7xLEsikXmdpPPiApLTJesDBbL5pump",
+"peak_mcap": 1871823.3088557606,
+"ath": 0.00189979,
+"price_now": 6.76e-06
+},
+{
+"day": "2026-02-12",
+"id": "crustafarianism",
+"symbol": "crust",
+"mint": "HkBWJJiaUW5Kod4HpHWZiGD9PQVipmMiPDgiRPcNpump",
+"peak_mcap": 4181156.591779572,
+"ath": 0.0041816,
+"price_now": 3.811e-05
+},
+{
+"day": "2026-02-13",
+"id": "barking-puppy",
+"symbol": "bp",
+"mint": "3B1ijcocM5EDga6XxQ7JLW7weocQPWWjuhBYG8Vepump",
+"peak_mcap": 13856805.759240577,
+"ath": 0.01422732,
+"price_now": 0.00233373
+},
+{
+"day": "2026-02-14",
+"id": "zauthx402",
+"symbol": "zauth",
+"mint": "DNhQZ1CE9qZ2FNrVhsCXwQJ2vZG8ufZkcYakTS5Jpump",
+"peak_mcap": 8066345.093897372,
+"ath": 0.00811097,
+"price_now": 0.00153786
+},
+{
+"day": "2026-02-15",
+"id": "uncertain-systems",
+"symbol": "unsys",
+"mint": "Dza3Bey5tvyYiPgcGRKoXKU6rNrdoNrWNVmjqePcpump",
+"peak_mcap": 2087031.7509755327,
+"ath": 0.00208725,
+"price_now": 1.061e-05
+},
+{
+"day": "2026-02-16",
+"id": "rainmaker",
+"symbol": "rain",
+"mint": "3iC63FgnB7EhcPaiSaC51UkVweeBDkqu17SaRyy2pump",
+"peak_mcap": 13164823.525637805,
+"ath": 0.01316483,
+"price_now": 0.00139849
+},
+{
+"day": "2026-02-17",
+"id": "035hanpanaitte",
+"symbol": "035hp!",
+"mint": "CLD7wRUSwM68q51ayc1wt4Yipc6b2fwLqVm7Rv4Dpump",
+"peak_mcap": 331582.3037214971,
+"ath": 0.0003316,
+"price_now": 1.719e-05
+},
+{
+"day": "2026-02-18",
+"id": "gas-2",
+"symbol": "gas",
+"mint": "25E8X8fPnT9AdU1nA78snybnzVxkDvv5rK663Ngrpump",
+"peak_mcap": 1163506.8583678505,
+"ath": 0.00116357,
+"price_now": 1.101e-05
+},
+{
+"day": "2026-02-19",
+"id": "until",
+"symbol": "until",
+"mint": "59nzDoRyJ1QcLcFYFs4GVdeZ4qUEb16T2KNuHPWMpump",
+"peak_mcap": 20408203.812866658,
+"ath": 0.02046763,
+"price_now": 4.322e-05
+},
+{
+"day": "2026-02-20",
+"id": "molt-agentic",
+"symbol": "moltic",
+"mint": "GnkitxfvNLGGsXKGckU2Bw9uEnzwmVmJKzTaHpp1pump",
+"peak_mcap": 718528.3303042958,
+"ath": 0.00071888,
+"price_now": 3.63e-06
+},
+{
+"day": "2026-02-21",
+"id": "binder",
+"symbol": "binder",
+"mint": "BeFtLwLtS9Rva12KrHKRMY1H5WoeM1Y2ULMnNJKopump",
+"peak_mcap": 6176518.639970911,
+"ath": 0.00617677,
+"price_now": 0.00061026
+},
+{
+"day": "2026-02-22",
+"id": "punch-2",
+"symbol": "punch",
+"mint": "NV2RYH954cTJ3ckFUpvfqaQXU4ARqqDH3562nFSpump",
+"peak_mcap": 48455408.641149506,
+"ath": 0.0484662,
+"price_now": 0.00029284
+},
+{
+"day": "2026-02-23",
+"id": "tokenization",
+"symbol": "token",
+"mint": "3vZY2MKBzRMoT4nGUCWYzXPTES2jLaLNMV8Fn5cKpump",
+"peak_mcap": 1025245.073314825,
+"ath": 0.00102526,
+"price_now": 3.269e-05
+},
+{
+"day": "2026-02-24",
+"id": "lobstar",
+"symbol": "lobstar",
+"mint": "AVF9F4C4j8b1Kh4BmNHqybDaHgnZpJ7W7yLvL7hUpump",
+"peak_mcap": 10253664.792884303,
+"ath": 0.01025885,
+"price_now": 5.157e-05
+},
+{
+"day": "2026-02-25",
+"id": "molt-crabs",
+"symbol": "crabs",
+"mint": "HYhnRdn7nridbDUUcRsd3JtmvMCyKrVDew52CWGtpump",
+"peak_mcap": 1843837.7843728962,
+"ath": 0.00184397,
+"price_now": 5.37e-06
+},
+{
+"day": "2026-02-26",
+"id": "pippin",
+"symbol": "pippin",
+"mint": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
+"peak_mcap": 897138648.6039444,
+"ath": 0.897199,
+"price_now": 0.01390664
+},
+{
+"day": "2026-02-27",
+"id": "level941",
+"symbol": "pigeon",
+"mint": "4fSWEw2wbYEUCcMtitzmeGUfqinoafXxkhqZrA9Gpump",
+"peak_mcap": 9062787.929087033,
+"ath": 0.00920604,
+"price_now": 3.821e-05
+},
+{
+"day": "2026-02-28",
+"id": "peace",
+"symbol": "peace",
+"mint": "J5XxXQueFp1Har8GYa69N8Jw9yAG6r9VKujhAFaTpump",
+"peak_mcap": 336871.07961774786,
+"ath": 0.00033864,
+"price_now": 5.53e-06
+},
+{
+"day": "2026-03-01",
+"id": "psyopanime",
+"symbol": "psyopanime",
+"mint": "2nP9yKQNSGQy851iyawDvBkzkK2R2aqKArQCKc2gpump",
+"peak_mcap": 9762391.907662164,
+"ath": 0.00976314,
+"price_now": 0.00058968
+},
+{
+"day": "2026-03-02",
+"id": "ruck",
+"symbol": "ruck",
+"mint": "DKqgMMtEiAMXR8iz4tpVXgnmL8Bgzbu4XPyUrZWrpump",
+"peak_mcap": 902178.8069587627,
+"ath": 0.00090712,
+"price_now": 6.44e-06
+},
+{
+"day": "2026-03-03",
+"id": "autism-coin",
+"symbol": "autism",
+"mint": "8jiVXftnn2ZG6bugK7HAH5j2G3D6TpsG521gqsWwpump",
+"peak_mcap": 4353790.9698542915,
+"ath": 0.00435551,
+"price_now": 1.393e-05
+},
+{
+"day": "2026-03-04",
+"id": "ripplebids",
+"symbol": "xrpb-sol",
+"mint": "FJLz7hP4EXVMVnRBtP77V4k55t2BfXuajKQp1gcwpump",
+"peak_mcap": 1246606.7446914283,
+"ath": 0.00124832,
+"price_now": 8.11e-06
+},
+{
+"day": "2026-03-05",
+"id": "bootstrap",
+"symbol": "bootstrap",
+"mint": "2wP76beSJ8NB8bgFEkZkQCGtWErxqkxTYEGjx9jYpump",
+"peak_mcap": 1043557.5937170185,
+"ath": 0.0010436,
+"price_now": 3.9e-06
+},
+{
+"day": "2026-03-06",
+"id": "xpt",
+"symbol": "xpt",
+"mint": "DmxDBXTxEnNXVNNVVZe9QhgoKnr8anjE1b49dpZapump",
+"peak_mcap": 32264639.60774881,
+"ath": 0.03226485,
+"price_now": 0.00059782
+},
+{
+"day": "2026-03-07",
+"id": "biollm",
+"symbol": "biollm",
+"mint": "9oxGicd5KXNcthYM6yD23X9zcznQVnHjrAEN38fFpump",
+"peak_mcap": 2407867.2609964116,
+"ath": 0.00242599,
+"price_now": 0.00069344
+},
+{
+"day": "2026-03-08",
+"id": "zero-fee-trading-on-solana",
+"symbol": "untaxed",
+"mint": "BoRiiSZ4hqtbCnQc7cWaEYTEtxmzRXyy5xaKCt7Ppump",
+"peak_mcap": 600023.164552167,
+"ath": 0.00060025,
+"price_now": 2.93e-06
+},
+{
+"day": "2026-03-09",
+"id": "kilroy-was-here",
+"symbol": "kilroy",
+"mint": "CFYhdWXsYfS7swnJgHRwb5toTHMEQD7Ljd5gGwKLpump",
+"peak_mcap": 1382720.595252282,
+"ath": 0.00141004,
+"price_now": 0.00019887
+},
+{
+"day": "2026-03-10",
+"id": "the-shape-store",
+"symbol": "shape",
+"mint": "4HhWcsfjaWYKJtjaxd4EyGSAL4Ky8C3DvqAWPHnrpump",
+"peak_mcap": 3878302.544157797,
+"ath": 0.00387884,
+"price_now": 1.232e-05
+},
+{
+"day": "2026-03-11",
+"id": "war-2",
+"symbol": "war",
+"mint": "C9dJfTGUzhuqPWxh9mcDr66JZN4uzXh2gh9EWnEdpump",
+"peak_mcap": 44785949.354274906,
+"ath": 0.04478671,
+"price_now": 0.00056947
+},
+{
+"day": "2026-03-12",
+"id": "life-if",
+"symbol": "life",
+"mint": "C4yDhKwkikpVGCQWD9BT2SJyHAtRFFnKPDM9Nyshpump",
+"peak_mcap": 3273240.727879028,
+"ath": 0.00327494,
+"price_now": 7.9e-06
+},
+{
+"day": "2026-03-13",
+"id": "strategic-oil-supply-2",
+"symbol": "sos",
+"mint": "DpxKNEi3XVeRByaGqYKvz2w6E2PhPgBAqdayLcQEpump",
+"peak_mcap": 9762930.052662306,
+"ath": 0.00976314,
+"price_now": 6.243e-05
+},
+{
+"day": "2026-03-14",
+"id": "the-righteous-sheep",
+"symbol": "sheep",
+"mint": "5dfHpiBxagAKGUMLpCM246qHb8i8gADE3xdpVnDKpump",
+"peak_mcap": 745838.8368529746,
+"ath": 0.00074641,
+"price_now": 4.71e-06
+},
+{
+"day": "2026-03-26",
+"id": "monkey-cult",
+"symbol": "molt",
+"mint": "HyLXondhNhGkvWPXr8z4EPSgZNRRs4j8BHdyqMdVpump",
+"peak_mcap": 6969505.852759217,
+"ath": 0.00696958,
+"price_now": 0.00010613
+},
+{
+"day": "2026-03-27",
+"id": "pixelization",
+"symbol": "pixel",
+"mint": "H43xqMLiFLNLLGRhXKxJUVXdEe8uVdXs93Emo5Wzpump",
+"peak_mcap": 974456.275784452,
+"ath": 0.00097531,
+"price_now": 5.61e-06
+},
+{
+"day": "2026-03-28",
+"id": "rosie",
+"symbol": "rosie",
+"mint": "9QSjVAg5rDfBZPhvKwZcB63St3r6bqohP3Adurkjpump",
+"peak_mcap": 1535778.5724514672,
+"ath": 0.00153601,
+"price_now": 2.915e-05
+},
+{
+"day": "2026-03-29",
+"id": "umi-3",
+"symbol": "umi",
+"mint": "9YiTzXRbgoE1MtyxQ4sGF3vbdX944HNdcBmVpPQppump",
+"peak_mcap": 757864.6971163384,
+"ath": 0.00078566,
+"price_now": 6.09e-06
+},
+{
+"day": "2026-03-30",
+"id": "perk",
+"symbol": "perk",
+"mint": "F8Pz2mx7V8exRkBNFzvpkZAwjNPxWPGqzYJL2ckrpump",
+"peak_mcap": 1413310.5175556277,
+"ath": 0.00141405,
+"price_now": 4.12e-06
+},
+{
+"day": "2026-03-31",
+"id": "mmp-pay",
+"symbol": "mpay",
+"mint": "2veExVRBp9fytpSswZAjSmP8jLpLYUk4x8d2Fdp3pump",
+"peak_mcap": 290241.91984449275,
+"ath": 0.00029028,
+"price_now": 3.12e-06
+},
+{
+"day": "2026-04-01",
+"id": "zen-2",
+"symbol": "zen",
+"mint": "3tXvLBVojpviB13khqqsV4f7uh51Gy8m5q39eXJCpump",
+"peak_mcap": 16409142.231060063,
+"ath": 0.01730349,
+"price_now": 1.603e-05
+},
+{
+"day": "2026-04-02",
+"id": "deadwhale",
+"symbol": "deadwhale",
+"mint": "91E4cACQcnWDf7wYmwwM81HjLvCe6FR6vDT518ospump",
+"peak_mcap": 279342.7636019809,
+"ath": 0.0002795,
+"price_now": 4.62e-06
+},
+{
+"day": "2026-04-03",
+"id": "rocket-3",
+"symbol": "rocket",
+"mint": "4YiLHDR4B4pE4R5GUMA8HG8YunyeLwcobtEtvwMupump",
+"peak_mcap": 2296431.2640058454,
+"ath": 0.00229864,
+"price_now": 1.646e-05
+},
+{
+"day": "2026-04-04",
+"id": "meep-bird",
+"symbol": "meep",
+"mint": "4esMAXNgafXPLEgCNf6yKUdsWVs7DtdRoGJUv6Ubpump",
+"peak_mcap": 612613.6279139908,
+"ath": 0.00061292,
+"price_now": 3.71e-06
+},
+{
+"day": "2026-04-05",
+"id": "nuero",
+"symbol": "nuero",
+"mint": "8BrKogqwr7Uad9Pwkxw91w31v2x5qf8yDL4x52Qhpump",
+"peak_mcap": 643514.9416855442,
+"ath": 0.00064716,
+"price_now": 1.898e-05
+},
+{
+"day": "2026-04-06",
+"id": "stonks-7",
+"symbol": "stonks",
+"mint": "CYTUg8qLd45EGbx7MXxSwR5PSMNoUck5SetxxSDHpump",
+"peak_mcap": 1462099.768071914,
+"ath": 0.00146341,
+"price_now": 6.06e-06
+},
+{
+"day": "2026-04-07",
+"id": "crowneck",
+"symbol": "crowneck",
+"mint": "7VDixmZkVK9UYf6cLJWz3Vid6CUEtC6RHNeJsfJypump",
+"peak_mcap": 155350.4611024283,
+"ath": 0.0001556,
+"price_now": 2.72e-06
+},
+{
+"day": "2026-04-08",
+"id": "7x7-49",
+"symbol": "49",
+"mint": "97PGWGgGJorRwwYgNqF5Z68SqwoyiuT2UjumzSjDpump",
+"peak_mcap": 744994.4802158131,
+"ath": 0.00074538,
+"price_now": 4.74e-06
+},
+{
+"day": "2026-04-09",
+"id": "iroha",
+"symbol": "iroha",
+"mint": "9SeCSdbPzz95KomGUGEV9Shn2zGXNmMJhE9J72Hipump",
+"peak_mcap": 2175720.2355311695,
+"ath": 0.00217765,
+"price_now": 4.92e-06
+},
+{
+"day": "2026-04-10",
+"id": "neukgu",
+"symbol": "neukgu",
+"mint": "DFzeUzRnzbaVDziEhx8THxDD71GnBSpqUkuUnN2Qpump",
+"peak_mcap": 1785235.0718326967,
+"ath": 0.00178623,
+"price_now": 4.45e-06
+},
+{
+"day": "2026-04-11",
+"id": "the-wife-of-pepe-the-frog",
+"symbol": "peepa",
+"mint": "EamB9vqC1b4aoyPR6t3hn6CWf48yny84xzCuFJMbpump",
+"peak_mcap": 528756.5873942121,
+"ath": 0.00052909,
+"price_now": 1.01e-05
+},
+{
+"day": "2026-04-12",
+"id": "solana-the-pygmy-hippo",
+"symbol": "solana",
+"mint": "De4ULouuU2cAQkhKuYrsrFtJGRRmcSwQD5esmnAUpump",
+"peak_mcap": 202813.56979271045,
+"ath": 0.00020286,
+"price_now": 4.51e-06
+},
+{
+"day": "2026-04-13",
+"id": "baby-bull",
+"symbol": "babybull",
+"mint": "7tuPcPMUoDUxxb1j1NPjyjLXaqDwmxaW7mA2Y8Mbpump",
+"peak_mcap": 187866.8125054431,
+"ath": 0.00018804,
+"price_now": 3.64e-06
+},
+{
+"day": "2026-04-14",
+"id": "elon-coin",
+"symbol": "elon",
+"mint": "2akXpuyFXAVN5YofZpZMfBp2Vxognpmv9NooBMuHpump",
+"peak_mcap": 3014337.905115078,
+"ath": 0.00301527,
+"price_now": 8.415e-05
+},
+{
+"day": "2026-04-15",
+"id": "bull-5",
+"symbol": "bull",
+"mint": "3TYgKwkE2Y3rxdw9osLRSpxpXmSC1C1oo19W9KHspump",
+"peak_mcap": 10854632.940860074,
+"ath": 0.01085955,
+"price_now": 3.967e-05
+},
+{
+"day": "2026-04-16",
+"id": "milkers",
+"symbol": "milkers",
+"mint": "nNcqotFpBF7hsAqbNs1v2cYWeMnaKjFc3D2gHoQpump",
+"peak_mcap": 975079.6099136138,
+"ath": 0.00097601,
+"price_now": 8.9e-06
+},
+{
+"day": "2026-04-17",
+"id": "brent-on-sol",
+"symbol": "brent",
+"mint": "kLqMvUm1p4pRbxU4r8kWCTVAuWMJLtcTJqGb4b5pump",
+"peak_mcap": 14091038.795820625,
+"ath": 0.01410698,
+"price_now": 0.00039974
+},
+{
+"day": "2026-04-18",
+"id": "dumb-money-3",
+"symbol": "dumbmoney",
+"mint": "CAjtTHvC878f8cZ4zEwdvgjkjFM7rbYN8Mb1go1cpump",
+"peak_mcap": 6297902.585755674,
+"ath": 0.00634485,
+"price_now": 2.67e-05
+},
+{
+"day": "2026-04-19",
+"id": "unc-asteroid",
+"symbol": "unceroid",
+"mint": "BiBMG42BrmvJE5gY5UCXLURroGR6tBC1gfcYbZuEpump",
+"peak_mcap": 5782315.362945441,
+"ath": 0.00582603,
+"price_now": 6.9e-06
+},
+{
+"day": "2026-04-20",
+"id": "tardi-2",
+"symbol": "tardi",
+"mint": "4JBeo37fKhEsTXp6PtAYktYRnDAa8DcXZaZ4tTuPpump",
+"peak_mcap": 3646935.9024136313,
+"ath": 0.00364839,
+"price_now": 7.19e-06
+},
+{
+"day": "2026-04-21",
+"id": "just-hold",
+"symbol": "hold",
+"mint": "5vRKL81u2DfjEWoN5Z5hyiVtKCvijRxAGqShNKXTpump",
+"peak_mcap": 284172.94891910313,
+"ath": 0.00028913,
+"price_now": 2.95e-06
+},
+{
+"day": "2026-04-22",
+"id": "peace-frog-2",
+"symbol": "peace",
+"mint": "HcbsqQC3sn2LMwbjVafiEd8nJ2ATZHH2wXH4xqV2pump",
+"peak_mcap": 9397161.556611672,
+"ath": 0.0093985,
+"price_now": 8.94e-06
+},
+{
+"day": "2026-04-23",
+"id": "uncraft",
+"symbol": "uncraft",
+"mint": "2pFFgMtw7GkE6Kr6Xpg81mqDvEihhoafg64HdheKpump",
+"peak_mcap": 7243292.201767403,
+"ath": 0.00724959,
+"price_now": 5.4e-06
+},
+{
+"day": "2026-04-24",
+"id": "skibidi-toilet-3",
+"symbol": "skibidi",
+"mint": "FFvp48WygUSxCCNP3n9Zu5G7F2yatwXQHbpD2Mkkpump",
+"peak_mcap": 1260211.4995816497,
+"ath": 0.00126948,
+"price_now": 7.2e-06
+},
+{
+"day": "2026-04-25",
+"id": "make-aliens-great-again",
+"symbol": "maga",
+"mint": "Hon2rHAiqkcDtUzL5gA2vjXPr7T1MPCK2UT2AHKCpump",
+"peak_mcap": 28755037.13723857,
+"ath": 0.02939673,
+"price_now": 0.00032982
+},
+{
+"day": "2026-04-26",
+"id": "burnie-senders",
+"symbol": "burnie",
+"mint": "CGEDT9QZDvvH5GmVkWJH2BXiMJqMJySC9ihWyr7Spump",
+"peak_mcap": 23736193.384062838,
+"ath": 0.0244791,
+"price_now": 0.00088652
+},
+{
+"day": "2026-04-27",
+"id": "unc",
+"symbol": "unc",
+"mint": "ACtfUWtgvaXrQGNMiohTusi5jcx5RJf5zwu9aAxkpump",
+"peak_mcap": 7276881.566546193,
+"ath": 0.00727827,
+"price_now": 0.00025786
+},
+{
+"day": "2026-04-28",
+"id": "scam-altman",
+"symbol": "scam",
+"mint": "6AVAUKa9uxQpruHZUinFECpXEh1usRVtzQWK8N2wpump",
+"peak_mcap": 11890674.371357502,
+"ath": 0.01189349,
+"price_now": 0.00011712
+},
+{
+"day": "2026-04-29",
+"id": "rcsc",
+"symbol": "rcsc",
+"mint": "5GV3iDWoURdYaSS52wr4NkGLzpk7G6pVf8A9QXLhpump",
+"peak_mcap": 3452029.5642807717,
+"ath": 0.00345206,
+"price_now": 8.379e-05
+},
+{
+"day": "2026-04-30",
+"id": "lunchmoney",
+"symbol": "lunchmoney",
+"mint": "3vH3NzuHafRNvwKKzoGTWNuLtg5Kc38BxsmfUwgPpump",
+"peak_mcap": 2357918.888660562,
+"ath": 0.00244724,
+"price_now": 2.93e-06
+},
+{
+"day": "2026-05-01",
+"id": "scribblification",
+"symbol": "scribbli",
+"mint": "8c3JdTcEqy9XdUJ36NAns7XVDfh356nWxvwcMYKNpump",
+"peak_mcap": 1303998.6598737333,
+"ath": 0.00159823,
+"price_now": 9.65e-06
+},
+{
+"day": "2026-05-02",
+"id": "fofar-3",
+"symbol": "fofar",
+"mint": "Ha5Z2DfRv6Ar2nAeBLCGWHqzwXKL3of4DqKwzzwpump",
+"peak_mcap": 2012409.938062979,
+"ath": 0.00201297,
+"price_now": 6.85e-06
+},
+{
+"day": "2026-05-03",
+"id": "octopus-coin-2",
+"symbol": "octopus",
+"mint": "HDG8Ng6YLpiYXzBASD1Zd5Wh7T8DHRYFcbf4YGuvpump",
+"peak_mcap": 704104.6919040958,
+"ath": 0.00104306,
+"price_now": 8.81e-06
+},
+{
+"day": "2026-05-04",
+"id": "trollpface",
+"symbol": "trollpface",
+"mint": "3XwDQHMKcner1GhXRqLKojrWWwNdMaruQs7g7riDpump",
+"peak_mcap": 231235.05634370694,
+"ath": 0.00023124,
+"price_now": 2.94e-06
+},
+{
+"day": "2026-05-05",
+"id": "apple-2",
+"symbol": "apple",
+"mint": "Aw5SxKyYhXFdZj2BHCqs11UaV5ohwpFQjauB9jFhpump",
+"peak_mcap": 3319994.4903409886,
+"ath": 0.00332199,
+"price_now": 1.76e-05
+},
+{
+"day": "2026-05-06",
+"id": "beb",
+"symbol": "beb1m",
+"mint": "EGedTSu2zdFNT1k7phURksCpcwHNyxepLzSMYGApump",
+"peak_mcap": 3062854.486038264,
+"ath": 0.00306371,
+"price_now": 0.00052362
+},
+{
+"day": "2026-05-07",
+"id": "yep",
+"symbol": "yep",
+"mint": "2UZ2GtUJkbGQa1SLJ8zsQznCQvb2z4EJ2g9ZxCT3pump",
+"peak_mcap": 3143121.489484644,
+"ath": 0.00314463,
+"price_now": 4.33e-06
+},
+{
+"day": "2026-05-08",
+"id": "terminal-of-fun",
+"symbol": "fun",
+"mint": "9MnKTgwFyXJgnZumHGT9NdHuzm98ACjkNwpLniLhpump",
+"peak_mcap": 87608346.96999265,
+"ath": 0.090024,
+"price_now": 2.026e-05
+},
+{
+"day": "2026-05-09",
+"id": "winternomics-tv",
+"symbol": "wntv",
+"mint": "2GXmB95pGD3pHV4mzNq7YsmyiEmVYWQLptbwYqgdpump",
+"peak_mcap": 11954086.42773722,
+"ath": 0.01195419,
+"price_now": 0.00348545
+},
+{
+"day": "2026-05-10",
+"id": "bobo-coin-2",
+"symbol": "bobo",
+"mint": "4nV5gNwwP68zUDat26ySChREqVaQaLudfJBkSgEzpump",
+"peak_mcap": 23840380.545362815,
+"ath": 0.02384075,
+"price_now": 0.0054585
+},
+{
+"day": "2026-05-11",
+"id": "goblincoin",
+"symbol": "goblin",
+"mint": "3KHMZhpthXuiCcgfTv7vVu9PpEz64KAEURFwi6Lopump",
+"peak_mcap": 18634521.7187221,
+"ath": 0.02649191,
+"price_now": 0.00011094
+},
+{
+"day": "2026-05-12",
+"id": "traderclaw",
+"symbol": "tclaw",
+"mint": "4bCcwHAANr5dntJQmmZVqre6kxggchiuJRYiybBVpump",
+"peak_mcap": 4811658.472557869,
+"ath": 0.00481399,
+"price_now": 2.88e-06
+},
+{
+"day": "2026-05-13",
+"id": "holozone",
+"symbol": "holo",
+"mint": "B8hCuoikV9gLeuwmTyhNdLbPnb5k3P77Q7WTtEM7pump",
+"peak_mcap": 86236946.19313209,
+"ath": 0.088488,
+"price_now": 3.271e-05
+},
+{
+"day": "2026-05-14",
+"id": "chinification",
+"symbol": "chinify",
+"mint": "szGYh9gRqYyf9VXBuQGVttZp86RAuC6RcUhriBUpump",
+"peak_mcap": 3241013.584941941,
+"ath": 0.0032415,
+"price_now": 2.42e-06
+},
+{
+"day": "2026-05-15",
+"id": "andes-virus",
+"symbol": "andv",
+"mint": "jvKtLFLnNGPM7edS9KEpYqPxuY8HPGTZohLFM4Spump",
+"peak_mcap": 821900.1405108153,
+"ath": 0.00082198,
+"price_now": 5.95e-06
+},
+{
+"day": "2026-05-16",
+"id": "chimerica",
+"symbol": "chimerica",
+"mint": "HrkUao5JcWxQ6888vymJT23VzR8mUaedvEMMKmpZpump",
+"peak_mcap": 10777832.695388481,
+"ath": 0.01077824,
+"price_now": 3.46e-06
+},
+{
+"day": "2026-05-17",
+"id": "space-troll",
+"symbol": "spctroll",
+"mint": "FoePfchN3A6LeJ2jvN8uVe4No9pK7zHYhhgD3Qidpump",
+"peak_mcap": 35616115.37200547,
+"ath": 0.03563055,
+"price_now": 2.51e-06
+},
+{
+"day": "2026-05-18",
+"id": "boob",
+"symbol": "boob",
+"mint": "9zqre5sRRdFvKqyTyvEd1jcKDRF4g47s7mZSGUnQpump",
+"peak_mcap": 7833023.195621266,
+"ath": 0.00783346,
+"price_now": 7.114e-05
+},
+{
+"day": "2026-05-19",
+"id": "just-a-memecoin",
+"symbol": "memecoin",
+"mint": "Bb4jR951QtVjeFAYFLBYXDSMKjbTDroCLPbFLdd7pump",
+"peak_mcap": 16030108.648719119,
+"ath": 0.01603038,
+"price_now": 0.00023345
+},
+{
+"day": "2026-05-20",
+"id": "dream26",
+"symbol": "dream26",
+"mint": "CuAgWRcsKuNBoXLvytiRc1BQ4yF19gcxkX8ufmHNpump",
+"peak_mcap": 1241022.615202886,
+"ath": 0.00124127,
+"price_now": 2.77e-06
+},
+{
+"day": "2026-05-21",
+"id": "virl-fun",
+"symbol": "virl",
+"mint": "BiywH8Eq2CbGhwMHKwCnfTiccWJwN7r1Q4Qn9hsypump",
+"peak_mcap": 6232518.692321386,
+"ath": 0.00624122,
+"price_now": 1.593e-05
+},
+{
+"day": "2026-05-22",
+"id": "yippee",
+"symbol": "tbh",
+"mint": "8A295DWFRHFBbMMmeTJQwXJSdnUe3wfh6QX6gK4Tpump",
+"peak_mcap": 3335505.53466957,
+"ath": 0.00333556,
+"price_now": 2.213e-05
+},
+{
+"day": "2026-05-23",
+"id": "federated-states-of-gapla",
+"symbol": "gapla",
+"mint": "3y3X6Bk6zpZpaFJ1KYJ7b33HbFM7ip5TqQPYLWJhpump",
+"peak_mcap": 1153112.7151638,
+"ath": 0.00115452,
+"price_now": 1.086e-05
+},
+{
+"day": "2026-05-24",
+"id": "all-the-money-2",
+"symbol": "atm",
+"mint": "w9LTBBFqjcADdw52oLKjUUd7qimbBaeY68CFaebpump",
+"peak_mcap": 205733.95918960066,
+"ath": 0.00020712,
+"price_now": 3.02e-06
+},
+{
+"day": "2026-05-25",
+"id": "spitcoin",
+"symbol": "spitcoin",
+"mint": "Ft7SDd5ET1kvTq5MgiWzSR1QRwHWDsjFPhAbPPJPpump",
+"peak_mcap": 1555297.070892448,
+"ath": 0.00155543,
+"price_now": 3.48e-06
+},
+{
+"day": "2026-05-26",
+"id": "hoppy-2",
+"symbol": "hoppy",
+"mint": "2RWndXkxWkaKhGjE7dZivVbK5qXtpwnCZJ1jpnxapump",
+"peak_mcap": 1794920.37876143,
+"ath": 0.00180134,
+"price_now": 6.32e-06
+},
+{
+"day": "2026-05-27",
+"id": "the-chubby-elephant",
+"symbol": "\u0e0a\u0e31\u0e49\u0e07",
+"mint": "2kBH6UcR8TitebUbKNYNvjUkSFWaiFBJ7nAPTKQwpump",
+"peak_mcap": 1806405.184414166,
+"ath": 0.00180724,
+"price_now": 8.07e-06
+},
+{
+"day": "2026-05-28",
+"id": "buffalo-don",
+"symbol": "buffdon",
+"mint": "CbyQSD5njpmhcEa8S3MczdF5xRHKT5NpyyceX285pump",
+"peak_mcap": 957176.9839194075,
+"ath": 0.0009575,
+"price_now": 5.17e-06
+},
+{
+"day": "2026-05-29",
+"id": "altseason",
+"symbol": "altszn",
+"mint": "CcLd8HTAKLWtQHatqPwBQjtuCA72FNB9E1ckRTEzpump",
+"peak_mcap": 9044421.239225617,
+"ath": 0.00904484,
+"price_now": 0.00300637
+},
+{
+"day": "2026-05-30",
+"id": "clude",
+"symbol": "clude",
+"mint": "AWGCDT2gd8JadbYbYyZy1iKxfWokPNgrEQoU24zUpump",
+"peak_mcap": 4060876.0747462483,
+"ath": 0.00406108,
+"price_now": 0.00043077
+},
+{
+"day": "2026-05-31",
+"id": "official-layoff-coin",
+"symbol": "layoff",
+"mint": "9voQQTTdfbqfXwc9rZAdJEeXXjUWjHnB4wkShMT8pump",
+"peak_mcap": 4041222.862815314,
+"ath": 0.00418483,
+"price_now": 7.935e-05
+},
+{
+"day": "2026-06-01",
+"id": "dat-bih-gah",
+"symbol": "datbihgah",
+"mint": "5vAExw5RGMqsxUTUoX2UByh1vi4U4UoLL4fguaMEpump",
+"peak_mcap": 1304150.8905760208,
+"ath": 0.00130507,
+"price_now": 6.64e-06
+},
+{
+"day": "2026-06-02",
+"id": "peduck",
+"symbol": "peduck",
+"mint": "7ELpaNSqPQKWA1LS7HqMJzLLxLPpoJSa3fKiYoZpump",
+"peak_mcap": 182366.6791008982,
+"ath": 0.00018239,
+"price_now": 2.19e-06
+},
+{
+"day": "2026-06-03",
+"id": "peptides-2",
+"symbol": "pepti",
+"mint": "61aNNrrRp81a3ZztDL69dNyrcshBsqWZdWVSrpYpump",
+"peak_mcap": 986738.3311804782,
+"ath": 0.00101275,
+"price_now": 4.12e-06
+},
+{
+"day": "2026-06-04",
+"id": "three-ws",
+"symbol": "three",
+"mint": "FeMbDoX7R1Psc4GEcvJdsbNbZA3bfztcyDCatJVJpump",
+"peak_mcap": 15392089.555756014,
+"ath": 0.0153978,
+"price_now": 0.00052072
+},
+{
+"day": "2026-06-05",
+"id": "big-ass-rewards-sendor",
+"symbol": "bars",
+"mint": "2AG4HMFdBYEHoofZCR1anuiPoSVNWwWGQbTRL6WWpump",
+"peak_mcap": 838541.9876066376,
+"ath": 0.00084282,
+"price_now": 0.00012707
+},
+{
+"day": "2026-06-06",
+"id": "bitcoin-bank",
+"symbol": "btcbank",
+"mint": "9s96G11xGsHczudfJqKQzQxzvubQgJXSySJ1wRgxpump",
+"peak_mcap": 743047.2887414576,
+"ath": 0.00074314,
+"price_now": 7.61e-06
+},
+{
+"day": "2026-06-07",
+"id": "bountywork",
+"symbol": "bountywork",
+"mint": "J4x1EMmQjF6WEzXq2tUtzY89x5aMhYz5CzfevcJEpump",
+"peak_mcap": 2334285.915240357,
+"ath": 0.00233528,
+"price_now": 8.7e-06
+},
+{
+"day": "2026-06-08",
+"id": "vibesterz",
+"symbol": "vstr",
+"mint": "BnhsxDwWwDPVaURQo7KsTJxYogAAc2Pe2Eo2iJa3pump",
+"peak_mcap": 210661.30781818504,
+"ath": 0.00021202,
+"price_now": 3.17e-06
+},
+{
+"day": "2026-06-09",
+"id": "pumpgo",
+"symbol": "go",
+"mint": "CujZ5W6GWYb5XYe3hsTJ6kjiaw5MdZjbKQEuGA6jpump",
+"peak_mcap": 495450.32137777953,
+"ath": 0.00049637,
+"price_now": 4.92e-06
+},
+{
+"day": "2026-06-10",
+"id": "mumu-the-bull-4",
+"symbol": "mumu",
+"mint": "hf34pZHnV4entu9bdp4pFEmeKpivEUeSUhASgWopump",
+"peak_mcap": 4215609.662505286,
+"ath": 0.00421569,
+"price_now": 0.00014325
+},
+{
+"day": "2026-06-11",
+"id": "football-capital-markets",
+"symbol": "fcm",
+"mint": "Hkpi2SkNWm5LogyY1Bz4zYTq5REVvco2aYWd1tYppump",
+"peak_mcap": 6950136.29926309,
+"ath": 0.00704927,
+"price_now": 2.317e-05
+},
+{
+"day": "2026-06-12",
+"id": "gaejuki",
+"symbol": "gaejuki",
+"mint": "43RuMKo4KTNekqjGSBM4NTsnL2dA8kf2MopF12eEpump",
+"peak_mcap": 4287417.344574706,
+"ath": 0.00428836,
+"price_now": 3.03e-06
+},
+{
+"day": "2026-06-13",
+"id": "the-fearless-guardian",
+"symbol": "guardian",
+"mint": "7YMkZZwdcwUbXKjYpr5gFAVoB6aF4f9iLWK6pUcppump",
+"peak_mcap": 359896.66118022,
+"ath": 0.00036001,
+"price_now": 3.03e-06
+},
+{
+"day": "2026-06-14",
+"id": "manifesting",
+"symbol": "manifest",
+"mint": "BCdwQBAn8dYB5YjTsoB6TdHAWokxv28k2oZUodERpump",
+"peak_mcap": 47739190.283421494,
+"ath": 0.053044,
+"price_now": 0.00513464
+},
+{
+"day": "2026-06-15",
+"id": "solomon-2",
+"symbol": "sol777",
+"mint": "23Y1bUqVcJsvWH9WpVJfj1xDozq2GdKbEhRSdGhDpump",
+"peak_mcap": 2767825.482532435,
+"ath": 0.00276786,
+"price_now": 0.00026834
+},
+{
+"day": "2026-06-16",
+"id": "wasabi-cheese",
+"symbol": "wasabi",
+"mint": "DSZeB6pCzZsM43gTz7jakiYeCafinsNMKcpeB1FApump",
+"peak_mcap": 1249898.6384899325,
+"ath": 0.00136621,
+"price_now": 0.00022515
+},
+{
+"day": "2026-06-17",
+"id": "gently-used-lada",
+"symbol": "lada",
+"mint": "25JUPL6ksapY1iCLWkFcSaXaA6Ar3W7JDCdPjeSApump",
+"peak_mcap": 952754.002936379,
+"ath": 0.00095422,
+"price_now": 1.563e-05
+},
+{
+"day": "2026-06-18",
+"id": "the-patriotic-duck",
+"symbol": "merlin",
+"mint": "AvxFBjWydMYWD7C8pHzSkGxNYAFWr7aNBbAKm84bpump",
+"peak_mcap": 2590495.0191053855,
+"ath": 0.00259217,
+"price_now": 7.32e-06
+},
+{
+"day": "2026-06-19",
+"id": "farmtown",
+"symbol": "farm",
+"mint": "yMJPZbnhoHib3ib8n8PfiVcp9yauk1vnaGKLx7epump",
+"peak_mcap": 3338458.6673593144,
+"ath": 0.00338581,
+"price_now": 6.93e-06
+},
+{
+"day": "2026-06-20",
+"id": "banana-tape-wall",
+"symbol": "btw",
+"mint": "4ytpZgVoNB66bFs6NRCUaAVsLdtYk2fHq4U92Jnjpump",
+"peak_mcap": 191460587.21820873,
+"ath": 0.191686,
+"price_now": 4.279e-05
+},
+{
+"day": "2026-06-21",
+"id": "daemon",
+"symbol": "daemon",
+"mint": "4vpf4qNtNVkvz2dm5qL2mT6jBXH9gDY8qH2QsHN5pump",
+"peak_mcap": 2018275.5218945243,
+"ath": 0.00201915,
+"price_now": 6.33e-06
+},
+{
+"day": "2026-06-22",
+"id": "frags-fun-game",
+"symbol": "frag",
+"mint": "J4Y92jy5Lr9ho1aV41bhguytnzBbsPhZJahmaVszpump",
+"peak_mcap": 1748721.3000606464,
+"ath": 0.0017553,
+"price_now": 5.22e-06
+},
+{
+"day": "2026-06-23",
+"id": "asteroid-neiro",
+"symbol": "mrasteroid",
+"mint": "FtgKs1pyNhgGZmhywZUmgwtKR9SQnQgD9L1cnqKFpump",
+"peak_mcap": 772474.9653152577,
+"ath": 0.00077254,
+"price_now": 3.95e-06
+},
+{
+"day": "2026-06-24",
+"id": "xona-agent",
+"symbol": "xona",
+"mint": "Ckit5s1Cpc3RdMh1HrhfW2nAy4PnkkgjXgXMeykbpump",
+"peak_mcap": 1559246.7141717775,
+"ath": 0.00155977,
+"price_now": 0.00040757
+},
+{
+"day": "2026-06-25",
+"id": "brainblast",
+"symbol": "brain",
+"mint": "7qSrCNchoiFxtxikTJm8x892tGdrtNgsaghfcnDBpump",
+"peak_mcap": 1380702.951966735,
+"ath": 0.00141081,
+"price_now": 3.65e-06
+},
+{
+"day": "2026-06-26",
+"id": "cap-3",
+"symbol": "cap",
+"mint": "7E2iF4WFs5biCtkAVFCBPEdnpg7t2D19VzxjxEPvpump",
+"peak_mcap": 27863680.56061584,
+"ath": 0.02787776,
+"price_now": 8.28e-06
+},
+{
+"day": "2026-06-27",
+"id": "jotchua",
+"symbol": "jotchua",
+"mint": "BcHEaaTCvycPwwsJ9yQTXdHP9X2gCLkznDbZ8VySpump",
+"peak_mcap": 13726646.548152996,
+"ath": 0.013729,
+"price_now": 0.00126766
+},
+{
+"day": "2026-06-28",
+"id": "unicorn-3-2",
+"symbol": "uwu",
+"mint": "UWUy7J86LUiBv5SjAUZ53LMGhtnqvbQ7QNSSkyupump",
+"peak_mcap": 60009949.05935823,
+"ath": 0.06001,
+"price_now": 0.00172806
+},
+{
+"day": "2026-06-29",
+"id": "are-ya-winning-son-2",
+"symbol": "son",
+"mint": "ACpzkGJV3DDU8HXy8yjab7RL9qNmDGym2GwLkzNppump",
+"peak_mcap": 2993498.851651149,
+"ath": 0.00299401,
+"price_now": 2.607e-05
+},
+{
+"day": "2026-06-30",
+"id": "catwifhat-4",
+"symbol": "catwif",
+"mint": "5pYB12kEhfhSFXJjZ7JtyqDpt6uUqhsF6iu6Ee9spump",
+"peak_mcap": 3209069.258038338,
+"ath": 0.00320984,
+"price_now": 3.867e-05
+},
+{
+"day": "2026-07-01",
+"id": "just-a-dog",
+"symbol": "dog",
+"mint": "9gAVAtdnsrniW3GCwsvDeRPf5eJDjtT9S5bu1j7tpump",
+"peak_mcap": 4970802.488685226,
+"ath": 0.00497125,
+"price_now": 0.00011384
+},
+{
+"day": "2026-07-02",
+"id": "occam",
+"symbol": "occam",
+"mint": "41y7bEjuidUJTZJ7mbfqzKjNcBiecYvjnyPwCb2gpump",
+"peak_mcap": 5234604.001194421,
+"ath": 0.00523461,
+"price_now": 7.34e-06
+},
+{
+"day": "2026-07-03",
+"id": "the-top-influencer",
+"symbol": "lojakpaul",
+"mint": "HS4DWjgJ2h51PCnhh95saqgLQ21Zps6VABK1vi9gpump",
+"peak_mcap": 1067325.6239219208,
+"ath": 0.00106763,
+"price_now": 5.05e-06
+},
+{
+"day": "2026-07-04",
+"id": "manlet",
+"symbol": "manlet",
+"mint": "DdPrHYqM8Ueovnk9kAnAgoGhswkuaTqmxcoZzU3Zpump",
+"peak_mcap": 22857171.863050453,
+"ath": 0.02288782,
+"price_now": 2.715e-05
+},
+{
+"day": "2026-07-05",
+"id": "chancecoin",
+"symbol": "chance",
+"mint": "JCKwsT8UAbygnFkZ7u3amDUM7BXRtwUhCsHQv2khpump",
+"peak_mcap": 4884756.164213848,
+"ath": 0.00488584,
+"price_now": 1.058e-05
+},
+{
+"day": "2026-07-06",
+"id": "the-black-bull",
+"symbol": "ansem",
+"mint": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+"peak_mcap": 442444503.5269309,
+"ath": 0.443616,
+"price_now": 0.04979602
+},
+{
+"day": "2026-07-07",
+"id": "drooling-cat",
+"symbol": "drooling",
+"mint": "B6f27ETGcjgGNB1fqULJbXVmw9FnL8HgBp7R83hmpump",
+"peak_mcap": 3634490.4064494804,
+"ath": 0.00363632,
+"price_now": 9.395e-05
+},
+{
+"day": "2026-07-09",
+"id": "assetfunds",
+"symbol": "assetfunds",
+"mint": "Ddi2j3nWfN7meq4jBZUD1VC8QGUe1sNqrQUNxxXwpump",
+"peak_mcap": 5941670.0,
+"ath": 0.00594167,
+"price_now": 2.3e-06
+},
+{
+"day": "2026-07-10",
+"id": "ok",
+"symbol": "ok",
+"mint": "CizcDa22HJjXybKLriibqP167GcJjqiDHDPtuiMmpump",
+"peak_mcap": 1284083.2037226516,
+"ath": 0.00128426,
+"price_now": 1.108e-05
+},
+{
+"day": "2026-07-11",
+"id": "febu",
+"symbol": "febu",
+"mint": "4ko5tSr5o3H4v1sFtjTSd9MPUW7yx5AFCpkNPoL6pump",
+"peak_mcap": 9164649.48490214,
+"ath": 0.0092188,
+"price_now": 4.666e-05
+},
+{
+"day": "2026-07-12",
+"id": "tokenos-ai",
+"symbol": "tos",
+"mint": "HmjCoarLh5duURfJ333DwfFiPyTCgFT35pRSAoP8pump",
+"peak_mcap": 43879000.83881634,
+"ath": 0.04388847,
+"price_now": 0.00355404
+},
+{
+"day": "2026-07-13",
+"id": "the-charging-bison",
+"symbol": "bison",
+"mint": "GwZvGvVzjWTL1mvpw55KQWztTQvWo3B6ew16N2aspump",
+"peak_mcap": 594699.0163352762,
+"ath": 0.00059517,
+"price_now": 4.1e-06
+},
+{
+"day": "2026-07-14",
+"id": "diarrheacoin-2",
+"symbol": "diarrhea",
+"mint": "9Gv4i5YikU2rV6L9zA3XEXsmjiYqwpnUsLsvADWJpump",
+"peak_mcap": 766941.6680745445,
+"ath": 0.00076781,
+"price_now": 5.88e-06
+},
+{
+"day": "2026-07-15",
+"id": "the-bull-cat",
+"symbol": "bullcat",
+"mint": "G9j8WWDeJXZdvwQgP82ooDuHmpc3Gy8NCSins71Lpump",
+"peak_mcap": 2098495.912186382,
+"ath": 0.00210016,
+"price_now": 1.209e-05
+},
+{
+"day": "2026-07-16",
+"id": "udin-din-din-dun",
+"symbol": "udin",
+"mint": "2aQKC1xiKpEyAWvzSDrULnYLVuybWyx7qrsnpP8hpump",
+"peak_mcap": 855777.4043084603,
+"ath": 0.00085607,
+"price_now": 2.233e-05
+},
+{
+"day": "2026-07-17",
+"id": "hyper-bull",
+"symbol": "hbull",
+"mint": "7V6Sk63y8Rr1MvcN5mYNp61wgFhy4EeQg5gUASk9pump",
+"peak_mcap": 5650150.0,
+"ath": 0.00565015,
+"price_now": 3.831e-05
+},
+{
+"day": "2026-07-18",
+"id": "welcome-back-homie",
+"symbol": "homie",
+"mint": "E7vTVLLaxV3y68cpnDx2Q7ExeznhWgJKwPziKDsrpump",
+"peak_mcap": 588799.2877590866,
+"ath": 0.00058906,
+"price_now": 4.01e-06
+},
+{
+"day": "2026-07-19",
+"id": "meowpin",
+"symbol": "meowpin",
+"mint": "3Tf3RD5t45wQJF8uEYVXpR2M4wBiCaSNwUWENzVGpump",
+"peak_mcap": 1271797.5647916058,
+"ath": 0.00127197,
+"price_now": 8.23e-06
+},
+{
+"day": "2026-07-20",
+"id": "the-white-bull-2",
+"symbol": "levi",
+"mint": "6baGyq4HLbUn93MQUGFqBktpXP8BRjpoxSsAap4ppump",
+"peak_mcap": 664466.2273230399,
+"ath": 0.00066448,
+"price_now": 7.963e-05
+},
+{
+"day": "2026-07-21",
+"id": "the-golden-whale-2",
+"symbol": "whale",
+"mint": "4rABHLfm7BDkkjrkyPYtRadg2BZTEZVoEy3MzrFQpump",
+"peak_mcap": 216267.598433915,
+"ath": 0.0002165,
+"price_now": 5.26e-06
+},
+{
+"day": "2026-07-22",
+"id": "jimothy-the-raccoon",
+"symbol": "jimothy",
+"mint": "Ge87EtsjwRQbHaqQmKRno69RFTwh9bfSsm99XNxTpump",
+"peak_mcap": 45171601.82072749,
+"ath": 0.04517575,
+"price_now": 0.00138468
+},
+{
+"day": "2026-07-23",
+"id": "tung-tung-tung-sahur-2",
+"symbol": "triplet",
+"mint": "J8PSdNP3QewKq2Z1JJJFDMaqF7KcaiJhR7gbr5KZpump",
+"peak_mcap": 27009992.3770565,
+"ath": 0.0270134,
+"price_now": 0.00380415
+},
+{
+"day": "2026-07-24",
+"id": "looong",
+"symbol": "looong",
+"mint": "AkchGAUdXXRGHt3HXaHbTvw3JLGUwtJRmYnkG66wpump",
+"peak_mcap": 2396850.87729902,
+"ath": 0.00249379,
+"price_now": 8.32e-06
+},
+{
+"day": "2026-07-25",
+"id": "ket-3",
+"symbol": "ket",
+"mint": "9Pfync3ejPC9eHqVzq3nYQJAhyhjqpnB9UsaSfLxpump",
+"peak_mcap": 18711645.201626968,
+"ath": 0.01871222,
+"price_now": 0.00171248
+},
+{
+"day": "2026-07-26",
+"id": "the-bitcoin-bull",
+"symbol": "tbb",
+"mint": "42cXQvAAr7hcPBPWAS4ocVtDyeJ4Fa6gRR2uG4gppump",
+"peak_mcap": 47631704.556631364,
+"ath": 0.04763176,
+"price_now": 0.00490136
+},
+{
+"day": "2026-07-27",
+"id": "brotchen",
+"symbol": "br\u00f6tchen",
+"mint": "9ZtbETDNjnST9Y2zs82FZYy49xUMPgqXRh46YjjRpump",
+"peak_mcap": 2442955.589872393,
+"ath": 0.00244395,
+"price_now": 1.812e-05
+},
+{
+"day": "2026-07-28",
+"id": "pumpkets",
+"symbol": "pumpkets",
+"mint": "HhqF5NowD4qThZBNDbgYAFvChEpAexSk1Qmu1nCzpump",
+"peak_mcap": 255754.07311201334,
+"ath": 0.00027252,
+"price_now": 4.1e-06
+},
+{
+"day": "2026-07-29",
+"id": "frank-ocean",
+"symbol": "frank",
+"mint": "3aqXuwp6HuVXs9vdD9Gpg4dzJaUx443RjK7GXzphpump",
+"peak_mcap": 1427770.3809288493,
+"ath": 0.00148586,
+"price_now": 7.83e-06
+},
+{
+"day": "2026-07-30",
+"id": "dr-death",
+"symbol": "fauci",
+"mint": "3VFnDoACa991DYe987w354sbvmhqjjzC4Z31SoZepump",
+"peak_mcap": 429923.472748456,
+"ath": 0.00044581,
+"price_now": 7.94e-06
+},
+{
+"day": "2026-07-31",
+"id": "moon-doge-coin",
+"symbol": "moondogecoin",
+"mint": "AYJ1tYQZZJ1gmZhURYuXLwG9bygUcgBnYPzriLpxpump",
+"peak_mcap": 26022933.312516365,
+"ath": 0.02620213,
+"price_now": 4.77e-06
+},
+{
+"day": "2026-08-01",
+"id": "catjak-2",
+"symbol": "catjak",
+"mint": "3taE4SdY29sa3fnwyWqfshudJ95gMb9LoFTy5Uuppump",
+"peak_mcap": 709627.819204058,
+"ath": 0.00071965,
+"price_now": 6.16e-06
+},
+{
+"day": "2026-08-02",
+"id": "vision-5",
+"symbol": "vision",
+"mint": "2uER9DLE6qQKhPphmPtb1ZvuuvCRst3atmhC3qjLpump",
+"peak_mcap": 395868.62299473945,
+"ath": 0.00039969,
+"price_now": 3.34e-06
+},
+{
+"day": "2026-08-03",
+"id": "the-cult-of-yots",
+"symbol": "yots",
+"mint": "3f9LEP4RNM1yq5VnCD1LYMvq7FZis5tfGqyZMsiRpump",
+"peak_mcap": 5089764.121226636,
+"ath": 0.00509022,
+"price_now": 8.72e-06
+},
+{
+"day": "2026-08-04",
+"id": "onlymarms",
+"symbol": "onlymarms",
+"mint": "HBrfYZgeLKdSvBBGnGkvAK4563pq8oBGpgNFAaespump",
+"peak_mcap": 3194526.8999736086,
+"ath": 0.00355388,
+"price_now": 2.854e-05
+},
+{
+"day": "2026-08-05",
+"id": "chonketha-the-wet-beaver",
+"symbol": "chonketha",
+"mint": "HcfnJxLov6tY8i1dq9uYRRZKCvxADPpovcfkyXzdpump",
+"peak_mcap": 11983091.967334718,
+"ath": 0.01198474,
+"price_now": 0.00160613
+},
+{
+"day": "2026-08-06",
+"id": "the-sisypuss",
+"symbol": "sisypuss",
+"mint": "8HykgZKXNpMhfxQtDPb7AayRKJonZaQ8Mw1Xo3xmpump",
+"peak_mcap": 661813.1229186403,
+"ath": 0.00068388,
+"price_now": 5.11e-06
+},
+{
+"day": "2026-08-07",
+"id": "neegy",
+"symbol": "neegy",
+"mint": "6oGuFDbEeaSzTcvrmmd2MqfNYwHKXFoN7regcR22pump",
+"peak_mcap": 2484567.8395676594,
+"ath": 0.00248524,
+"price_now": 2.907e-05
+},
+{
+"day": "2026-08-08",
+"id": "bogecoin-2",
+"symbol": "boge",
+"mint": "2ZvFgTyLMrgyLmoPHtD5KsTyALh14ffzxJoni4oPpump",
+"peak_mcap": 1185060.3078051736,
+"ath": 0.00118507,
+"price_now": 1.034e-05
+},
+{
+"day": "2026-08-09",
+"id": "justice-for-wang-wang",
+"symbol": "\u65fa\u65fa",
+"mint": "7z5KZpYj7BEnGKGCY3kDkaX32ueBSNp8QjvFq8Lxpump",
+"peak_mcap": 1350368.9785046855,
+"ath": 0.00135092,
+"price_now": 1.04e-05
+},
+{
+"day": "2026-08-10",
+"id": "the-nietzschean-eagle",
+"symbol": "jackie",
+"mint": "4zEh89StirBvyHgiphKHNYAi8Fa6FVzVZjNUffcQpump",
+"peak_mcap": 396636.9068505023,
+"ath": 0.00039687,
+"price_now": 4.68e-06
+},
+{
+"day": "2026-08-11",
+"id": "the-toad-pepe",
+"symbol": "toad",
+"mint": "A13oRB9FFaiUjfi6LdCg6p9ka1u8SfGkUFs4SKvPpump",
+"peak_mcap": 22087719.535202272,
+"ath": 0.02299553,
+"price_now": 0.00077303
+},
+{
+"day": "2026-08-12",
+"id": "tole-tole",
+"symbol": "meimei",
+"mint": "MsGDybWRSNdNXkdDZhEksgzugT5CbVWUG2wkhwgpump",
+"peak_mcap": 2798392.2304399777,
+"ath": 0.00279903,
+"price_now": 0.00085087
+},
+{
+"day": "2026-08-13",
+"id": "orange-coin",
+"symbol": "orange",
+"mint": "C6ASDsxzqBvF5bCQFVAGMRWwfgZNhfozbb9DkgiKpump",
+"peak_mcap": 1915538.9385107828,
+"ath": 0.0019255,
+"price_now": 2.7e-06
+},
+{
+"day": "2026-08-14",
+"id": "momota",
+"symbol": "momota",
+"mint": "CrJPSvj625TnPdWS42aG5ybMcHeFvnNqq5AExVespump",
+"peak_mcap": 5106144.335173009,
+"ath": 0.00511375,
+"price_now": 2.027e-05
+},
+{
+"day": "2026-08-15",
+"id": "dealer",
+"symbol": "dealer",
+"mint": "6f8ZQhxqfigdv7UszZ1rirbV7Sgv83s3rxv1N2Zopump",
+"peak_mcap": 4169435.950214659,
+"ath": 0.00430637,
+"price_now": 2.305e-05
+},
+{
+"day": "2026-08-16",
+"id": "wofl",
+"symbol": "wofl",
+"mint": "DTGWeDVPAvr7TdY7sdbfjz2bi4QihVMMn9KhyKH1pump",
+"peak_mcap": 765466.4404038836,
+"ath": 0.000789,
+"price_now": 5.47e-06
+},
+{
+"day": "2026-08-17",
+"id": "naiwa",
+"symbol": "\u5976\u86d9",
+"mint": "DKxHTQCvDKUke1WpsHgbfueuRiTMqdzXrWeFHPvzpump",
+"peak_mcap": 692106.6264154011,
+"ath": 0.00070543,
+"price_now": 1.201e-05
+},
+{
+"day": "2026-08-18",
+"id": "qenis",
+"symbol": "qenis",
+"mint": "EkcTa8n14fXcHdfvZqCg72cTCutJnnKb19vcHwKTpump",
+"peak_mcap": 4726518.10319893,
+"ath": 0.00490311,
+"price_now": 0.00072032
+},
+{
+"day": "2026-08-19",
+"id": "dumb-phone-gang",
+"symbol": "dpg",
+"mint": "LFEJTxJ9yi6ojGDFpjbGfABLbH55Fc3oEK8syJJpump",
+"peak_mcap": 13989065.975359228,
+"ath": 0.01451583,
+"price_now": 4.08e-06
+},
+{
+"day": "2026-08-20",
+"id": "bullballs-coin",
+"symbol": "bullballs",
+"mint": "897wEhKQtCKXuxxoDA8BH9LWnSpdTKLVzqh1J8xFpump",
+"peak_mcap": 27490679.94699777,
+"ath": 0.0276188,
+"price_now": 4.95e-06
+},
+{
+"day": "2026-08-21",
+"id": "live-action-roleplay",
+"symbol": "larp",
+"mint": "EygStH4gHv1h4E8w4raYv6NGsrDiij3nbfCc26iTpump",
+"peak_mcap": 1819163.9023674903,
+"ath": 0.0018194,
+"price_now": 0.00017091
+},
+{
+"day": "2026-08-22",
+"id": "cupsey-2",
+"symbol": "cupsey",
+"mint": "6NwarBvDkXhByqVp2Qkq5i9XbtA2B3Bwe8SWGu9vpump",
+"peak_mcap": 21083741.352284096,
+"ath": 0.02109288,
+"price_now": 0.00396685
+},
+{
+"day": "2026-08-23",
+"id": "official-winning-coin",
+"symbol": "winning",
+"mint": "FW6R4QQeP4fzqRwDHbBkpjHx3ecvYwhd5g7chKg8pump",
+"peak_mcap": 2246757.103196262,
+"ath": 0.00225971,
+"price_now": 3.88e-06
+},
+{
+"day": "2026-08-24",
+"id": "elon-s-space-cat",
+"symbol": "catalorian",
+"mint": "4cvZwC17oMiUA7peKX5GhbaUWv4U5Lwrd8118xnFpump",
+"peak_mcap": 24680070.983049706,
+"ath": 0.02476177,
+"price_now": 4.34e-06
+},
+{
+"day": "2026-08-25",
+"id": "michi",
+"symbol": "michi",
+"mint": "AywAYdNJnSLSXwKWYxDciPjqGRnwp4iZdQptuuQTpump",
+"peak_mcap": 4937359.99506264,
+"ath": 0.00493736,
+"price_now": 0.00218481
+},
+{
+"day": "2026-08-26",
+"id": "sky-super-cat",
+"symbol": "sky",
+"mint": "CcgRSw62atZK9EEAQVGyTcsshgtGJxtLHK2ZGwZ7pump",
+"peak_mcap": 5902502.712292033,
+"ath": 0.00598449,
+"price_now": 2.61e-06
+},
+{
+"day": "2026-08-27",
+"id": "breaking",
+"symbol": "breaking",
+"mint": "VJdpSDDLof7HuZiNmsRUSL4YCncsk1FGiVoHyAJpump",
+"peak_mcap": 16453629.917369802,
+"ath": 0.01660779,
+"price_now": 3.64e-06
+},
+{
+"day": "2026-08-28",
+"id": "the-first-crypto-dog",
+"symbol": "buddy",
+"mint": "7MYegHoqDGhWdvrnxeuiAEndgG6qcs1N3W5v6SXspump",
+"peak_mcap": 3186051.426332357,
+"ath": 0.00329333,
+"price_now": 8.15e-06
+},
+{
+"day": "2026-08-29",
+"id": "webcade",
+"symbol": "token",
+"mint": "Hos282xmdMJHwMjhni91fNqdjDsgWjgSckxuGc1Bpump",
+"peak_mcap": 4306924.466699237,
+"ath": 0.00466299,
+"price_now": 2.565e-05
+},
+{
+"day": "2026-08-30",
+"id": "apeonfone",
+"symbol": "fone",
+"mint": "CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump",
+"peak_mcap": 39213830.571855135,
+"ath": 0.03960594,
+"price_now": 0.00153219
+},
+{
+"day": "2026-08-31",
+"id": "safemoon-5",
+"symbol": "sfm",
+"mint": "aTUfRuPj3tp7FEpzAXLjs4VnQgAFbExD5JHGTyvpump",
+"peak_mcap": 267308.12177824526,
+"ath": 0.00027239,
+"price_now": 4.11e-06
+},
+{
+"day": "2026-09-01",
+"id": "otc-sol",
+"symbol": "otc",
+"mint": "AUc7hszwXTyRXAkHjjrytyT7sB7r85sc3FxPW5tepump",
+"peak_mcap": 3105842.9757665307,
+"ath": 0.00314134,
+"price_now": 0.00077965
+},
+{
+"day": "2026-09-02",
+"id": "wsop-fantasy-poker",
+"symbol": "wsolp",
+"mint": "GvUCjmWSXA5hrTh9smmNA1AU55YCtP9mDLQcrKA1pump",
+"peak_mcap": 3822716.4269034835,
+"ath": 0.00382276,
+"price_now": 0.00077038
+},
+{
+"day": "2026-09-03",
+"id": "pumpooor",
+"symbol": "pumpooor",
+"mint": "H76u9jTTbMtEF5JGmqXM2wW6xqMXpvTdVyer4RvKpump",
+"peak_mcap": 1703467.9409639367,
+"ath": 0.00171904,
+"price_now": 4.7e-06
+},
+{
+"day": "2026-09-04",
+"id": "dig",
+"symbol": "dig",
+"mint": "HGE9j5vuTzZWqvjZXjuNb5WxQKDUHY8QFvCXVUKppump",
+"peak_mcap": 358558.61920119985,
+"ath": 0.00039355,
+"price_now": 2.502e-05
+},
+{
+"day": "2026-09-05",
+"id": "plumber",
+"symbol": "plumber",
+"mint": "GCa9TZMK9Q3VUSkhZgX76YAQBjqQd1dPxkBnZojFpump",
+"peak_mcap": 5497606.642854834,
+"ath": 0.00575591,
+"price_now": 1.815e-05
+},
+{
+"day": "2026-09-06",
+"id": "solcat-3",
+"symbol": "solcat",
+"mint": "HmJDgky11u77hpBss6D8sjNpYPD5B6fWgSVDj58jpump",
+"peak_mcap": 5476197.368785595,
+"ath": 0.00553523,
+"price_now": 4.257e-05
+},
+{
+"day": "2026-09-07",
+"id": "otc",
+"symbol": "otc",
+"mint": "MukLDtJ8Cx9DxLbeyLRSWPSposTMWuwHANbuaudpump",
+"peak_mcap": 21759577.62319745,
+"ath": 0.03453882,
+"price_now": 0.00784138
+},
+{
+"day": "2026-09-08",
+"id": "catgpt-2",
+"symbol": "catgpt",
+"mint": "9GGGhze1NnQwcABTzxdxx89BEFLFtDueHhkwh6japump",
+"peak_mcap": 514637.6935778621,
+"ath": 0.00052823,
+"price_now": 8.83e-06
+},
+{
+"day": "2026-09-09",
+"id": "useless-stonk",
+"symbol": "stonkless",
+"mint": "CKgdzzmPQvGFV3MXJTKLYWuZNeaBy5cHMrSXnF9Zpump",
+"peak_mcap": 20776730.65756074,
+"ath": 0.02078573,
+"price_now": 2.07e-06
+},
+{
+"day": "2026-09-10",
+"id": "attn-markets",
+"symbol": "attn",
+"mint": "FVGdJQVzAdKr8ZH7ahyhp4cvDszX3N8QYGSdzueopump",
+"peak_mcap": 713372.8875710408,
+"ath": 0.00071339,
+"price_now": 0.00026737
+},
+{
+"day": "2026-09-11",
+"id": "layooo",
+"symbol": "layooo",
+"mint": "9sfCHMLWSVy6MD6zr7pR1gD3qbT7C6K1E3dMf2ZBpump",
+"peak_mcap": 2735281.2832066086,
+"ath": 0.0028989,
+"price_now": 0.00035274
+},
+{
+"day": "2026-09-12",
+"id": "stunk",
+"symbol": "stunk",
+"mint": "FLk6FKAN26m1FT4ucguwy3uHBMzLKcEu8KMTYD2Zpump",
+"peak_mcap": 3200822.0194765115,
+"ath": 0.00322106,
+"price_now": 3.45e-06
+},
+{
+"day": "2026-09-13",
+"id": "self-evolving-agent",
+"symbol": "yoyo",
+"mint": "BHS8LHW11NKxzxyCtqz9NJbTkh3h94WqeMVYgTY5pump",
+"peak_mcap": 3745241.5834951866,
+"ath": 0.0038134,
+"price_now": 0.00010768
+},
+{
+"day": "2026-09-14",
+"id": "dancing-dog-2",
+"symbol": "doggo",
+"mint": "FgJReZeYfmKZeWrCaGYL8gLnUixwBhjdHuRknC6ypump",
+"peak_mcap": 700467.73164744,
+"ath": 0.00072368,
+"price_now": 1.623e-05
+},
+{
+"day": "2026-09-15",
+"id": "baton",
+"symbol": "baton",
+"mint": "9firESEtMrb4hqFxtb7xCAXp4jAuoW8mz5MZwjJ2pump",
+"peak_mcap": 8055666.360916203,
+"ath": 0.00805845,
+"price_now": 4.29e-06
+},
+{
+"day": "2026-09-17",
+"id": "cats-3",
+"symbol": "cats",
+"mint": "DyidQqHQvWv9r76bWY7H11uB5qnDE7GyDT7Hq1QCpump",
+"peak_mcap": 1002259.9634368301,
+"ath": 0.00104691,
+"price_now": 0.00024988
+},
+{
+"day": "2026-09-18",
+"id": "veilbound",
+"symbol": "veil",
+"mint": "GSp4qePZUHBtt5f4gE6AsRC9JUUqeZEJLeN2JZxLpump",
+"peak_mcap": 1396160.631179357,
+"ath": 0.00140279,
+"price_now": 0.00094398
+},
+{
+"day": "2026-09-19",
+"id": "catcoin-6",
+"symbol": "cat",
+"mint": "9i3NFMa9pqR3suCUhyX3nQE1dy6i5wXafDtppUxYpump",
+"peak_mcap": 5300514.890124289,
+"ath": 0.0053035,
+"price_now": 0.00161652
+},
+{
+"day": "2026-09-20",
+"id": "leopardus-tilcayo",
+"symbol": "tigrino",
+"mint": "91ryaCo5yGpYZM3bs6GUPs97VWJQj7RozBmqPULgpump",
+"peak_mcap": 4119023.7596149393,
+"ath": 0.00422068,
+"price_now": 3.328e-05
+},
+{
+"day": "2026-09-21",
+"id": "dinky",
+"symbol": "dinky",
+"mint": "3YNCESdqhSgvsD4aARHC4rdqXpjyW9CWjosH82hNpump",
+"peak_mcap": 248166.67704330536,
+"ath": 0.00025198,
+"price_now": 0.00018052
+},
+{
+"day": "2026-09-22",
+"id": "tapcoin",
+"symbol": "tap",
+"mint": "ADcF26nFGKMuRZ7va5361H2PCHCDRi2FmeJBkX3Spump",
+"peak_mcap": 1053631.7998119944,
+"ath": 0.0011004,
+"price_now": 0.00012922
+},
+{
+"day": "2026-09-23",
+"id": "yesblob",
+"symbol": "yes",
+"mint": "VzqFToxrHqs7BFtfWvwmGAn6nv7p9W3zdmW95iTpump",
+"peak_mcap": 5316804.0780320745,
+"ath": 0.00541608,
+"price_now": 2.52e-06
+},
+{
+"day": "2026-09-24",
+"id": "gigacat-4",
+"symbol": "gigacat",
+"mint": "2jcvq8QcJ8TzEYJKYMCjR61kXVSzib4mEkz89tQxpump",
+"peak_mcap": 174998.60775119768,
+"ath": 0.00018038,
+"price_now": 3.079e-05
+},
+{
+"day": "2026-09-25",
+"id": "neet",
+"symbol": "neet",
+"mint": "Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump",
+"peak_mcap": 55590989.56425543,
+"ath": 0.055605,
+"price_now": 0.02731426
+},
+{
+"day": "2026-09-26",
+"id": "paid",
+"symbol": "paid",
+"mint": "98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump",
+"peak_mcap": 46288494.74471813,
+"ath": 0.04921253,
+"price_now": 0.00303518
+},
+{
+"day": "2026-09-27",
+"id": "gocollect",
+"symbol": "collect",
+"mint": "nDZknLvfFRp5rgUHdzTrQsmSY5NKzoavqdLjSHVpump",
+"peak_mcap": 5719065.635470029,
+"ath": 0.00578148,
+"price_now": 1.723e-05
+},
+{
+"day": "2026-09-28",
+"id": "baby-cali",
+"symbol": "babycali",
+"mint": "5XtxwuwEbkLM1J86myuKKNcR5rr7hvwf4BKjHeHjpump",
+"peak_mcap": 19576796.779484745,
+"ath": 0.01985623,
+"price_now": 2.15e-06
+},
+{
+"day": "2026-09-29",
+"id": "bob-7",
+"symbol": "bob",
+"mint": "E4vwseNWpkBxzNxyv3msVLCzYHU5SXrj1QWXEycypump",
+"peak_mcap": 525487.9469516657,
+"ath": 0.00053934,
+"price_now": 3.92e-06
+},
+{
+"day": "2026-09-30",
+"id": "busan-shark",
+"symbol": "bukangi",
+"mint": "3iUTyNYW6xKv5kZUjtbrEDTsuJTrSVwvB3bQtxkLpump",
+"peak_mcap": 1575332.4000077948,
+"ath": 0.00161348,
+"price_now": 2.2e-05
+},
+{
+"day": "2026-10-01",
+"id": "stairway-to-gold",
+"symbol": "gold",
+"mint": "LRxbtkvPfpctgR6MS52MAwtobrCCY9KiJgKMmpPpump",
+"peak_mcap": 14245621.781651035,
+"ath": 0.01424572,
+"price_now": 0.01061639
+},
+{
+"day": "2026-10-02",
+"id": "birthday",
+"symbol": "birthday",
+"mint": "DY9eMcfexuwBzwYVBGodT941AhK8e1ABcBifHvKjpump",
+"peak_mcap": 2979085.1245522597,
+"ath": 0.00393046,
+"price_now": 0.00170305
+},
+{
+"day": "2026-10-03",
+"id": "percolator",
+"symbol": "percolator",
+"mint": "8PzFWyLpCVEmbZmVJcaRTU5r69XKJx1rd7YGpWvnpump",
+"peak_mcap": 4756313.856922213,
+"ath": 0.00480812,
+"price_now": 0.00187097
+},
+{
+"day": "2026-10-04",
+"id": "agency",
+"symbol": "agency",
+"mint": "7VertkgF9KLhxxJXHX6uaWuoYZTP9LdGj2bWmVXVpump",
+"peak_mcap": 29876895.59480289,
+"ath": 0.03125427,
+"price_now": 0.00035317
+},
+{
+"day": "2026-10-05",
+"id": "agent-cat",
+"symbol": "agentcat",
+"mint": "CZJfrAmMs5Cz4H22PWzfqTJu5FkP7Q2Vvx1oPVL9pump",
+"peak_mcap": 39344136.950741924,
+"ath": 0.0396395,
+"price_now": 3.63e-06
+},
+{
+"day": "2026-10-06",
+"id": "attention-agents",
+"symbol": "attention+",
+"mint": "75gGuxuqKhQQiHae8JKDQaetK3XguKf1rUJ1csispump",
+"peak_mcap": 13963734.666706372,
+"ath": 0.01449592,
+"price_now": 6.09e-06
+},
+{
+"day": "2026-10-07",
+"id": "inu-wif-sword",
+"symbol": "swordinu",
+"mint": "2BVfJ4AHMvHdKtEZNHaBr48dQzTfZvYkjaaxbM6bpump",
+"peak_mcap": 24909809.212715868,
+"ath": 0.02508122,
+"price_now": 4.2e-06
+},
+{
+"day": "2026-10-08",
+"id": "solaris-ai-2",
+"symbol": "solaris",
+"mint": "8EZqVPJdEWt754S17nghfa4Y4jQJ7tigBwsGbo1Tpump",
+"peak_mcap": 1843631.2561669268,
+"ath": 0.00184375,
+"price_now": 0.00027735
+},
+{
+"day": "2026-10-09",
+"id": "jean-phil",
+"symbol": "jeanphil",
+"mint": "GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump",
+"peak_mcap": 14787698.730120987,
+"ath": 0.01525363,
+"price_now": 0.00313817
+},
+{
+"day": "2026-10-10",
+"id": "qompute",
+"symbol": "qompute",
+"mint": "BQAeeSowpwEx8Km8GcporcbuLKq4a7EQceH3F2qZpump",
+"peak_mcap": 8432745.223003242,
+"ath": 0.00848737,
+"price_now": 4.29e-06
+},
+{
+"day": "2026-10-11",
+"id": "quantum-tiger",
+"symbol": "qt",
+"mint": "9LAHK5YvCqQCzX5CBw6xF5yFVUzXqoAHWtoofqk2pump",
+"peak_mcap": 2703042.2405319405,
+"ath": 0.00273565,
+"price_now": 2.18e-06
+},
+{
+"day": "2026-10-12",
+"id": "telemoney",
+"symbol": "tm",
+"mint": "6KDpQM4BVDdtAkjtyFDiBCkbii8q8BieEyXXm6kNpump",
+"peak_mcap": 25134907.195922915,
+"ath": 0.02618637,
+"price_now": 4.45e-05
+},
+{
+"day": "2026-10-13",
+"id": "crawlerpad",
+"symbol": "crawler",
+"mint": "CQCDTp8rsFV3PhaPeYjcCW5LdGTxi6jFx7eC3UXnpump",
+"peak_mcap": 31885655.0518831,
+"ath": 0.0320993,
+"price_now": 1.09e-05
+},
+{
+"day": "2026-10-14",
+"id": "clawpump-tech",
+"symbol": "claw",
+"mint": "739dnZEG4yaBWFsY8L8ZwrfhGG6dhtCSercW8Umspump",
+"peak_mcap": 18485520.96373047,
+"ath": 0.01871968,
+"price_now": 0.00783353
+},
+{
+"day": "2026-10-15",
+"id": "pepper-the-raccoon",
+"symbol": "pepper",
+"mint": "9g4Pib6AM3oVdP9YA7ZcssAXAuhoUzkjR8w27doYpump",
+"peak_mcap": 1774050.836587588,
+"ath": 0.00184016,
+"price_now": 9.063e-05
+},
+{
+"day": "2026-10-16",
+"id": "streamoors",
+"symbol": "stream",
+"mint": "9a98oQHtxfqmr4EyzsP6wfw69uYAK3JbUeVEuNW1pump",
+"peak_mcap": 39873352.849047564,
+"ath": 0.04006731,
+"price_now": 5.53e-06
+},
+{
+"day": "2026-10-17",
+"id": "hire-agents",
+"symbol": "hire",
+"mint": "98AG3zJUawbvDnpgbDhmxpMKva43vtgPLLPSXqo1pump",
+"peak_mcap": 14736330.56265451,
+"ath": 0.01567748,
+"price_now": 1.495e-05
+},
+{
+"day": "2026-10-18",
+"id": "agenc",
+"symbol": "agenc",
+"mint": "5yC9BM8KUsJTPbWPLfA2N8qH1s9V8DQ3Vcw1G6Jdpump",
+"peak_mcap": 3614159.675110861,
+"ath": 0.00361441,
+"price_now": 0.00168135
+},
+{
+"day": "2026-10-19",
+"id": "supercore-2",
+"symbol": "supercore",
+"mint": "3ZAnpeVBHAvZsySNMXp4g9nYaE1jsx6khgh29VYKpump",
+"peak_mcap": 204003.69903622827,
+"ath": 0.00021165,
+"price_now": 1.002e-05
+},
+{
+"day": "2026-10-20",
+"id": "aura-final-boss",
+"symbol": "kimchi",
+"mint": "Am8iBffqgaedfdK5XhtorbcRrKzwH9nyL3ySikQfpump",
+"peak_mcap": 5451930.882269317,
+"ath": 0.00550588,
+"price_now": 0.00014974
+},
+{
+"day": "2026-10-21",
+"id": "aura-final-boss-2",
+"symbol": "kimchi",
+"mint": "CSocnzcRpgSCr1naKcNTieWZUxb6rABe45j844m7pump",
+"peak_mcap": 45117448.036174856,
+"ath": 0.04531245,
+"price_now": 0.00402603
+},
+{
+"day": "2026-10-22",
+"id": "php-up-2026",
+"symbol": "php",
+"mint": "Cbkg5w7V7W2J2sUmecnyN825CbvwvXwasfhduVtNpump",
+"peak_mcap": 1777285.747710207,
+"ath": 0.00182014,
+"price_now": 2.048e-05
+},
+{
+"day": "2026-10-23",
+"id": "cartoon-money",
+"symbol": "cbucks",
+"mint": "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump",
+"peak_mcap": 1495645.7474295301,
+"ath": 0.00158651,
+"price_now": 0.00142183
+},
+{
+"day": "2026-10-24",
+"id": "doge-pepe-4",
+"symbol": "dope",
+"mint": "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump",
+"peak_mcap": 4660382.263652222,
+"ath": 0.00472086,
+"price_now": 0.00179882
+},
+{
+"day": "2026-10-25",
+"id": "nagi-and-pokke",
+"symbol": "\u30e4\u30ae",
+"mint": "EU1MHvQvBoJ7DnLorurze1hwR2JWuyoKyAmkwymwpump",
+"peak_mcap": 672877.9069590892,
+"ath": 0.00069642,
+"price_now": 4.785e-05
+},
+{
+"day": "2026-10-26",
+"id": "kobecoin",
+"symbol": "kobx",
+"mint": "48iJcUv9jsiZ7cCisyVFLPFLMoNBKg3L43bRvktXpump",
+"peak_mcap": 732174.3107442826,
+"ath": 0.00073938,
+"price_now": 0.00030756
+},
+{
+"day": "2026-10-27",
+"id": "xd-3",
+"symbol": "xd",
+"mint": "3B7SHozUFoiGnFC7i6WHZ8zNMbDrhtz9WpXqWt51pump",
+"peak_mcap": 637409.2068159871,
+"ath": 0.00066466,
+"price_now": 0.00021243
+},
+{
+"day": "2026-10-28",
+"id": "backed-by-belief",
+"symbol": "nothing",
+"mint": "51SfaAyrYaR8FpibXT4TXtxEpnZSNoDwYVRojtKupump",
+"peak_mcap": 1298664.0279559186,
+"ath": 0.00132917,
+"price_now": 4.907e-05
+},
+{
+"day": "2026-10-29",
+"id": "dogwifjob",
+"symbol": "job",
+"mint": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+"peak_mcap": 3942958.60212588,
+"ath": 0.00404779,
+"price_now": 0.00299386
+},
+{
+"day": "2026-10-30",
+"id": "hyper-inu",
+"symbol": "hi",
+"mint": "3w2TvVmTrtq4kSkoFVrTFQgz6MX7ThzDVrx9r5c3pump",
+"peak_mcap": 1120220.0250646293,
+"ath": 0.00115453,
+"price_now": 0.00031114
+},
+{
+"day": "2026-10-31",
+"id": "dessa",
+"symbol": "dessa",
+"mint": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump",
+"peak_mcap": 32846293.65532929,
+"ath": 0.03354651,
+"price_now": 0.03038161
+}
+]
