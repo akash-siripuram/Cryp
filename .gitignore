@@ -5,3 +5,6 @@ fetch*.log
 data/*_spot_1m.csv
 live/*.jsonl
 rewards/*.jsonl*
+smartwallets/data/early_trades.jsonl
+smartwallets/data/*.log
+smartwallets/data/cg_pumpfun_markets.json
