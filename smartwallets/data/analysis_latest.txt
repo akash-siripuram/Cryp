@@ -1,0 +1,30 @@
+243 winners, 7567 early (token,wallet) buys, 6247 wallets; train 170 winners < 2026-05-09 <= test 73 winners
+
+Early-buyer returns on winners (median, %):
+{'pct_realized_1h': -2.0, 'pct_to_ath': 33012.0, 'pct_hold_now': 119.0} | share that sold some within 1h: 0.3 | share whose hold-to-now is a loss: 0.33
+
+Train: 491 wallets early in >= 2 winners; 4681 early in exactly 1
+  smart   : 18.7% of them are early in >=1 test winner
+  one-hit : 1.9% of them are early in >=1 test winner
+Test winners with >=1 smart wallet among early buyers: 56.2% (median 1, max 12)
+
+Top smart wallets (train record -> test):
+                                              train_hits  med_rank  med_secs  med_pct_ath  med_pct_realized  sold_1h  test_hits
+wallet                                                                                                                         
+nya666pQkP3PzWxi7JngU3rRMHuc7zbLK8c8wxQ4qpT           45      12.0       6.0      43020.0               9.0      0.0         16
+56S29mZ3wqvw8hATuUUFqKhGcSGYFASRRFNT38W8q7G3          29      22.0       6.0      26660.0              -7.0      0.0          4
+DDDD2zvzaPMLuZiC2Vos2i6TLFjJJ3bi1pN7kXQc3R5R          23      26.0      11.0      15781.0               4.0      0.0          7
+696969Y6orZEjp4gZtwcCZS7TNVuhMVE6G5mFvdJ4mYq          23      13.0       4.0      25061.0              -4.0      0.0          4
+CCCCQCrL6zVjnDeucDzcxJgxAs5ahNmrhw1CDexPhqrd          13      31.0       9.0      40164.0               NaN      0.0          3
+9pUgbXaDjqDcf3t8HWcfMyTKcUTHaKZCPB2N9QU2aFE7          11      15.0       7.0      49237.0             -13.0      0.0          0
+33GtNAQzmdq4jELpHxXYqW3vDy7fux89zevVU4hP7BTX          10      18.0      18.0      53276.0              -3.0      0.0          1
+97jv9pjCf5D7VUZEyj6XnXBC5JF23Vsagc3bvSF6GRmL          10       9.0       4.0      54295.0              15.0      1.0          1
+qtMPaTvJrfU8yeg8TBSiDq7svPQJMcWJouXEzyhCiCR           10      16.0      18.0      45609.0               NaN      0.0          0
+niggerd597QYedtvjQDVHZTCCGyJrwHNm2i49dkm5zS            9       5.0       1.0      46056.0            -100.0      0.0          2
+F3m2C4biThKXpPt6zbXW3VbXwucK8Rhv1Dtyrh1ruzUz           9      11.0      55.0        -95.0               3.0      0.0          0
+o7RY6P2vQMuGSu1TrLM81weuzgDjaCRTXYRaXJwWcvc            9       1.0       0.0     117904.0               4.0      0.0          0
+BoBo2S28s9E2gE2qMJPSMFUvdptpBCXaRhLg6UYR8teE           8      26.0      16.0      39447.0              -3.0      0.0          2
+FmCT8hkZHzYqbsUjGjmQjUVZZ7kVHeX2osAXSRY3KJnQ           8      26.0      58.0      40126.0              -5.0      0.0          1
+GCQkB9bsMfcUU6oUZPLrLjpuHTxVhrHbpD6FUTgSGDCA           8      29.0      16.0      11481.0               NaN      0.0          1
+
+Correlation of train hits with test hits among smart wallets: 0.74
