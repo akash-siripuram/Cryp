@@ -9,7 +9,7 @@
 | BTC/ETH/SOL/XRP 5-min market results + Chainlink start/end prices, 120 days | Polymarket Gamma API | ~34.5k windows per asset |
 | Market price of "Up" at open and minutes 1–4 | Polymarket CLOB price history | ~138k markets |
 | 1-minute spot candles, 121 days | Coinbase public API | ~174k minutes per asset |
-| Live order book every 5 s and 1.5 s, plus Coinbase ticker | Polymarket CLOB and Coinbase, recorded live | `live/` (not committed) |
+| Live order book every 5 s and 1.5 s, plus Coinbase ticker | Polymarket CLOB and Coinbase, recorded live Oct 31 21:15–23:15 UTC | `live/` (not committed) |
 
 ## Costs (these decide everything)
 - Spread: 1¢ about 96% of the time; top-of-book size is usually several hundred shares.
@@ -27,8 +27,8 @@
 | Older BTC market price → ETH market (and reverse) | Gain ≤ 0.0003 log loss; nothing |
 | ETH, SOL, XRP instead of BTC | Same; only XRP at open looked good on val (+2.75%/day) |
 | XRP odd opening quotes | Profit came from ~20 bets on one night of odd 0.31/0.69 quotes. **Test: −1.25%/day, −27%, max drawdown 46%** |
-| Live latency trade: buy after a Coinbase jump, exit 5–20 s later | Early +¢ signal vanished with more data; −0.1 to −2.7¢/share after fees |
-| Live: buy after a jump, hold to settlement | Mixed and mostly negative; few trades |
+| Live latency trade: buy after a Coinbase jump, exit 5–20 s later | Early +¢ signal vanished with more data. Final (≈2 h, 21–25 windows, 2 recorders): every variant negative, −0.5 to −2.8¢/share after fees. Polymarket moves in the same 5 s as Coinbase (corr 0.46–0.63); leftover lag corr 0.07–0.09 |
+| Live: buy after a jump, hold to settlement | Final: 12–37 trades per variant; results flip sign between the two recordings of the same period (−4.6¢ to +6.1¢/share) — noise, not an edge |
 
 Full experiment log: `results.tsv`.
 
