@@ -38,6 +38,8 @@ SEEDS = [0, 1, 2]
 RUN_VALIDATION = os.environ.get('PD_VALIDATE', '0') == '1'
 VAL_DAYS = int(os.environ.get('PD_VAL_DAYS', 14))
 N_JOBS = 4
+USE_MISS_MODEL = os.environ.get('PD_MISS_MODEL', '1') == '1'
+MISS_SHRINK = 0.5
 SOL_MINT = 'So11111111111111111111111111111111111111112'
 SUPPLY = 1e9                     # pump.fun total supply in whole tokens
 
@@ -118,9 +120,48 @@ if os.path.exists(mig_path):
 # ## Tape features: one day at a time, file order preserved
 
 # %%
-CURVE_COLS = ['failed', 'mint', 'ts_rel', 'direction', 'sol', 'tok', 'new_price', 'wallet']
+CURVE_COLS = ['failed', 'mint', 'ts_rel', 'direction', 'sol', 'tok', 'new_price', 'wallet',
+              'parent_program', 'tip_index', 'fee', 'provided_gas_fee', 'slot', 'signature']
+ROUTERS = {
+    'FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9': 'photon',
+    '6Vo3245eszAb5wuqEMw8mGdbfRUdKbHhDHP5LcaGuTAB': 'r6v0',
+    'GMgnVFR8Jb39LoXsEVzb3DvBy3ywCmdmJquHUy1Lrkqb': 'gmgn',
+    'DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH': 'df1o',
+    'JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4': 'jupiter',
+    'term9YPb9mzAsABaqN71A4xdbxHmpBNZavpBiQKZzN3': 'trojan',
+    'AKbotMAGJmYPwV8z55Lqiqgijt2KcjLeFGue5sw1noHM': 'akbot',
+}
 AMM_COLS = ['mint', 'ts_rel', 'direction', 'sol', 'tok', 'new_price', 'signing_wallet', 'fee_payer',
-            'pool_quote_token_reserves_after', 'virtual_quote_reserves']
+            'pool_quote_token_reserves_after', 'virtual_quote_reserves', 'parent_program',
+            'slot', 'signature']
+
+
+def exec_features(df, prefix):
+    """Execution fingerprints: routers/bots, Jito tips, priority fees, slot crowding."""
+    g = df.groupby('mint', sort=False); X = pd.DataFrame(index=g.size().index)
+    if 'parent_program' in df.columns:
+        pp = df.parent_program.fillna('').astype(str)
+        X[f'{prefix}_router_share'] = pp.ne('').groupby(df.mint).mean()
+        X[f'{prefix}_router_unique'] = pp.where(pp.ne('')).groupby(df.mint).nunique()
+        for addr, short in ROUTERS.items():
+            X[f'{prefix}_r_{short}'] = pp.eq(addr).groupby(df.mint).mean()
+    if 'tip_index' in df.columns:
+        X[f'{prefix}_tip_share'] = (pd.to_numeric(df.tip_index, errors='coerce').fillna(-1) >= 0
+                                    ).groupby(df.mint).mean()
+    for col in ('fee', 'provided_gas_fee'):
+        if col in df.columns:
+            v = pd.to_numeric(df[col], errors='coerce') / 1e9
+            X[f'{prefix}_{col}_mean'] = v.groupby(df.mint).mean()
+            X[f'{prefix}_{col}_q90'] = v.groupby(df.mint).quantile(0.9)
+    if 'slot' in df.columns:
+        sc = df.groupby(['mint', 'slot']).size()
+        X[f'{prefix}_slots'] = sc.groupby(level=0).size()
+        X[f'{prefix}_max_slot_share'] = sc.groupby(level=0).max() / g.size()
+    if 'signature' in df.columns:
+        tc = df.groupby(['mint', 'signature']).size()
+        X[f'{prefix}_multi_swap_tx'] = (tc[tc > 1].groupby(level=0).sum()
+                                        .reindex(X.index).fillna(0) / g.size())
+    return X
 
 
 def safe_read(path, cols):
@@ -251,7 +292,12 @@ def tape_features(c, a):
     sold = sells.merge(cbw, on=['mint', 'wallet'])
     F['curve_holders_dump_sol'] = sold.groupby('mint').sol.sum().reindex(F.index).fillna(0)
     F['curve_holders_dump_share'] = div(F.curve_holders_dump_sol, F.amm_sell_sol)
-    return F
+    F = F.join(exec_features(ok, 'cx'), how='left').join(exec_features(c, 'ca'), how='left',
+                                                           rsuffix='_all')
+    F = F.join(exec_features(a, 'ax'), how='left')
+    keep = [k for k in F.columns if not k.startswith('ca_') or k in
+            ('ca_tip_share', 'ca_provided_gas_fee_mean', 'ca_provided_gas_fee_q90')]
+    return F[keep]
 
 
 t0 = time.time(); frames = []; EDGE_A = []; EDGE_C = []
@@ -400,6 +446,11 @@ D[FEATS] = D[FEATS].astype(np.float32).replace([np.inf, -np.inf], np.nan)
 LD = D[D.is_test == 0].reset_index(drop=True)
 TD = D[D.is_test == 1].reset_index(drop=True)
 print(f'{len(FEATS)} features | labelled {len(LD)} | test {len(TD)} | {time.time()-T_START:.0f}s')
+# runtime guard: the bot kills runs at 60 min (score 0). Cut ensemble size if features were slow.
+_el = time.time() - T_START
+if _el > 25 * 60: SEEDS = [0]
+elif _el > 15 * 60: SEEDS = [0, 1]
+print('seeds:', SEEDS)
 
 # %% [markdown]
 # ## Level models, calibration, and the EV policy
@@ -465,19 +516,37 @@ class Policy:
             est = (held[m].sum() + 20 * glob_miss) / (nm + 20)
             self.miss.append(min(est, -0.5))       # never assume a missed level is cheap
         self.model = fit_predict(trn, LEVELS, trn.mt.max(), seeds)
+        # token-specific payoff when the level is missed: regression on the held payoff of tokens
+        # that did not reach 3x, used as a shrunk offset around the per-level constants
+        self.miss_reg = None
+        if USE_MISS_MODEL:
+            m3 = trn.mx.values < LEVELS[0]
+            y = np.clip(np.maximum(trn.fx.values[m3] - 1 - COST, -1.0), -1.0, LEVELS[0] - 1 - COST)
+            Xm = trn[FEATS].values[m3]
+            self.miss_reg = lgb.LGBMRegressor(random_state=0, **{**LGB, 'n_estimators': 300}).fit(
+                Xm, y, sample_weight=weights(trn[m3], trn.mt.max()))
+            self.miss_center = float(np.average(y, weights=weights(trn[m3], trn.mt.max())))
 
     def calibrate(self, P):
         out = np.column_stack([1 / (1 + np.exp(-(a * logit(P[:, k]) + b)))
                                for k, (a, b) in enumerate(self.platt)])
         return np.minimum.accumulate(out, axis=1)            # P(reach L) is non-increasing in L
 
-    def ev(self, P):
-        Lv = np.array(LEVELS); Mv = np.array(self.miss)
+    def miss_matrix(self, val):
+        Mv = np.tile(np.array(self.miss), (len(val), 1))
+        if self.miss_reg is not None:
+            off = self.miss_reg.predict(val[FEATS].values) - self.miss_center
+            Mv = Mv + MISS_SHRINK * off[:, None]
+        return np.minimum(Mv, -0.3)
+
+    def ev(self, P, val=None):
+        Lv = np.array(LEVELS)
+        Mv = np.array(self.miss)[None, :] if val is None else self.miss_matrix(val)
         return P * (Lv - 1 - COST) + (1 - P) * Mv
 
     def decide(self, val, margin=MARGIN):
         P = self.calibrate(self.model(val))
-        EV = self.ev(P)
+        EV = self.ev(P, val)
         k = EV.argmax(1)
         best = EV[np.arange(len(val)), k]
         tp = np.where(best > margin, np.array(LEVELS)[k], 0.0)
@@ -495,7 +564,7 @@ if RUN_VALIDATION:
         trn = LD[LD.mt <= val.mt.min() - WIN - EMBARGO]
         if trn.day.nunique() < 14 or len(val) < 30: continue
         pol = Policy(trn, seeds=SEEDS[:1])
-        P = pol.calibrate(pol.model(val)); EV = pol.ev(P)
+        P = pol.calibrate(pol.model(val)); EV = pol.ev(P, val)
         k = EV.argmax(1); best = EV[np.arange(len(val)), k]
         k5 = LEVELS.index(5.0)
         for mg in (0.0, 0.2, 0.35, 0.5, 0.8, 1.2):
