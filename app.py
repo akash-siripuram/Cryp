@@ -4,8 +4,11 @@ import numpy as np
 import streamlit as st
 import pandas as pd
 
-api_key = "7g07Ki6i8Wdhu08uPZVXAV59weAdxi6RKaq7QLd0fmj5HTcgyu8Vp8g8MjIDLRIC"
-api_secret = "Mx1c0DkfKtSw3Uuj0QtnxnnFE8dZIQE99245jq6ZbDyJQOkkWmKlyWFReLzc5d0x"
+import os
+
+# Never hardcode keys. Set BINANCE_API_KEY / BINANCE_API_SECRET in your environment.
+api_key = os.environ.get("BINANCE_API_KEY", "")
+api_secret = os.environ.get("BINANCE_API_SECRET", "")
 
 client = Client(api_key, api_secret, testnet=True)
 

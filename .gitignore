@@ -1,0 +1,5 @@
+data_cache/
+paper_state.json*
+trades.csv
+__pycache__/
+.env
