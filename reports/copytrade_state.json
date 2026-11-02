@@ -1,0 +1,57 @@
+{
+ "wallets": {
+  "Fja6fNyFmDCMjR9sXkR3F2XJH7zHWfu8pGmsuhJDqYG6": {
+   "last_sig": "2iseSSTb4QYpBs2ZAg9eUP7NkcW6RXKAdrzq4VrKx8s6EHzuot2qtvTeT6qZaPwWRXCprD926uCXhSShmBHvgvMi",
+   "their_trades": 0,
+   "their_sol": 0.0,
+   "copies": 0,
+   "skipped": 0,
+   "delays": []
+  },
+  "6X4jXrLB6PJMkUSrKeXn3vXwFAXRzi3iGgoMsHnZh1ZK": {
+   "last_sig": "5UBMSD9CWV54hHRSrxdGxDxhk2PqtE4H938FXkbKynPyNwDaRwq1peRwTxKV2ZfmXYBock4CjnxfjCwyMYrVFphD",
+   "their_trades": 0,
+   "their_sol": 0.0,
+   "copies": 0,
+   "skipped": 0,
+   "delays": []
+  },
+  "CQotRYA3kTiVi53F6GpQCkP9rhNrT6bNLE7W546A97tX": {
+   "last_sig": "YNHRwcHvaYvdEcxwT3oTzUwDzssshZEyaGwateAydcSg3NQqXmv8ANcaZsGgCUp8ukCLcW7pAJGPYEZGH3YZHhG",
+   "their_trades": 0,
+   "their_sol": 0.0,
+   "copies": 0,
+   "skipped": 0,
+   "delays": []
+  },
+  "7j5nvvRTNw1FzNQNwh5sQUBJfPQ7LrHnHhQjVW6PcvpW": {
+   "last_sig": "2dJqKisqH3QkzJXUHcydfiBEhKFLaErvJ6bK8vdr2x5rsy15Ug8Xb27EfGSA2Xzg1aLyaagmiRL6zZRRCLWCeZjh",
+   "their_trades": 0,
+   "their_sol": 0.0,
+   "copies": 0,
+   "skipped": 0,
+   "delays": []
+  },
+  "8vQqR8EsbNqEJarfYVR1pdVtVK6mLWp1KPyPWgw683Gu": {
+   "last_sig": "4frJNNrgm4jUQdGnAFTjBdka7cS2poJaFpZjWdaET7dYxhxhTMgaE7ZwcoQq2kBnHCq4wvCWgfoaFYhPmoAvrveY",
+   "their_trades": 0,
+   "their_sol": 0.0,
+   "copies": 0,
+   "skipped": 0,
+   "delays": []
+  },
+  "7ZFrYoeTZ2NzMRTmRLBALQsUuh2WvsiW7BQTqBqBwBdP": {
+   "last_sig": "c1SWvfGMgUDUK987AnvrktK2pLEc5t9kMv2afBFZYJk9LRjHk1wCLsoJ2bmiwGrP6M3bi1N9BGMnMQAnn9wN6c6",
+   "their_trades": 0,
+   "their_sol": 0.0,
+   "copies": 0,
+   "skipped": 0,
+   "delays": []
+  }
+ },
+ "positions": {},
+ "closed": [],
+ "events": [
+  "2026-11-02 22:45:13 Watching 6 wallets"
+ ]
+}

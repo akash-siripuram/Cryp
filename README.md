@@ -56,3 +56,8 @@ deliberately not included.
 
 > ⚠️ Earlier versions of `app.py` had testnet API keys committed. They are still in git history:
 > revoke them in the Binance testnet console.
+
+## Solana smart-money tools
+- `python run_smartmoney.py`: finds recently pumped tokens, scores their earliest buyers' realized PnL, ranks wallets across tokens and checks their age, activity and funding source. Writes `reports/smart_wallets.md`.
+- `python run_copytrade.py`: paper copy-trades the wallets in `watchlist.txt` live, at the price you would actually get when you detect their trade (delay, slippage and fees included). Writes `reports/copytrade.md`. Run it for 2–4 weeks on an always-on machine. **Nothing is sent on-chain.**
+- Set `SOLANA_RPC_URL` to a free Helius/QuickNode endpoint for speed. The public RPC is heavily rate-limited.

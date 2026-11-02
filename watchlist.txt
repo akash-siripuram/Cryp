@@ -1,0 +1,8 @@
+# One wallet per line. Candidates from reports/smart_wallets.md (older, human-paced, profitable).
+# None are proven: that's what this paper test is for. Add your own.
+Fja6fNyFmDCMjR9sXkR3F2XJH7zHWfu8pGmsuhJDqYG6
+6X4jXrLB6PJMkUSrKeXn3vXwFAXRzi3iGgoMsHnZh1ZK
+CQotRYA3kTiVi53F6GpQCkP9rhNrT6bNLE7W546A97tX
+7j5nvvRTNw1FzNQNwh5sQUBJfPQ7LrHnHhQjVW6PcvpW
+8vQqR8EsbNqEJarfYVR1pdVtVK6mLWp1KPyPWgw683Gu
+7ZFrYoeTZ2NzMRTmRLBALQsUuh2WvsiW7BQTqBqBwBdP

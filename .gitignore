@@ -5,3 +5,4 @@ __pycache__/
 .env
 reports_run.log
 nohup.out
+copytrade_run.log
