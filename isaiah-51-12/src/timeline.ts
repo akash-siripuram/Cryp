@@ -56,8 +56,8 @@ export const SHOTS: Shot[] = [
 	// SCENE 1 — THE HOOK
 	{id: 's1_01', scene: 1, file: 'footage/s1_01_dark_room_wide.mp4', start: 0, end: 3.5, dissolve: 0, move: 'push-in'},
 	{id: 's1_02', scene: 1, file: 'footage/s1_02_phone_lights_up.mp4', start: 3.5, end: 6.2, dissolve: 0, move: 'static'},
-	{id: 's1_03', scene: 1, file: 'footage/s1_03_face_anxiety_cu.mp4', start: 6.2, end: 8.4, dissolve: 0, move: 'push-in'},
-	{id: 's1_04', scene: 1, file: 'footage/s1_04_eyes_ecu.mp4', start: 8.4, end: 10, dissolve: 0, move: 'push-in'},
+	// One continuous take: anxious close-up pushing in to an extreme close-up of the eyes.
+	{id: 's1_03', scene: 1, file: 'footage/s1_03_face_to_eyes.mp4', start: 6.2, end: 10, dissolve: 0, move: 'push-in'},
 	// 10–12: near-black title card (no footage)
 
 	// SCENE 2 — THE FEAR OF PEOPLE
@@ -85,10 +85,10 @@ export const SHOTS: Shot[] = [
 	{id: 's5_02', scene: 5, file: 'footage/s5_02_bible_pages_macro.mp4', start: 95, end: 105, dissolve: 1.5, move: 'drift-right', playbackRate: 0.85},
 
 	// SCENE 6 — THE FINAL EMOTIONAL IMPACT
-	{id: 's6_01', scene: 6, file: 'footage/s6_01_morning_phone.mp4', start: 105, end: 109, dissolve: 1.0, move: 'push-in'},
-	{id: 's6_02', scene: 6, file: 'footage/s6_02_breath_phone_down.mp4', start: 109, end: 112.5, dissolve: 0, move: 'static'},
-	{id: 's6_03', scene: 6, file: 'footage/s6_03_walks_outside.mp4', start: 112.5, end: 116, dissolve: 0.8, move: 'drift-right'},
-	{id: 's6_04', scene: 6, file: 'footage/s6_04_walk_toward_sunrise.mp4', start: 116, end: 120, dissolve: 1.0, move: 'pull-out'},
+	// One continuous take: phone lights up, he reads, breathes, puts it down.
+	{id: 's6_01', scene: 6, file: 'footage/s6_01_morning_phone_breath.mp4', start: 105, end: 112.5, dissolve: 1.0, move: 'push-in'},
+	{id: 's6_02', scene: 6, file: 'footage/s6_02_walks_outside.mp4', start: 112.5, end: 116, dissolve: 0.8, move: 'drift-right'},
+	{id: 's6_03', scene: 6, file: 'footage/s6_03_walk_toward_sunrise.mp4', start: 116, end: 120, dissolve: 1.0, move: 'pull-out'},
 ];
 
 export type Cue = {
@@ -166,7 +166,7 @@ export const SFX: Sfx[] = [
 	{id: 'sunrise_outdoor', file: 'sfx/sunrise_outdoor.mp3', start: 112.6, end: 120, volume: 0.3, fadeIn: 1, fadeOut: 2.5, loop: true},
 ];
 
-/** One continuous 120 s score composed to the cue sheet in ASSET_PLAN.md. */
+/** One continuous 120 s score composed to the cue sheet in PRODUCTION_WORKFLOW.md. */
 export const MUSIC_FILE = 'music/score.mp3';
 
 /** Music bed level (before VO ducking) as [seconds, volume] keyframes. */
@@ -188,7 +188,7 @@ export const DUCK_RAMP = 0.35;
 /** Phone notifications drawn as a crisp overlay on the phone-insert shots. */
 export const PHONE_MESSAGES = [
 	{id: 'night', start: 3.9, end: 6.2, sender: 'Mark (Manager)', text: 'We need to talk tomorrow.', time: '11:47 PM'},
-	{id: 'morning', start: 105.8, end: 109, sender: 'Mark (Manager)', text: "I'm in the office. Come by when you're ready.", time: '8:12 AM'},
+	{id: 'morning', start: 105.8, end: 108.8, sender: 'Mark (Manager)', text: "I'm in the office. Come by when you're ready.", time: '8:12 AM'},
 ];
 
 /** On-screen title cards. */

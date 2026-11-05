@@ -17,6 +17,6 @@ export const MissingAsset: React.FC<{file: string; label: string}> = ({file, lab
 		<div style={{fontSize: 22, letterSpacing: 6, opacity: 0.55, marginBottom: 18}}>FOOTAGE NOT YET GENERATED</div>
 		<div style={{fontSize: 40, fontWeight: 500}}>{label}</div>
 		<div style={{fontSize: 24, marginTop: 14, opacity: 0.6, fontFamily: 'monospace'}}>public/{file}</div>
-		<div style={{fontSize: 20, marginTop: 10, opacity: 0.45}}>See ASSET_PLAN.md for the generation prompt</div>
+		<div style={{fontSize: 20, marginTop: 10, opacity: 0.45}}>See PRODUCTION_WORKFLOW.md for the generation prompt</div>
 	</AbsoluteFill>
 );

@@ -2,16 +2,17 @@
   "name": "isaiah-51-12-who-are-you-afraid-of",
   "version": "1.0.0",
   "private": true,
-  "description": "Isaiah 51:12 — Who Are You Afraid Of? A 120-second cinematic short film built with Remotion.",
+  "description": "Isaiah 51:12 \u2014 Who Are You Afraid Of? A 120-second cinematic short film built with Remotion.",
   "scripts": {
     "dev": "remotion studio",
     "check": "tsx scripts/verify.ts",
     "typecheck": "tsc --noEmit",
-    "render": "npm run check && remotion render WhoAreYouAfraidOf out/who-are-you-afraid-of.mp4 --codec=h264 --crf=16 --audio-bitrate=320k",
+    "render": "npm run check && tsx scripts/asset-status.ts --strict && remotion render WhoAreYouAfraidOf out/who-are-you-afraid-of.mp4 --codec=h264 --crf=16 --audio-bitrate=320k",
     "render:draft": "remotion render WhoAreYouAfraidOf out/draft.mp4 --codec=h264 --scale=0.5",
     "still": "remotion still WhoAreYouAfraidOf out/still.png --frame=2700",
     "srt": "tsx scripts/export-srt.ts",
-    "script": "tsx scripts/export-script.ts"
+    "script": "tsx scripts/export-script.ts",
+    "assets": "tsx scripts/asset-status.ts"
   },
   "dependencies": {
     "@remotion/cli": "4.0.300",

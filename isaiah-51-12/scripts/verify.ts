@@ -67,7 +67,7 @@ ok(`${SFX.length} sound-effect placements within the film`);
 const missing = ALL_ASSETS.filter((a) => !existsSync(join('public', a)));
 console.log(`\nMedia: ${ALL_ASSETS.length - missing.length}/${ALL_ASSETS.length} present in public/`);
 if (missing.length) {
-	console.log('Missing (generate with ASSET_PLAN.md; rendering shows labeled slates / silence until added):');
+	console.log('Missing (generate with PRODUCTION_WORKFLOW.md; rendering shows labeled slates / silence until added):');
 	missing.forEach((m) => console.log(`  - public/${m}`));
 }
 
