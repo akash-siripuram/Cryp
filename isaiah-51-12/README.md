@@ -1,0 +1,130 @@
+# Isaiah 51:12 — *Who Are You Afraid Of?*
+
+A 120-second cinematic Christian short film, built with **Remotion (React)**: 1920×1080, 30 fps, 3,600 frames, presented in a 2.39:1 anamorphic letterbox.
+
+> "I, even I, am he who comforts you. Who are you that you fear mere mortals, human beings who are but grass?" — Isaiah 51:12 (NIV)
+
+---
+
+## Director's treatment
+
+**Logline.** A text from his manager sends Daniel into a sleepless night of fear. In one night and one morning, he learns that the voices he fears are as temporary as grass, and that the God who comforts him is not.
+
+**Approach.** It plays as a short film, not a verse video. For the first 85 seconds there's no scripture on screen, only a story the audience recognizes in themselves: a message that ruins a night, criticism, cruel texts, a mirror. When the verse finally appears, it lands as the answer to everything they just felt.
+
+**Structure (the emotional curve).**
+
+| Time | Scene | Emotional beat | Look |
+|---|---|---|---|
+| 0:00–0:12 | 1. The Hook | Instant recognition: *"We need to talk tomorrow."* | Cold blue, near-dark, desaturated |
+| 0:12–0:35 | 2. The Fear of People | "That's me": three different people, one fear | Cold, oppressive, low-key |
+| 0:35–0:55 | 3. The Realization | Perspective: people are grass | Neon night → open field → seasons |
+| 0:55–1:25 | 4. God Speaks | The turn: light breaks through | Dawn, first warmth, gold |
+| 1:25–1:45 | 5. The Scripture | The answer | Golden morning light on the Word |
+| 1:45–2:00 | 6. Final Impact | Courage and peace | Full golden sunrise, then black |
+
+**Visual rules.**
+- One protagonist, **Daniel**, kept consistent through a written character bible plus a reference image used for every generation (see `ASSET_PLAN.md`).
+- God is **never** depicted. His presence comes through light, wind, the opening clouds, and the change in Daniel's face.
+- A single film-wide color grade (`ColorGrade.tsx`) moves continuously from cold blue at 0 s to gold at 120 s, so every shot belongs to the same film.
+- Restraint over effects: dissolves only where time or emotion passes, hard cuts for tension, no flashy transitions, subtle 35 mm grain.
+- Phone messages are composited by Remotion so they stay sharp. AI video can't render legible text.
+- Subtitles stay off during the scripture; the verse itself is the on-screen text.
+
+**Sound.** The score is written to a cue sheet that follows the curve (dark piano and heartbeat → build → warm orchestra → restrained scripture bed → climax → silence). Narration ducks the music automatically, and 17 sound-effect beds and spot effects place the viewer inside each room.
+
+---
+
+## Project structure
+
+```
+isaiah-51-12/
+├── package.json             # Remotion 4 + scripts
+├── remotion.config.ts       # Render settings (JPEG 95, yuv420p)
+├── tsconfig.json
+├── ASSET_PLAN.md            # Every media file: filename, AI prompt, camera, lighting, SFX, min length
+├── VOICEOVER_SCRIPT.md      # Narration with exact timestamps + direction (generated)
+├── public/                  # Put generated media here (exact filenames from ASSET_PLAN.md)
+│   ├── footage/             # 24 × .mp4
+│   ├── vo/                  # 22 × vo01.mp3 … vo22.mp3
+│   ├── music/score.mp3
+│   └── sfx/                 # 17 × .mp3
+├── scripts/
+│   ├── verify.ts            # Duration, coverage, overlaps, asset presence, footage length
+│   ├── export-srt.ts        # out/subtitles.srt
+│   └── export-script.ts     # VOICEOVER_SCRIPT.md
+└── src/
+    ├── index.ts             # registerRoot
+    ├── Root.tsx             # <Composition id="WhoAreYouAfraidOf"> 3600 frames @ 30 fps
+    ├── Film.tsx             # Master: scenes → grade → grain → letterbox → subtitles → audio
+    ├── timeline.ts          # ★ Single source of truth: shots, VO cues, SFX, music levels, titles
+    ├── sceneTime.tsx        # SceneSequence / At / useGlobalFrame helpers
+    ├── assets.ts            # Detects which files exist in public/
+    ├── fonts.ts             # Cormorant Garamond (scripture), Inter (UI/subtitles)
+    ├── scenes/Scenes.tsx    # Scene1Hook … Scene6FinalImpact
+    └── components/
+        ├── ShotLayer.tsx        # Footage + dissolve + virtual camera move (push/pull/drift/rise)
+        ├── ColorGrade.tsx       # Cold → golden grade keyframes, tint, vignette
+        ├── FilmGrain.tsx        # Animated 35 mm grain
+        ├── Letterbox.tsx        # 2.39:1 bars
+        ├── Subtitles.tsx        # Word-by-word spring subtitles
+        ├── PhoneNotification.tsx# Composited message banners
+        ├── Verse.tsx            # Phrase-by-phrase scripture typography
+        ├── TitleCard.tsx        # Hook title + end card + fade to black
+        ├── Soundtrack.tsx       # Score with VO ducking, VO clips, looping SFX with fades
+        └── MissingAsset.tsx     # Labeled slate for footage not yet generated
+```
+
+To re-time anything, edit `src/timeline.ts` and run `npm run check`. Every component reads from it.
+
+---
+
+## Install and run
+
+Requirements: Node.js 18+ (tested on Node 22).
+
+```bash
+cd isaiah-51-12
+npm install
+npm run dev          # opens Remotion Studio to preview and scrub the film
+```
+
+The project runs and renders right away. Missing footage shows as labeled "FOOTAGE NOT YET GENERATED" slates and missing audio is silent, so you can watch the edit, titles, subtitles and grade before generating any media.
+
+## Producing the media
+
+1. Read **`ASSET_PLAN.md`**. Generate the Daniel reference portrait first, then all 24 shots, using image-to-video with that reference for every Daniel shot.
+2. Record or generate the 22 narration clips from **`VOICEOVER_SCRIPT.md`**.
+3. Produce `music/score.mp3` against the cue sheet, and source the 17 SFX files.
+4. Drop everything into `public/` with the **exact filenames**, then run:
+
+```bash
+npm run check        # lists anything missing; fails if a clip is too short for its shot
+```
+
+If a phone screen in `s1_02` / `s6_01` isn't centered, adjust the `anchor` prop on `<PhoneNotification>` in `src/scenes/Scenes.tsx`.
+
+## Render the final MP4
+
+```bash
+npm run render       # verifies, then renders out/who-are-you-afraid-of.mp4 (H.264, CRF 16, 320k AAC)
+npm run render:draft # fast half-resolution preview
+npm run srt          # out/subtitles.srt for YouTube/Vimeo closed captions
+npm run still        # out/still.png at frame 2700 (Scene 5)
+```
+
+`npm run check -- --strict` fails if any media file is missing. Use it before the final delivery render.
+
+If Remotion can't download its headless browser on your machine, pass an installed Chrome:
+`npx remotion render WhoAreYouAfraidOf out/film.mp4 --browser-executable=/path/to/chrome`.
+
+## Verification (run before delivery)
+
+`npm run check` verifies:
+- total length is exactly **120 s = 3,600 frames at 30 fps**
+- scenes are contiguous and every frame has picture (the 10–12 s black title card is intentional)
+- shots are ordered, inside their scenes, with valid dissolves
+- no two narration cues or subtitles overlap, and every cue sits inside its scene
+- scripture text appears no later than its narration
+- every expected media path is listed, with missing ones reported
+- each footage file is long enough for its shot (via `ffprobe`, when installed)
