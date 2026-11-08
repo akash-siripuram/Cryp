@@ -1,0 +1,5 @@
+.env
+positions.json
+pending.json
+*.csv
+__pycache__/
